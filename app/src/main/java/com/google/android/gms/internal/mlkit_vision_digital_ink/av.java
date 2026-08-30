@@ -1,4 +1,7 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g3.a;
+import q.x;
+import x.n;
 
 /* loaded from: classes.dex */
 public enum av {

@@ -1,4 +1,9 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import q.x;
+import r0.t;
+import r6.e;
+import r9.a;
+import x.o;
 
 import com.google.android.gms.internal.ads.rm1;
 import com.google.android.gms.internal.ads.wd0;

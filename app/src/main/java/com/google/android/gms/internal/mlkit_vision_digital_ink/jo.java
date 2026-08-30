@@ -1,4 +1,13 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g5.q;
+import p.a;
+import q.k;
+import q.x;
+import ra.e;
+import vd.n;
+import x.m;
+import x.n;
+import x.o;
 
 import androidx.ink.brush.color.colorspace.ColorSpace;
 import com.google.android.gms.internal.ads.rm1;

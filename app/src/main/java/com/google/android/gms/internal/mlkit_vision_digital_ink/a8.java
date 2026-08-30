@@ -1,4 +1,6 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import ab.b;
+import b.c;
 
 /* loaded from: classes.dex */
 public abstract class a8 {

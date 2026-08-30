@@ -1,4 +1,9 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import b4.b;
+import e0.a;
+import p.a;
+import q.x;
+import x.n;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

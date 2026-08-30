@@ -1,4 +1,8 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g5.q;
+import p.a;
+import q.h;
+import w7.i1;
 
 import com.google.android.gms.internal.ads.y81;
 import java.util.concurrent.Executor;

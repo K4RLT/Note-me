@@ -1,4 +1,17 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import c1.a;
+import de.f;
+import de.k;
+import f.c;
+import mc.c;
+import va.n;
+import va.p;
+import wa.ga;
+import wa.ia;
+import wa.ja;
+import ya.mf;
+import ya.nf;
+import ya.pf;
 
 /* loaded from: classes.dex */
 public final class ql extends c1.a {

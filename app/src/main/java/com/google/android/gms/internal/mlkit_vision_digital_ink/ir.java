@@ -1,4 +1,12 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import a7.k;
+import ig.l;
+import ig.p;
+import ig.q;
+import ig.r;
+import ig.w;
+import q.x;
+import x.n;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

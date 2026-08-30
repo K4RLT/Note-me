@@ -1,4 +1,12 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import ba.j;
+import q1.b;
+import r0.b;
+import r0.i;
+import r2.g;
+import r2.h;
+import r2.i;
+import r3.l;
 
 import android.os.SystemClock;
 import java.util.concurrent.Executors;

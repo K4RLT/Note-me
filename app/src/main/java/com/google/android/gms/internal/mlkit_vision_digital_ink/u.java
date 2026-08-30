@@ -1,4 +1,7 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import e0.a;
+import f7.c;
+import pa.e;
 
 import android.net.Uri;
 import android.os.ParcelFileDescriptor;

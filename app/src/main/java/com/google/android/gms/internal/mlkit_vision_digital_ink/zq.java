@@ -1,4 +1,11 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import a4.b;
+import f4.h;
+import ig.l;
+import sg.f;
+import sg.g;
+import sg.m;
+import sg.v;
 
 /* loaded from: classes.dex */
 public final class zq extends er {

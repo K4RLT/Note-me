@@ -1,4 +1,27 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import b.c;
+import f4.h;
+import g3.a;
+import g5.q;
+import ig.k;
+import ig.l;
+import ig.n;
+import ig.p;
+import ig.q;
+import ig.t;
+import ig.u;
+import ig.w;
+import jg.b;
+import l.a;
+import l.b;
+import nd.o;
+import p.a;
+import pg.h;
+import q.h;
+import q.x;
+import sg.f;
+import x.n;
+import x.o;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

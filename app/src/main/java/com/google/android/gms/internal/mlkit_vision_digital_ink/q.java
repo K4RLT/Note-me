@@ -1,4 +1,9 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import c2.z1;
+import s.b;
+import s.c;
+import z1.e;
+import z1.g;
 
 import android.app.blob.BlobHandle;
 import android.app.blob.BlobStoreManager;

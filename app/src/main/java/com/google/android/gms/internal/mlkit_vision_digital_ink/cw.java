@@ -1,4 +1,7 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import a5.a;
+import g5.q;
+import q.h;
 
 /* loaded from: classes.dex */
 public final class cw {

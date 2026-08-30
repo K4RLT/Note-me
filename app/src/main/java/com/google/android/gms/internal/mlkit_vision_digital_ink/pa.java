@@ -1,4 +1,14 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import c7.f0;
+import g3.a;
+import g5.q;
+import q.h;
+import q.x;
+import x.l;
+import x.m;
+import x.n;
+import x.o;
+import x.p;
 
 import android.content.Context;
 import androidx.ink.brush.color.colorspace.ColorSpace;

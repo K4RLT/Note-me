@@ -1,4 +1,8 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g3.a;
+import q.x;
+import qc.h1;
+import x.o;
 
 import java.io.Serializable;
 

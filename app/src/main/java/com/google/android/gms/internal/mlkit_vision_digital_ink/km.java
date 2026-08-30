@@ -1,4 +1,9 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g3.a;
+import g5.q;
+import l4.a;
+import p.a;
+import q.h;
 
 import com.google.android.gms.internal.ads.wd0;
 import java.io.IOException;

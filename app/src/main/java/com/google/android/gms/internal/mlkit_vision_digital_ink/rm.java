@@ -1,4 +1,6 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g3.a;
+import w7.i1;
 
 /* loaded from: classes.dex */
 public final class rm extends sm {

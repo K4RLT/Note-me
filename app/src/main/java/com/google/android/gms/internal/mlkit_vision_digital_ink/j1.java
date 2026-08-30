@@ -1,4 +1,10 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g3.a;
+import g5.q;
+import g9.n;
+import p.a;
+import q.f;
+import w7.i1;
 
 import com.google.android.gms.internal.ads.ou1;
 import java.util.concurrent.atomic.AtomicLong;

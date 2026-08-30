@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import k7.e;
 
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.atomic.AtomicReference;

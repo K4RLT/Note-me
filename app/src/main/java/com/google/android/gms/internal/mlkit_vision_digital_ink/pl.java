@@ -1,4 +1,16 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import gd.b;
+import ic.n;
+import k8.a;
+import k8.c;
+import k8.d;
+import l4.a;
+import l8.a;
+import n8.o;
+import n8.p;
+import n8.q;
+import q.a;
+import q.b;
 
 import android.content.Context;
 

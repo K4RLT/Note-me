@@ -1,4 +1,9 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import q.x;
+import r0.a;
+import r0.c;
+import vd.n;
+import x.n;
 
 import java.nio.charset.Charset;
 import java.util.Collections;

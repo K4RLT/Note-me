@@ -1,4 +1,8 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import sg.b;
+import sg.c;
+import sg.f;
+import sg.m;
 
 import com.google.android.gms.internal.ads.is0;
 

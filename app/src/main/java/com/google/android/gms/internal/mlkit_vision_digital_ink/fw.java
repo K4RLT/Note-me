@@ -1,4 +1,14 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import b2.f1;
+import g5.q;
+import g9.n;
+import i0.m;
+import j6.c;
+import j6.e;
+import j6.l;
+import pa.f;
+import q.b;
+import ra.e;
 
 import android.content.Context;
 import com.google.android.gms.internal.ads.i60;

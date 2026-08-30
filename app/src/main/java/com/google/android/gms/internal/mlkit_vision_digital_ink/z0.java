@@ -1,4 +1,6 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import i0.a;
+import q1.b;
 
 import android.net.Uri;
 import java.io.FileNotFoundException;

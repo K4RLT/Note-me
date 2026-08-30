@@ -1,4 +1,7 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import oc.w;
+import q1.b;
+import ra.e;
 
 import android.content.Context;
 import android.net.Uri;

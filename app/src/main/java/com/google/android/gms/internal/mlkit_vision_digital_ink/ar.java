@@ -1,4 +1,10 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import a4.b;
+import ig.n;
+import ig.o;
+import ig.w;
+import lg.b;
+import mg.e;
 
 import java.io.InterruptedIOException;
 import java.net.HttpURLConnection;

@@ -1,4 +1,10 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import af.c;
+import e0.a;
+import f7.c;
+import q.x;
+import tc.c;
+import x.p;
 
 import android.content.Context;
 import android.net.Uri;

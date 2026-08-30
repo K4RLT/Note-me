@@ -1,4 +1,7 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import q.x;
+import sg.g;
+import x.p;
 
 import java.io.InterruptedIOException;
 import java.io.OutputStream;

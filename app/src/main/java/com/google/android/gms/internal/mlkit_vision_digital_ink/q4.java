@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import l4.a;
 
 /* loaded from: classes.dex */
 public final class q4 extends k5 {

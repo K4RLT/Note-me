@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import s.b;
 
 import android.net.Uri;
 import android.text.TextUtils;

@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import q1.b;
 
 /* loaded from: classes.dex */
 public final /* synthetic */ class su implements ea {

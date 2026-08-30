@@ -1,4 +1,12 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import c.a;
+import d.d;
+import de.c;
+import de.e;
+import de.k;
+import e5.f;
+import ib.o;
+import pa.d;
 
 import android.content.Context;
 import java.util.HashMap;

@@ -1,4 +1,8 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g9.v1;
+import ra.a;
+import ra.b;
+import ra.e;
 
 import android.content.Context;
 import android.content.Intent;

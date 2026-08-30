@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.ads;
+import ig.c;
 
 import android.app.Activity;
 import android.app.Application;

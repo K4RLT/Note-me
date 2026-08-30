@@ -1,4 +1,8 @@
 package com.google.android.gms.internal.mlkit_vision_digital_ink;
+import g5.q;
+import q.h;
+import q.x;
+import x.o;
 
 import android.net.Uri;
 
