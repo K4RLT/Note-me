@@ -1,0 +1,6 @@
+package com.google.android.gms.internal.ads;
+
+/* loaded from: classes.dex */
+public interface pn0 {
+    void l(Object obj);
+}
