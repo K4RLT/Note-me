@@ -1,0 +1,74 @@
+package com.google.android.gms.internal.ads;
+import q0.d;
+
+/* loaded from: classes.dex */
+public final class jp1 extends dn1 {
+    private static final jp1 zzd;
+    private static volatile fo1 zze;
+    private int zza;
+    private long zzb;
+    private long zzc;
+
+    /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.dn1, com.google.android.gms.internal.ads.jp1] */
+    static {
+        dn1 dn1Var = new dn1();
+        zzd = dn1Var;
+        dn1.t(jp1.class, dn1Var);
+    }
+
+    public static ip1 z() {
+        return (ip1) zzd.q();
+    }
+
+    public final /* synthetic */ void A(int i) {
+        this.zza = i;
+    }
+
+    public final /* synthetic */ void B(long j10) {
+        this.zzb = j10;
+    }
+
+    public final /* synthetic */ void C(long j10) {
+        this.zzc = j10;
+    }
+
+    @Override // com.google.android.gms.internal.ads.dn1
+    public final Object v(int i, dn1 dn1Var) {
+        fo1 fo1Var;
+        int b10 = d.b(i);
+        if (b10 != 0) {
+            if (b10 != 2) {
+                if (b10 != 3) {
+                    if (b10 != 4) {
+                        if (b10 != 5) {
+                            if (b10 == 6) {
+                                fo1 fo1Var2 = zze;
+                                if (fo1Var2 == null) {
+                                    synchronized (jp1.class) {
+                                        try {
+                                            fo1Var = zze;
+                                            if (fo1Var == null) {
+                                                fo1Var = new cn1(zzd);
+                                                zze = fo1Var;
+                                            }
+                                        } catch (Throwable th) {
+                                            throw th;
+                                        }
+                                    }
+                                    return fo1Var;
+                                }
+                                return fo1Var2;
+                            }
+                            throw null;
+                        }
+                        return zzd;
+                    }
+                    return new bn1(zzd);
+                }
+                return new dn1();
+            }
+            return new jo1(zzd, "\u0000\u0003\u0000\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0004\u0002\u0002\u0003\u0002", new Object[]{"zza", "zzb", "zzc"});
+        }
+        return (byte) 1;
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.daren.scraply.app-mergeDebugResources-65:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/Yiran/Documents/Note-me/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "93",
+                        "endOffsets": "144"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "92",
+                        "endOffsets": "143"
+                    }
+                },
+                {
+                    "source": "/home/Yiran/.gradle/caches/8.9/transforms/489845b00790d3a07cda5718939d5928/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "148,218,302,386,482,584,686,780",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "213,297,381,477,579,681,775,864"
+                    }
+                }
+            ]
+        }
+    ]
+}

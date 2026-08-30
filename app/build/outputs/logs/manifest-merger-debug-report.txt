@@ -1,0 +1,1477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:55-246:12
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:55-246:12
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:55-246:12
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:55-246:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/c6a1ebbb3dba7ba4b1457d438b3ff8df/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/489845b00790d3a07cda5718939d5928/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/Yiran/.gradle/caches/8.9/transforms/06d7e4f84ff9b21f1de53b2bf116b4e2/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /home/Yiran/.gradle/caches/8.9/transforms/22ba458036c7d6a0cc54fa6adc1dbda1/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/Yiran/.gradle/caches/8.9/transforms/62ee38e3d59aa4f76919067cc26bd129/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f3e2ecf2208bc424026d9cc3a9ee74ff/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f76c7702454d2c88e1c3661d426f24dc/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/c24aa1b2e9e3f448f55f5b16eb60defd/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/16583b1525232c1dce5e297081355afb/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/5968016c6c8b50bd906adb9e52aa84e0/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/a18851e1c11beb60ef098fc7100fbdd3/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/22f7971bf0dd1d7c77325177cc6a58f2/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/4f2a7355de8eb7ee786f1b26ba13c125/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/485fd70dae5926e63e1616b727d1895a/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/97a2c034325b1dcfd6188c752fbc179f/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-nativeloader-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/2851ee6e4ef2998eb4d5fe2261bee00c/transformed/ink-nativeloader/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-strokes-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/e247a1b0be4cb5a6f8467a9a485606f2/transformed/ink-strokes/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-brush-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/d90c090d31d8dfadc5c61a09bb9727be/transformed/ink-brush/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-geometry-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8c75aaca844ed1a003110a44a3aab02b/transformed/ink-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-rendering-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/53df44b7209d4eb35df5f962c0112ea9/transformed/ink-rendering/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.ink:ink-authoring-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8855f8a781c875a3bfea1b3310045222/transformed/ink-authoring/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/7311b52fc220a025f879481e05b8d5c4/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/d4bc1fa70c5129345f5c50a609f979c1/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/163a324e0fa3d4037c06c12d77121be5/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/Yiran/.gradle/caches/8.9/transforms/3568a9544e582e976476029a5e0633cb/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/52af17f6e7763b700128c7c27f3989a6/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/c0d92ed99f9baba15680284eb8d6768c/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/b49d18b1c43d986686186db8c046d213/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7901763cd7487baec97c8191a947e043/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/045ed8dfd674c6f9bc94bc2c419e3010/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/07bc6e1231ff02aaf698917666be256a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/5e5440095edaac4e2e307dae4f5e4801/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ceeaed5cfe69fe23037ffdb91f3f09c0/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/9537e46fc78e3354ce4c6b1a8fc34124/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/b65d55bc867e43a017ce829dc578cbdd/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/d9d97709e703845c9fce325bf678a215/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/8029d4aeb804a82b139c04d64ba7d798/transformed/savedstate-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/ec858379c109f6c2e6dc0f745dda14a6/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/3eced30624d51c0c995158376737f56f/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/8cac713834e802b9f8298f54b4481460/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/783473b8b950ad02614cfecdfa1ece36/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/218370c4be24856785480b2a3f047eda/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b049be52cbeba125c96ec78056265191/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d27dd4d60790e159a3fba3deee6d906a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d7107f8a0d435af383085ec50a624d8a/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/a92c4607c2440785cbacb0a446946f9a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/2dd1ce86dd67622dd10a47c91fae050f/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/c8f84297c6933dff5cb2f1a8095ba8f2/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/808b09c0796bffd436f4153551bd5409/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a6fd541721efa0a9fc69fb41ff6b0db9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/487ff47712dac543d6a603e27715e1e0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/754b60cdc3f76ac5afaf6c72d4ce224f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/43f26cd611fc760fc4a41672afc13ecc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/527c78ab5140a1a7d14ae77411c1b725/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a9982cc8bc35803c5b69cb18e3733690/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-core:1.0.4] /home/Yiran/.gradle/caches/8.9/transforms/0b5684cda60f8eade732b00bd0666e5e/transformed/graphics-core-1.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.input:input-motionprediction:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7a5e533f2d06a41651f4bbdcfff8f4e0/transformed/input-motionprediction-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/ad6352cfbf935309a96abf201be89731/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/5a38085c35f9d50c892171ff5369a559/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/bd31744d96fa0f01f5bc6cf37912d650/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/1703551e8a593145dff064a58ded581c/transformed/room-ktx-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.filament:filament-utils-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/e8f74c6c86fd811f9d6f7950595cef46/transformed/filament-utils-android-1.53.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/46e102ee725856460dd70ecad9bdbd0d/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b853939c6798edbb26bae289b731362e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /home/Yiran/.gradle/caches/8.9/transforms/c749701ec5c55375ab83405afaa70f30/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/091a12b35c3b93711cd5c0e804e1832a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.filament:gltfio-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/381ab3ebc4ef2bfa9c5505a9392be208/transformed/gltfio-android-1.53.4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.filament:filament-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/dee62572bd241efe5b6b4102d8b5b78a/transformed/filament-android-1.53.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/39235d5426a3cd20470e11477da38074/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/Yiran/.gradle/caches/8.9/transforms/9f90066e1bf8e8c9c7489d7bf1275b42/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/4e480fa992d8ff5bc100b899ed4831a9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/Yiran/.gradle/caches/8.9/transforms/2fbeb246bac490cc41f775c8c0c94e4f/transformed/transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/Yiran/.gradle/caches/8.9/transforms/22cb8d97aeeeee004fd6e92bd717a28e/transformed/firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/Yiran/.gradle/caches/8.9/transforms/7b2bfe51207dbb33a5e019eb555bc946/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/Yiran/.gradle/caches/8.9/transforms/4982b9790bb3724b123ad049c27319a7/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/080d5544dba9ea66b64b04d99058ed21/transformed/sqlite-framework/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/f8be33b357de97423d6352a11c2f6c86/transformed/sqlite/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/Yiran/.gradle/caches/8.9/transforms/da9a9ec60a7e6f00d14c719c335dc7ca/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:316-343
+		INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+	android:requiredSplitTypes
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:241-293
+	android:compileSdkVersionCodename
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:202-240
+	android:versionName
+		INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:65-111
+	android:splitTypes
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:294-315
+	android:compileSdkVersion
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:171-201
+	android:versionCode
+		INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:112-170
+	platformBuildVersionName
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:374-403
+	platformBuildVersionCode
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:1:344-373
+uses-permission#android.permission.INTERNET
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:2:5-66
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:9:5-67
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:9:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:2:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:3:5-78
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:8:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:16:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:16:5-79
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:5:5-76
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:26:5-77
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:5-106
+	android:maxSdkVersion
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:22-48
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:49-104
+queries
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:8:5-38:15
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:11:5-13:15
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:11:5-13:15
+provider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:9:9-71
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:9:19-69
+intent#action:name:com.android.vending.billing.InAppBillingService.BIND
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:10:9-12:18
+action#com.android.vending.billing.InAppBillingService.BIND
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:11:21-88
+intent#action:name:com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:13:9-15:18
+action#com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:14:13-115
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:14:21-113
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:16:9-20:18
+action#android.intent.action.VIEW
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+category#android.intent.category.BROWSABLE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+data
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+	android:path
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:34:19-38
+	android:host
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+	android:scheme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+	android:pathPattern
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:63:23-55
+	android:mimeType
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:26:19-66
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:21:9-23:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:22:13-89
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:22:21-87
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.dir/event
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:24:9-27:18
+action#android.intent.action.INSERT
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:25:21-64
+intent#action:name:android.intent.action.VIEW+data:scheme:sms
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:28:9-31:18
+intent#action:name:android.intent.action.DIAL+data:path:tel:
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:32:9-35:18
+action#android.intent.action.DIAL
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:33:21-62
+package#com.android.vending
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:36:18-52
+package#com.facebook.katana
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:37:9-54
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:12:9-55
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:37:18-52
+uses-permission#com.android.vending.BILLING
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:39:5-66
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:39:22-64
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:40:5-78
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:17:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:41:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:42:5-87
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:42:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:43:22-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:44:5-67
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:44:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:45:5-81
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:45:22-79
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:46:5-86
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:46:22-84
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:47:5-109
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:47:22-107
+permission#com.daren.scraply.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:5-128
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:91-126
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:17-90
+uses-permission#com.daren.scraply.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:49:5-97
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:49:22-95
+application
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:5-244:19
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:19:5-30:19
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:19:5-30:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/Yiran/.gradle/caches/8.9/transforms/3568a9544e582e976476029a5e0633cb/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/Yiran/.gradle/caches/8.9/transforms/3568a9544e582e976476029a5e0633cb/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/091a12b35c3b93711cd5c0e804e1832a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/091a12b35c3b93711cd5c0e804e1832a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+	android:extractNativeLibs
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:171-204
+	android:supportsRtl
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:440-466
+	android:label
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:286-318
+	android:appComponentFactory
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:45-113
+	android:fullBackupContent
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:205-250
+	android:roundIcon
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:394-439
+	android:largeHeap
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:319-343
+	android:icon
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:251-285
+	android:allowBackup
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:18-44
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:467-503
+	android:dataExtractionRules
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:114-170
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:344-393
+activity#com.daren.scraply.MainActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:9-93:20
+	android:label
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:137-169
+	android:launchMode
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:170-201
+	android:windowSoftInputMode
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:292-335
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:113-136
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:19-112
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:248-291
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:202-247
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:54:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\.scrap+data:scheme:content+data:scheme:file
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:56:13-65:29
+category#android.intent.category.DEFAULT
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:27-73
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:gallery+data:host:notebook+data:host:open+data:host:rate+data:host:settings+data:host:support+data:host:tipjar+data:scheme:scraply+data:scheme:scraply+data:scheme:scraply+data:scheme:scraply+data:scheme:scraply+data:scheme:scraply+data:scheme:scraply
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:66:13-77:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/zip+data:scheme:content
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:78:13-84:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/octet-stream+data:pathPattern:.*\\.scrap+data:scheme:content
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:85:13-92:29
+service#com.daren.scraply.notify.ScraplyMessagingService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:9-98:19
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:18-42
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:43-106
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:95:13-97:29
+	android:priority
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:180:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:25-75
+service#com.daren.scraply.ui.canvas.CameraKeepAliveService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:9-143
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:18-42
+	android:foregroundServiceType
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:43-75
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:76-141
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:9-137
+	android:resource
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:91-135
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:20-90
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:9-139
+	android:resource
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:92-137
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:20-91
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:9-131
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:97-129
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:20-96
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:9-133
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:77-131
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:20-76
+meta-data#com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:9-113
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:91-111
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:20-90
+meta-data#com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:9-109
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:87-107
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:20-86
+provider#androidx.core.content.FileProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:9-108:20
+	android:grantUriPermissions
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:97-131
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:19-71
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:72-96
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:132-181
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:13-111
+	android:resource
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:75-109
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:24-74
+meta-data#com.google.android.play.billingclient.version
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:9-104
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:81-102
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:20-80
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:9-255
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:103-127
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:19-102
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:194-253
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:128-193
+activity#com.android.billingclient.api.ProxyBillingActivityV2
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:9-257
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:103-127
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:19-102
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:196-255
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:128-195
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:9-117:19
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:49-73
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:18-48
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:74-152
+meta-data#com.google.firebase.components:com.google.mlkit.vision.digitalink.recognition.internal.DigitalInkRecognitionRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:13-224
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:157-222
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:24-156
+meta-data#com.google.firebase.components:com.google.mlkit.vision.segmentation.subject.internal.SubjectSegmentationRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:13-220
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:153-218
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:24-152
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:13-199
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:132-197
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:24-131
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:13-195
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:20:13-22:85
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:128-193
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:24-127
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:9-339
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:173-197
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:19-128
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:289-337
+	android:enableOnBackInvokedCallback
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:129-172
+	tools:replace
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:251-288
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:198-250
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:9-195
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:19-80
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:81-105
+	android:initOrder
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:106-129
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:130-193
+service#com.google.android.gms.ads.AdService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:9-119
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:18-40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:41-65
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:66-117
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:9-263
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:129-153
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:19-128
+	tools:replace
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:224-261
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:154-223
+activity#com.google.android.gms.ads.NotificationHandlerActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:9-265
+	android:excludeFromRecents
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:19-52
+	android:launchMode
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:78-109
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:53-77
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:204-263
+	android:taskAffinity
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:180-203
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:110-179
+provider#androidx.startup.InitializationProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:9-128:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:19-75
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:76-100
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:101-155
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:13-110
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:34:13-36:52
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:76-108
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:24-75
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:13-117
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:83-115
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:24-82
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:13-120
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:86-118
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:24-85
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:13-127
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:93-125
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:24-92
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:9-212
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:39:9-45:35
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:50-109
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:110-134
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:18-49
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:135-210
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:9-262
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:46:9-52:35
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:50-107
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:108-131
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:204-260
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:18-49
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:132-203
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:9-210
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:53:9-59:35
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:50-114
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:115-139
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:18-49
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:140-208
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:9-176
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:61:9-66:35
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:51-73
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:74-98
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:99-174
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:9-138:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:67:9-77:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:51-74
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:75-99
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:100-193
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:134:13-137:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:135:17-86
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:135:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:136:17-89
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:136:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:9-144:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:78:9-88:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:51-74
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:75-99
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:100-191
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:140:13-143:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:141:17-76
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:141:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:142:17-75
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:142:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:9-150:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:89:9-99:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:51-74
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:75-99
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:100-191
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:146:13-149:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:147:17-82
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:147:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:148:17-81
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:148:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:9-155:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:100:9-109:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:51-74
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:75-99
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:100-190
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:152:13-154:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:153:17-78
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:153:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:9-162:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:110:9-121:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:51-74
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:75-99
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:100-175
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:157:13-161:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:158:17-78
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:158:25-76
+action#android.intent.action.TIME_SET
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:159:17-72
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:159:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:160:17-80
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:160:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:9-167:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:122:9-131:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:51-110
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:111-135
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:136-222
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:164:13-166:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:165:17-97
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:165:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:9-172:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:132:9-142:20
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:51-73
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:74-97
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:164-208
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:98-163
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:169:13-171:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:170:17-87
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:170:25-85
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:9-178:20
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:19-42
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:109-169
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:43-108
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:174:13-176:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:175:17-80
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:175:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:13-122
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:100-120
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:24-99
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:9-183:19
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:49-73
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:18-48
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:74-143
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:9-199:19
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:49-73
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:18-48
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:74-145
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:13-197
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:130-195
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:24-129
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:13-194
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:127-192
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:24-126
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:13-203
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:136-201
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:24-135
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:13-192
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:125-190
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:24-124
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.FirebaseCrashlyticsKtxRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:13-201
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:134-199
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:24-133
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:13-190
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:123-188
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:24-122
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:13-214
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:147-212
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:24-146
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:13-192
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:125-190
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:24-124
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:13-205
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:138-203
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:24-137
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:13-202
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:135-200
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:24-134
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:13-191
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:124-189
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:24-123
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:13-184
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:117-182
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:24-116
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:13-184
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:117-182
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:24-116
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:13-190
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:123-188
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:24-122
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:9-192
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:9:9-13:38
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:19-76
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:77-101
+	android:initOrder
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:102-124
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:125-190
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:9-172
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:19-43
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:111-170
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:44-110
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:9-204:19
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:18-41
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:42-65
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:66-147
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:13-114
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:91-112
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:24-90
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:9-192
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:18-41
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:42-66
+	android:foregroundServiceType
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:67-107
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:108-190
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:9-152
+	android:resource
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:105-150
+	tools:replace
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:72-104
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:19-71
+service#com.google.firebase.sessions.SessionLifecycleService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:9-135
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:18-40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:41-65
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:66-133
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:9-226
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:19-79
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:111-135
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:80-110
+	android:initOrder
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:136-159
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:160-224
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:9-137
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:49-73
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:18-48
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:74-135
+activity#com.google.android.play.core.hsdp.service.HsdpShimActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:9-311
+	android:excludeFromRecents
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:94-127
+	android:launchMode
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:153-183
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:128-152
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:19-93
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:258-309
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:184-257
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:9-141
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:19-41
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:42-66
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:67-139
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:9-139
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:18-40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:41-65
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:66-137
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:9-199
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:18-40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:41-65
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:141-197
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:66-140
+uses-library#android.ext.adservices
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:9-87
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:61-85
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:23-60
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:9-293
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:20:9-24:75
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:20:9-24:75
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:113-137
+	android:configChanges
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:19-112
+		REJECTED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:22:13-106
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:232-291
+	tools:replace
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:194-231
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:138-193
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:9-179
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:26:9-29:40
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:26:9-29:40
+	android:authorities
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:19-89
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:90-114
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:115-177
+meta-data#com.google.android.gms.version
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:9-121
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:66-119
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:20-65
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:9-220:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:18-42
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:43-133
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:13-123
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:102-121
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:24-101
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:9-206
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:18-42
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:148-204
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:43-147
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:9-165
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:19-43
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:44-163
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:9-236:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:51-73
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:74-97
+	android:permission
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:162-206
+	android:directBootAware
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:19-50
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:98-161
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:224:13-226:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:225:17-90
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:225:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:227:13-229:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:228:17-84
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:228:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:230:13-232:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:231:17-87
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:231:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:233:13-235:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:234:17-94
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:234:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:9-206
+	android:stateNotNeeded
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:125-154
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:19-43
+	android:theme
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:155-204
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:44-124
+activity#com.pairip.licensecheck.LicenseActivity
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:9-100
+	android:exported
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:19-43
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:44-98
+meta-data#com.android.vending.splits.required
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:9-93
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:71-91
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:20-70
+meta-data#com.android.stamp.source
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:9-107
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:60-105
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:20-59
+meta-data#com.android.stamp.type
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:9-103
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:58-101
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:20-57
+meta-data#com.android.vending.splits
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:9-95
+	android:resource
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:62-93
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:20-61
+meta-data#com.android.vending.derived.apk.id
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:9-89
+	android:value
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:70-87
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:20-69
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:245:5-72
+	android:name
+		ADDED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:245:22-70
+uses-sdk
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/c6a1ebbb3dba7ba4b1457d438b3ff8df/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/c6a1ebbb3dba7ba4b1457d438b3ff8df/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/489845b00790d3a07cda5718939d5928/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/Yiran/.gradle/caches/8.9/transforms/489845b00790d3a07cda5718939d5928/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/Yiran/.gradle/caches/8.9/transforms/06d7e4f84ff9b21f1de53b2bf116b4e2/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/Yiran/.gradle/caches/8.9/transforms/06d7e4f84ff9b21f1de53b2bf116b4e2/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /home/Yiran/.gradle/caches/8.9/transforms/22ba458036c7d6a0cc54fa6adc1dbda1/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /home/Yiran/.gradle/caches/8.9/transforms/22ba458036c7d6a0cc54fa6adc1dbda1/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/Yiran/.gradle/caches/8.9/transforms/62ee38e3d59aa4f76919067cc26bd129/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/Yiran/.gradle/caches/8.9/transforms/62ee38e3d59aa4f76919067cc26bd129/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f3e2ecf2208bc424026d9cc3a9ee74ff/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f3e2ecf2208bc424026d9cc3a9ee74ff/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f76c7702454d2c88e1c3661d426f24dc/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/f76c7702454d2c88e1c3661d426f24dc/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/c24aa1b2e9e3f448f55f5b16eb60defd/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/c24aa1b2e9e3f448f55f5b16eb60defd/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/16583b1525232c1dce5e297081355afb/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /home/Yiran/.gradle/caches/8.9/transforms/16583b1525232c1dce5e297081355afb/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/5968016c6c8b50bd906adb9e52aa84e0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/5968016c6c8b50bd906adb9e52aa84e0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/a18851e1c11beb60ef098fc7100fbdd3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/a18851e1c11beb60ef098fc7100fbdd3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/22f7971bf0dd1d7c77325177cc6a58f2/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/22f7971bf0dd1d7c77325177cc6a58f2/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/4f2a7355de8eb7ee786f1b26ba13c125/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/4f2a7355de8eb7ee786f1b26ba13c125/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/485fd70dae5926e63e1616b727d1895a/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/485fd70dae5926e63e1616b727d1895a/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/97a2c034325b1dcfd6188c752fbc179f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/97a2c034325b1dcfd6188c752fbc179f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-nativeloader-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/2851ee6e4ef2998eb4d5fe2261bee00c/transformed/ink-nativeloader/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-nativeloader-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/2851ee6e4ef2998eb4d5fe2261bee00c/transformed/ink-nativeloader/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-strokes-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/e247a1b0be4cb5a6f8467a9a485606f2/transformed/ink-strokes/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-strokes-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/e247a1b0be4cb5a6f8467a9a485606f2/transformed/ink-strokes/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-brush-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/d90c090d31d8dfadc5c61a09bb9727be/transformed/ink-brush/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-brush-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/d90c090d31d8dfadc5c61a09bb9727be/transformed/ink-brush/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-geometry-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8c75aaca844ed1a003110a44a3aab02b/transformed/ink-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-geometry-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8c75aaca844ed1a003110a44a3aab02b/transformed/ink-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-rendering-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/53df44b7209d4eb35df5f962c0112ea9/transformed/ink-rendering/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-rendering-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/53df44b7209d4eb35df5f962c0112ea9/transformed/ink-rendering/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-authoring-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8855f8a781c875a3bfea1b3310045222/transformed/ink-authoring/AndroidManifest.xml:5:5-44
+MERGED from [androidx.ink:ink-authoring-android:1.1.0-alpha05] /home/Yiran/.gradle/caches/8.9/transforms/8855f8a781c875a3bfea1b3310045222/transformed/ink-authoring/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/7311b52fc220a025f879481e05b8d5c4/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/7311b52fc220a025f879481e05b8d5c4/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/d4bc1fa70c5129345f5c50a609f979c1/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/d4bc1fa70c5129345f5c50a609f979c1/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/163a324e0fa3d4037c06c12d77121be5/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/163a324e0fa3d4037c06c12d77121be5/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.6.0] /home/Yiran/.gradle/caches/8.9/transforms/c53d9e7885d38f66e1ef464c52808a5d/transformed/common-18.6.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/da3b5c1e7a3dbea6bd4e92d43a9055ac/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:6.18.0] /home/Yiran/.gradle/caches/8.9/transforms/559a96e14ea2f9701a9f9e6532a9fa66/transformed/audience-network-sdk-6.18.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/Yiran/.gradle/caches/8.9/transforms/3568a9544e582e976476029a5e0633cb/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/Yiran/.gradle/caches/8.9/transforms/3568a9544e582e976476029a5e0633cb/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/afa69c729dea1c285f57dde1c7d6a5ab/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/52af17f6e7763b700128c7c27f3989a6/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /home/Yiran/.gradle/caches/8.9/transforms/52af17f6e7763b700128c7c27f3989a6/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/c0d92ed99f9baba15680284eb8d6768c/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /home/Yiran/.gradle/caches/8.9/transforms/c0d92ed99f9baba15680284eb8d6768c/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/ca95da051520043bea2dcb99a23c02be/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/b49d18b1c43d986686186db8c046d213/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/Yiran/.gradle/caches/8.9/transforms/b49d18b1c43d986686186db8c046d213/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7901763cd7487baec97c8191a947e043/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7901763cd7487baec97c8191a947e043/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/045ed8dfd674c6f9bc94bc2c419e3010/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/045ed8dfd674c6f9bc94bc2c419e3010/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/c7411224f4404cc2997b2f576867bc92/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/676f10c417571fd9015303e66dadca74/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/07bc6e1231ff02aaf698917666be256a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/07bc6e1231ff02aaf698917666be256a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/5e5440095edaac4e2e307dae4f5e4801/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/5e5440095edaac4e2e307dae4f5e4801/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ceeaed5cfe69fe23037ffdb91f3f09c0/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ceeaed5cfe69fe23037ffdb91f3f09c0/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/9537e46fc78e3354ce4c6b1a8fc34124/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/9537e46fc78e3354ce4c6b1a8fc34124/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/b65d55bc867e43a017ce829dc578cbdd/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/b65d55bc867e43a017ce829dc578cbdd/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/d9d97709e703845c9fce325bf678a215/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0-alpha01] /home/Yiran/.gradle/caches/8.9/transforms/d9d97709e703845c9fce325bf678a215/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/8029d4aeb804a82b139c04d64ba7d798/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/8029d4aeb804a82b139c04d64ba7d798/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/ec858379c109f6c2e6dc0f745dda14a6/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/ec858379c109f6c2e6dc0f745dda14a6/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/3eced30624d51c0c995158376737f56f/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/Yiran/.gradle/caches/8.9/transforms/3eced30624d51c0c995158376737f56f/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/8cac713834e802b9f8298f54b4481460/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/8cac713834e802b9f8298f54b4481460/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/783473b8b950ad02614cfecdfa1ece36/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/783473b8b950ad02614cfecdfa1ece36/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/218370c4be24856785480b2a3f047eda/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/218370c4be24856785480b2a3f047eda/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b049be52cbeba125c96ec78056265191/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b049be52cbeba125c96ec78056265191/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d27dd4d60790e159a3fba3deee6d906a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d27dd4d60790e159a3fba3deee6d906a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d7107f8a0d435af383085ec50a624d8a/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/d7107f8a0d435af383085ec50a624d8a/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/a92c4607c2440785cbacb0a446946f9a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/a92c4607c2440785cbacb0a446946f9a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/2dd1ce86dd67622dd10a47c91fae050f/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/2dd1ce86dd67622dd10a47c91fae050f/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/c8f84297c6933dff5cb2f1a8095ba8f2/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/c8f84297c6933dff5cb2f1a8095ba8f2/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/808b09c0796bffd436f4153551bd5409/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/808b09c0796bffd436f4153551bd5409/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a6fd541721efa0a9fc69fb41ff6b0db9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a6fd541721efa0a9fc69fb41ff6b0db9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/487ff47712dac543d6a603e27715e1e0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/487ff47712dac543d6a603e27715e1e0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/754b60cdc3f76ac5afaf6c72d4ce224f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Yiran/.gradle/caches/8.9/transforms/754b60cdc3f76ac5afaf6c72d4ce224f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/43f26cd611fc760fc4a41672afc13ecc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/43f26cd611fc760fc4a41672afc13ecc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/527c78ab5140a1a7d14ae77411c1b725/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/527c78ab5140a1a7d14ae77411c1b725/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a9982cc8bc35803c5b69cb18e3733690/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/a9982cc8bc35803c5b69cb18e3733690/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-core:1.0.4] /home/Yiran/.gradle/caches/8.9/transforms/0b5684cda60f8eade732b00bd0666e5e/transformed/graphics-core-1.0.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-core:1.0.4] /home/Yiran/.gradle/caches/8.9/transforms/0b5684cda60f8eade732b00bd0666e5e/transformed/graphics-core-1.0.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.input:input-motionprediction:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7a5e533f2d06a41651f4bbdcfff8f4e0/transformed/input-motionprediction-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.input:input-motionprediction:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/7a5e533f2d06a41651f4bbdcfff8f4e0/transformed/input-motionprediction-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/ad6352cfbf935309a96abf201be89731/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/ad6352cfbf935309a96abf201be89731/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/5a38085c35f9d50c892171ff5369a559/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/Yiran/.gradle/caches/8.9/transforms/5a38085c35f9d50c892171ff5369a559/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/bd31744d96fa0f01f5bc6cf37912d650/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/bd31744d96fa0f01f5bc6cf37912d650/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/14c8c62c9765519273a53a9b19a0b1f1/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/1703551e8a593145dff064a58ded581c/transformed/room-ktx-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.8.4] /home/Yiran/.gradle/caches/8.9/transforms/1703551e8a593145dff064a58ded581c/transformed/room-ktx-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.filament:filament-utils-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/e8f74c6c86fd811f9d6f7950595cef46/transformed/filament-utils-android-1.53.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.filament:filament-utils-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/e8f74c6c86fd811f9d6f7950595cef46/transformed/filament-utils-android-1.53.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/46e102ee725856460dd70ecad9bdbd0d/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/46e102ee725856460dd70ecad9bdbd0d/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b853939c6798edbb26bae289b731362e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/b853939c6798edbb26bae289b731362e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /home/Yiran/.gradle/caches/8.9/transforms/c749701ec5c55375ab83405afaa70f30/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /home/Yiran/.gradle/caches/8.9/transforms/c749701ec5c55375ab83405afaa70f30/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/091a12b35c3b93711cd5c0e804e1832a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/091a12b35c3b93711cd5c0e804e1832a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.filament:gltfio-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/381ab3ebc4ef2bfa9c5505a9392be208/transformed/gltfio-android-1.53.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.filament:gltfio-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/381ab3ebc4ef2bfa9c5505a9392be208/transformed/gltfio-android-1.53.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.filament:filament-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/dee62572bd241efe5b6b4102d8b5b78a/transformed/filament-android-1.53.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.filament:filament-android:1.53.4] /home/Yiran/.gradle/caches/8.9/transforms/dee62572bd241efe5b6b4102d8b5b78a/transformed/filament-android-1.53.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/39235d5426a3cd20470e11477da38074/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/39235d5426a3cd20470e11477da38074/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/Yiran/.gradle/caches/8.9/transforms/a3e6fc33abf85923c530932371417503/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/Yiran/.gradle/caches/8.9/transforms/82503e5988fba3e061e50840e288d408/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/Yiran/.gradle/caches/8.9/transforms/9f90066e1bf8e8c9c7489d7bf1275b42/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/Yiran/.gradle/caches/8.9/transforms/9f90066e1bf8e8c9c7489d7bf1275b42/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/4e480fa992d8ff5bc100b899ed4831a9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Yiran/.gradle/caches/8.9/transforms/4e480fa992d8ff5bc100b899ed4831a9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/Yiran/.gradle/caches/8.9/transforms/6b21ee0c5dd6d6a2dc39b8a66454f2bf/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/Yiran/.gradle/caches/8.9/transforms/e72633d50e4efeda72587c3cb500e084/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/Yiran/.gradle/caches/8.9/transforms/2fbeb246bac490cc41f775c8c0c94e4f/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/Yiran/.gradle/caches/8.9/transforms/2fbeb246bac490cc41f775c8c0c94e4f/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/Yiran/.gradle/caches/8.9/transforms/22cb8d97aeeeee004fd6e92bd717a28e/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/Yiran/.gradle/caches/8.9/transforms/22cb8d97aeeeee004fd6e92bd717a28e/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/Yiran/.gradle/caches/8.9/transforms/7b2bfe51207dbb33a5e019eb555bc946/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/Yiran/.gradle/caches/8.9/transforms/7b2bfe51207dbb33a5e019eb555bc946/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/Yiran/.gradle/caches/8.9/transforms/4982b9790bb3724b123ad049c27319a7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/Yiran/.gradle/caches/8.9/transforms/4982b9790bb3724b123ad049c27319a7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/080d5544dba9ea66b64b04d99058ed21/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/080d5544dba9ea66b64b04d99058ed21/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/f8be33b357de97423d6352a11c2f6c86/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] /home/Yiran/.gradle/caches/8.9/transforms/f8be33b357de97423d6352a11c2f6c86/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/Yiran/.gradle/caches/8.9/transforms/da9a9ec60a7e6f00d14c719c335dc7ca/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/Yiran/.gradle/caches/8.9/transforms/da9a9ec60a7e6f00d14c719c335dc7ca/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml
+meta-data#com.google.firebase.components:com.google.mlkit.vision.digitalink.internal.DigitalInkRecognitionRegistrar
+ADDED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:16:17-137
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:25:22-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+MERGED from [androidx.core:core:1.16.0] /home/Yiran/.gradle/caches/8.9/transforms/3f8617e7749c2a54844bece8d22eac01/transformed/core-1.16.0/AndroidManifest.xml:26:5-97

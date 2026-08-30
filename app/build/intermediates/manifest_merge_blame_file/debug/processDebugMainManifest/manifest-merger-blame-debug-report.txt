@@ -1,0 +1,1167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.daren.scraply"
+4    platformBuildVersionCode="36"
+5    platformBuildVersionName="16"
+6    android:compileSdkVersion="36"
+7    android:compileSdkVersionCodename="16"
+8    android:requiredSplitTypes="base__abi,base__density"
+9    android:splitTypes=""
+10    android:versionCode="114"
+11    android:versionName="1.1.4" >
+12
+13    <uses-sdk
+14        android:minSdkVersion="24"
+15        android:targetSdkVersion="35" />
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:2:5-66
+17-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:2:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:3:5-78
+18-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:3:22-76
+19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+19-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:4:5-76
+19-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:4:22-74
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:5:5-76
+20-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:5:22-74
+21    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+21-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:6:5-75
+21-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:6:22-73
+22    <uses-permission
+22-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:5-106
+23        android:name="android.permission.READ_EXTERNAL_STORAGE"
+23-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:49-104
+24        android:maxSdkVersion="32" />
+24-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:7:22-48
+25
+26    <queries>
+26-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:8:5-38:15
+27        <provider android:authorities="com.google.android.gms.fonts" />
+27-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:9:9-71
+27-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:9:19-69
+28
+29        <intent>
+29-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:10:9-12:18
+30            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+30-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:11:13-90
+30-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:11:21-88
+31        </intent>
+32        <intent>
+32-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:13:9-15:18
+33            <action android:name="com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND" />
+33-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:14:13-115
+33-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:14:21-113
+34        </intent>
+35        <intent>
+35-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:16:9-20:18
+36            <action android:name="android.intent.action.VIEW" />
+36-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+36-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+37
+38            <category android:name="android.intent.category.BROWSABLE" />
+38-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+38-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+39
+40            <data android:scheme="https" />
+40-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+40-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+41        </intent>
+42        <intent>
+42-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:21:9-23:18
+43            <action android:name="android.support.customtabs.action.CustomTabsService" />
+43-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:22:13-89
+43-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:22:21-87
+44        </intent>
+45        <intent>
+45-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:24:9-27:18
+46            <action android:name="android.intent.action.INSERT" />
+46-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:25:13-66
+46-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:25:21-64
+47
+48            <data android:mimeType="vnd.android.cursor.dir/event" />
+48-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+48-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:26:19-66
+49        </intent>
+50        <intent>
+50-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:28:9-31:18
+51            <action android:name="android.intent.action.VIEW" />
+51-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+51-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+52
+53            <data android:scheme="sms" />
+53-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+53-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+54        </intent>
+55        <intent>
+55-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:32:9-35:18
+56            <action android:name="android.intent.action.DIAL" />
+56-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:33:13-64
+56-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:33:21-62
+57
+58            <data android:path="tel:" />
+58-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+58-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:34:19-38
+59        </intent>
+60
+61        <package android:name="com.android.vending" />
+61-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:36:9-54
+61-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:36:18-52
+62        <package android:name="com.facebook.katana" />
+62-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:37:9-54
+62-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:37:18-52
+63    </queries>
+64
+65    <uses-permission android:name="com.android.vending.BILLING" />
+65-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:39:5-66
+65-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:39:22-64
+66    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+66-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:40:5-78
+66-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:40:22-76
+67    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+67-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:41:5-81
+67-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:41:22-79
+68    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+68-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:42:5-87
+68-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:42:22-85
+69    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS" />
+69-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:43:5-82
+69-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:43:22-80
+70    <uses-permission android:name="android.permission.WAKE_LOCK" />
+70-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:44:5-67
+70-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:44:22-65
+71    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+71-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:45:5-81
+71-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:45:22-79
+72    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+72-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:46:5-86
+72-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:46:22-84
+73    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+73-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:47:5-109
+73-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:47:22-107
+74
+75    <permission
+75-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:5-128
+76        android:name="com.daren.scraply.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+76-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:17-90
+77        android:protectionLevel="signature" />
+77-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:48:91-126
+78
+79    <uses-permission android:name="com.daren.scraply.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+79-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:49:5-97
+79-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:49:22-95
+80    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+80-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:245:5-72
+80-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:245:22-70
+81    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+81-->[androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:25:5-81
+81-->[androidx.work:work-runtime:2.9.1] /home/Yiran/.gradle/caches/8.9/transforms/ec7dc36e6531457f8a751d0c1fce7e1d/transformed/work-runtime-2.9.1/AndroidManifest.xml:25:22-78
+82
+83    <application
+83-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:5-244:19
+84        android:name="com.pairip.application.Application"
+84-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:344-393
+85        android:allowBackup="true"
+85-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:18-44
+86        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+86-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:45-113
+87        android:dataExtractionRules="@xml/data_extraction_rules"
+87-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:114-170
+88        android:debuggable="true"
+89        android:extractNativeLibs="false"
+89-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:171-204
+90        android:fullBackupContent="@xml/backup_rules"
+90-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:205-250
+91        android:icon="@mipmap/ic_launcher"
+91-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:251-285
+92        android:label="@string/app_name"
+92-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:286-318
+93        android:largeHeap="true"
+93-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:319-343
+94        android:roundIcon="@mipmap/ic_launcher_round"
+94-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:394-439
+95        android:supportsRtl="true"
+95-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:440-466
+96        android:theme="@style/Theme.Scraply" >
+96-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:50:467-503
+97        <activity
+97-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:9-93:20
+98            android:name="com.daren.scraply.MainActivity"
+98-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:202-247
+99            android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+99-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:19-112
+100            android:exported="true"
+100-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:113-136
+101            android:label="@string/app_name"
+101-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:137-169
+102            android:launchMode="singleTask"
+102-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:170-201
+103            android:theme="@style/Theme.Scraply.Splash"
+103-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:248-291
+104            android:windowSoftInputMode="adjustNothing" >
+104-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:51:292-335
+105            <intent-filter>
+105-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:52:13-55:29
+106                <action android:name="android.intent.action.MAIN" />
+106-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:53:17-68
+106-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:53:25-66
+107
+108                <category android:name="android.intent.category.LAUNCHER" />
+108-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:54:17-76
+108-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:54:27-74
+109            </intent-filter>
+110            <intent-filter>
+110-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:56:13-65:29
+111                <action android:name="android.intent.action.VIEW" />
+111-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+111-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+112
+113                <category android:name="android.intent.category.DEFAULT" />
+113-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:17-75
+113-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:27-73
+114                <category android:name="android.intent.category.BROWSABLE" />
+114-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+114-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+115
+116                <data android:scheme="content" />
+116-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+116-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+117                <data android:scheme="file" />
+117-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+117-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+118                <data android:mimeType="*/*" />
+118-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+118-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:26:19-66
+119                <data android:pathPattern=".*\\.scrap" />
+119-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+119-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:63:23-55
+120                <data android:host="*" />
+120-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+120-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+121            </intent-filter>
+122            <intent-filter>
+122-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:66:13-77:29
+123                <action android:name="android.intent.action.VIEW" />
+123-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+123-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:17-75
+125-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:27-73
+126                <category android:name="android.intent.category.BROWSABLE" />
+126-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+126-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+127
+128                <data
+128-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+129                    android:host="open"
+129-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+130                    android:scheme="scraply" />
+130-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+131                <data
+131-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+132                    android:host="gallery"
+132-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+133                    android:scheme="scraply" />
+133-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+134                <data
+134-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+135                    android:host="notebook"
+135-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+136                    android:scheme="scraply" />
+136-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+137                <data
+137-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+138                    android:host="tipjar"
+138-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+139                    android:scheme="scraply" />
+139-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+140                <data
+140-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+141                    android:host="support"
+141-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+142                    android:scheme="scraply" />
+142-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+143                <data
+143-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+144                    android:host="settings"
+144-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+145                    android:scheme="scraply" />
+145-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+146                <data
+146-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+147                    android:host="rate"
+147-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:64:23-39
+148                    android:scheme="scraply" />
+148-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+149            </intent-filter>
+150            <intent-filter>
+150-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:78:13-84:29
+151                <action android:name="android.intent.action.VIEW" />
+151-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+151-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:17-75
+153-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:27-73
+154                <category android:name="android.intent.category.BROWSABLE" />
+154-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+154-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+155
+156                <data android:scheme="content" />
+156-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+156-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+157                <data android:mimeType="application/zip" />
+157-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+157-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:26:19-66
+158            </intent-filter>
+159            <intent-filter>
+159-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:85:13-92:29
+160                <action android:name="android.intent.action.VIEW" />
+160-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:13-64
+160-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:17:21-62
+161
+162                <category android:name="android.intent.category.DEFAULT" />
+162-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:17-75
+162-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:58:27-73
+163                <category android:name="android.intent.category.BROWSABLE" />
+163-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:13-73
+163-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:18:23-71
+164
+165                <data android:scheme="content" />
+165-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+165-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:19-41
+166                <data android:mimeType="application/octet-stream" />
+166-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+166-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:26:19-66
+167                <data android:pathPattern=".*\\.scrap" />
+167-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:19:13-43
+167-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:63:23-55
+168            </intent-filter>
+169        </activity>
+170
+171        <service
+171-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:9-98:19
+172            android:name="com.daren.scraply.notify.ScraplyMessagingService"
+172-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:43-106
+173            android:exported="false" >
+173-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:94:18-42
+174            <intent-filter>
+174-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:95:13-97:29
+175                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+175-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:17-77
+175-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:25-75
+176            </intent-filter>
+177        </service>
+178        <service
+178-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:9-143
+179            android:name="com.daren.scraply.ui.canvas.CameraKeepAliveService"
+179-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:76-141
+180            android:exported="false"
+180-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:18-42
+181            android:foregroundServiceType="" />
+181-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:99:43-75
+182
+183        <meta-data
+183-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:9-137
+184            android:name="com.google.firebase.messaging.default_notification_icon"
+184-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:20-90
+185            android:resource="@drawable/ic_notification" />
+185-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:100:91-135
+186        <meta-data
+186-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:9-139
+187            android:name="com.google.firebase.messaging.default_notification_color"
+187-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:20-91
+188            android:resource="@color/notification_accent" />
+188-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:101:92-137
+189        <meta-data
+189-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:9-131
+190            android:name="com.google.firebase.messaging.default_notification_channel_id"
+190-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:20-96
+191            android:value="scraply_seasonal" />
+191-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:102:97-129
+192        <meta-data
+192-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:9-133
+193            android:name="com.google.android.gms.ads.APPLICATION_ID"
+193-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:20-76
+194            android:value="ca-app-pub-4629456747116653~3095615352" />
+194-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:103:77-131
+195        <meta-data
+195-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:9-113
+196            android:name="com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION"
+196-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:20-90
+197            android:value="true" />
+197-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:104:91-111
+198        <meta-data
+198-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:9-109
+199            android:name="com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING"
+199-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:20-86
+200            android:value="true" />
+200-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:105:87-107
+201
+202        <provider
+202-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:9-108:20
+203            android:name="androidx.core.content.FileProvider"
+203-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:132-181
+204            android:authorities="com.daren.scraply.fileprovider"
+204-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:19-71
+205            android:exported="false"
+205-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:72-96
+206            android:grantUriPermissions="true" >
+206-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:106:97-131
+207            <meta-data
+207-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:13-111
+208                android:name="android.support.FILE_PROVIDER_PATHS"
+208-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:24-74
+209                android:resource="@xml/file_paths" />
+209-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:107:75-109
+210        </provider>
+211
+212        <meta-data
+212-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:9-104
+213            android:name="com.google.android.play.billingclient.version"
+213-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:20-80
+214            android:value="8.2.0" />
+214-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:109:81-102
+215
+216        <activity
+216-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:9-255
+217            android:name="com.android.billingclient.api.ProxyBillingActivity"
+217-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:128-193
+218            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize"
+218-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:19-102
+219            android:exported="false"
+219-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:103-127
+220            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+220-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:110:194-253
+221        <activity
+221-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:9-257
+222            android:name="com.android.billingclient.api.ProxyBillingActivityV2"
+222-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:128-195
+223            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize"
+223-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:19-102
+224            android:exported="false"
+224-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:103-127
+225            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+225-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:111:196-255
+226
+227        <service
+227-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:9-117:19
+228            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+228-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:74-152
+229            android:directBootAware="true"
+229-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:18-48
+230            android:exported="false" >
+230-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:112:49-73
+231            <meta-data
+231-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:13-224
+232                android:name="com.google.firebase.components:com.google.mlkit.vision.digitalink.recognition.internal.DigitalInkRecognitionRegistrar"
+232-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:24-156
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:113:157-222
+234            <meta-data
+234-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:13-220
+235                android:name="com.google.firebase.components:com.google.mlkit.vision.segmentation.subject.internal.SubjectSegmentationRegistrar"
+235-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:24-152
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:114:153-218
+237            <meta-data
+237-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:13-199
+238                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+238-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:24-131
+239                android:value="com.google.firebase.components.ComponentRegistrar" />
+239-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:115:132-197
+240            <meta-data
+240-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:13-195
+241                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+241-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:24-127
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:116:128-193
+243            <meta-data
+243-->[com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:15:13-17:85
+244                android:name="com.google.firebase.components:com.google.mlkit.vision.digitalink.internal.DigitalInkRecognitionRegistrar"
+244-->[com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:16:17-137
+245                android:value="com.google.firebase.components.ComponentRegistrar" />
+245-->[com.google.mlkit:digital-ink-recognition:18.1.0] /home/Yiran/.gradle/caches/8.9/transforms/1189918b395703438ed6af9adf402e33/transformed/digital-ink-recognition-18.1.0/AndroidManifest.xml:17:17-82
+246        </service>
+247
+248        <activity
+248-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:9-339
+249            android:name="com.google.android.gms.ads.AdActivity"
+249-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:198-250
+250            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+250-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:19-128
+251            android:enableOnBackInvokedCallback="false"
+251-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:129-172
+252            android:exported="false"
+252-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:173-197
+253            android:theme="@android:style/Theme.Translucent" />
+253-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:118:289-337
+254
+255        <provider
+255-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:9-195
+256            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+256-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:130-193
+257            android:authorities="com.daren.scraply.mobileadsinitprovider"
+257-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:19-80
+258            android:exported="false"
+258-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:81-105
+259            android:initOrder="100" />
+259-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:119:106-129
+260
+261        <service
+261-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:9-119
+262            android:name="com.google.android.gms.ads.AdService"
+262-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:66-117
+263            android:enabled="true"
+263-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:18-40
+264            android:exported="false" />
+264-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:120:41-65
+265
+266        <activity
+266-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:9-263
+267            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
+267-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:154-223
+268            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+268-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:19-128
+269            android:exported="false" />
+269-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:121:129-153
+270        <activity
+270-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:9-265
+271            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
+271-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:110-179
+272            android:excludeFromRecents="true"
+272-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:19-52
+273            android:exported="false"
+273-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:53-77
+274            android:launchMode="singleTask"
+274-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:78-109
+275            android:taskAffinity=""
+275-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:180-203
+276            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+276-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:122:204-263
+277
+278        <provider
+278-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:9-128:20
+279            android:name="androidx.startup.InitializationProvider"
+279-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:101-155
+280            android:authorities="com.daren.scraply.androidx-startup"
+280-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:19-75
+281            android:exported="false" >
+281-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:123:76-100
+282            <meta-data
+282-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:13-110
+283                android:name="androidx.work.WorkManagerInitializer"
+283-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:24-75
+284                android:value="androidx.startup" />
+284-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:124:76-108
+285            <meta-data
+285-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:13-117
+286                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+286-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:24-82
+287                android:value="androidx.startup" />
+287-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:125:83-115
+288            <meta-data
+288-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:13-120
+289                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+289-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:24-85
+290                android:value="androidx.startup" />
+290-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:126:86-118
+291            <meta-data
+291-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:13-127
+292                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+292-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:24-92
+293                android:value="androidx.startup" />
+293-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:127:93-125
+294        </provider>
+295
+296        <service
+296-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:9-212
+297            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+297-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:135-210
+298            android:directBootAware="false"
+298-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:18-49
+299            android:enabled="@bool/enable_system_alarm_service_default"
+299-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:50-109
+300            android:exported="false" />
+300-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:129:110-134
+301        <service
+301-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:9-262
+302            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+302-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:132-203
+303            android:directBootAware="false"
+303-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:18-49
+304            android:enabled="@bool/enable_system_job_service_default"
+304-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:50-107
+305            android:exported="true"
+305-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:108-131
+306            android:permission="android.permission.BIND_JOB_SERVICE" />
+306-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:130:204-260
+307        <service
+307-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:9-210
+308            android:name="androidx.work.impl.foreground.SystemForegroundService"
+308-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:140-208
+309            android:directBootAware="false"
+309-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:18-49
+310            android:enabled="@bool/enable_system_foreground_service_default"
+310-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:50-114
+311            android:exported="false" />
+311-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:131:115-139
+312
+313        <receiver
+313-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:9-176
+314            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+314-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:99-174
+315            android:directBootAware="false"
+315-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:19-50
+316            android:enabled="true"
+316-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:51-73
+317            android:exported="false" />
+317-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:132:74-98
+318        <receiver
+318-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:9-138:20
+319            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+319-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:100-193
+320            android:directBootAware="false"
+320-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:19-50
+321            android:enabled="false"
+321-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:51-74
+322            android:exported="false" >
+322-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:133:75-99
+323            <intent-filter>
+323-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:134:13-137:29
+324                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+324-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:135:17-86
+324-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:135:25-84
+325                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+325-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:136:17-89
+325-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:136:25-87
+326            </intent-filter>
+327        </receiver>
+328        <receiver
+328-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:9-144:20
+329            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+329-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:100-191
+330            android:directBootAware="false"
+330-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:19-50
+331            android:enabled="false"
+331-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:51-74
+332            android:exported="false" >
+332-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:139:75-99
+333            <intent-filter>
+333-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:140:13-143:29
+334                <action android:name="android.intent.action.BATTERY_OKAY" />
+334-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:141:17-76
+334-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:141:25-74
+335                <action android:name="android.intent.action.BATTERY_LOW" />
+335-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:142:17-75
+335-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:142:25-73
+336            </intent-filter>
+337        </receiver>
+338        <receiver
+338-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:9-150:20
+339            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+339-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:100-191
+340            android:directBootAware="false"
+340-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:19-50
+341            android:enabled="false"
+341-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:51-74
+342            android:exported="false" >
+342-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:145:75-99
+343            <intent-filter>
+343-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:146:13-149:29
+344                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+344-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:147:17-82
+344-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:147:25-80
+345                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+345-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:148:17-81
+345-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:148:25-79
+346            </intent-filter>
+347        </receiver>
+348        <receiver
+348-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:9-155:20
+349            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+349-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:100-190
+350            android:directBootAware="false"
+350-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:19-50
+351            android:enabled="false"
+351-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:51-74
+352            android:exported="false" >
+352-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:151:75-99
+353            <intent-filter>
+353-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:152:13-154:29
+354                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+354-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:153:17-78
+354-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:153:25-76
+355            </intent-filter>
+356        </receiver>
+357        <receiver
+357-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:9-162:20
+358            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+358-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:100-175
+359            android:directBootAware="false"
+359-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:19-50
+360            android:enabled="false"
+360-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:51-74
+361            android:exported="false" >
+361-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:156:75-99
+362            <intent-filter>
+362-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:157:13-161:29
+363                <action android:name="android.intent.action.BOOT_COMPLETED" />
+363-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:158:17-78
+363-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:158:25-76
+364                <action android:name="android.intent.action.TIME_SET" />
+364-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:159:17-72
+364-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:159:25-70
+365                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+365-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:160:17-80
+365-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:160:25-78
+366            </intent-filter>
+367        </receiver>
+368        <receiver
+368-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:9-167:20
+369            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+369-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:136-222
+370            android:directBootAware="false"
+370-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:19-50
+371            android:enabled="@bool/enable_system_alarm_service_default"
+371-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:51-110
+372            android:exported="false" >
+372-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:163:111-135
+373            <intent-filter>
+373-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:164:13-166:29
+374                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+374-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:165:17-97
+374-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:165:25-95
+375            </intent-filter>
+376        </receiver>
+377        <receiver
+377-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:9-172:20
+378            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+378-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:98-163
+379            android:directBootAware="false"
+379-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:19-50
+380            android:enabled="true"
+380-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:51-73
+381            android:exported="true"
+381-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:74-97
+382            android:permission="android.permission.DUMP" >
+382-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:168:164-208
+383            <intent-filter>
+383-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:169:13-171:29
+384                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+384-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:170:17-87
+384-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:170:25-85
+385            </intent-filter>
+386        </receiver>
+387        <receiver
+387-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:9-178:20
+388            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+388-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:43-108
+389            android:exported="true"
+389-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:19-42
+390            android:permission="com.google.android.c2dm.permission.SEND" >
+390-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:173:109-169
+391            <intent-filter>
+391-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:174:13-176:29
+392                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+392-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:175:17-80
+392-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:175:25-78
+393            </intent-filter>
+394
+395            <meta-data
+395-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:13-122
+396                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+396-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:24-99
+397                android:value="true" />
+397-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:177:100-120
+398        </receiver>
+399
+400        <service
+400-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:9-183:19
+401            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+401-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:74-143
+402            android:directBootAware="true"
+402-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:18-48
+403            android:exported="false" >
+403-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:179:49-73
+404            <intent-filter android:priority="-500" >
+404-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:95:13-97:29
+404-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:180:28-51
+405                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+405-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:17-77
+405-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:96:25-75
+406            </intent-filter>
+407        </service>
+408        <service
+408-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:9-199:19
+409            android:name="com.google.firebase.components.ComponentDiscoveryService"
+409-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:74-145
+410            android:directBootAware="true"
+410-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:18-48
+411            android:exported="false" >
+411-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:184:49-73
+412            <meta-data
+412-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:13-197
+413                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+413-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:24-129
+414                android:value="com.google.firebase.components.ComponentRegistrar" />
+414-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:185:130-195
+415            <meta-data
+415-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:13-194
+416                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+416-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:24-126
+417                android:value="com.google.firebase.components.ComponentRegistrar" />
+417-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:186:127-192
+418            <meta-data
+418-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:13-203
+419                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar"
+419-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:24-135
+420                android:value="com.google.firebase.components.ComponentRegistrar" />
+420-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:187:136-201
+421            <meta-data
+421-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:13-192
+422                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+422-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:24-124
+423                android:value="com.google.firebase.components.ComponentRegistrar" />
+423-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:188:125-190
+424            <meta-data
+424-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:13-201
+425                android:name="com.google.firebase.components:com.google.firebase.crashlytics.FirebaseCrashlyticsKtxRegistrar"
+425-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:24-133
+426                android:value="com.google.firebase.components.ComponentRegistrar" />
+426-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:189:134-199
+427            <meta-data
+427-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:13-190
+428                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+428-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:24-122
+429                android:value="com.google.firebase.components.ComponentRegistrar" />
+429-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:190:123-188
+430            <meta-data
+430-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:13-214
+431                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+431-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:24-146
+432                android:value="com.google.firebase.components.ComponentRegistrar" />
+432-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:191:147-212
+433            <meta-data
+433-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:13-192
+434                android:name="com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar"
+434-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:24-124
+435                android:value="com.google.firebase.components.ComponentRegistrar" />
+435-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:192:125-190
+436            <meta-data
+436-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:13-205
+437                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+437-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:24-137
+438                android:value="com.google.firebase.components.ComponentRegistrar" />
+438-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:193:138-203
+439            <meta-data
+439-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:13-202
+440                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+440-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:24-134
+441                android:value="com.google.firebase.components.ComponentRegistrar" />
+441-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:194:135-200
+442            <meta-data
+442-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:13-191
+443                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+443-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:24-123
+444                android:value="com.google.firebase.components.ComponentRegistrar" />
+444-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:195:124-189
+445            <meta-data
+445-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:13-184
+446                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+446-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:24-116
+447                android:value="com.google.firebase.components.ComponentRegistrar" />
+447-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:196:117-182
+448            <meta-data
+448-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:13-184
+449                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+449-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:24-116
+450                android:value="com.google.firebase.components.ComponentRegistrar" />
+450-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:197:117-182
+451            <meta-data
+451-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:13-190
+452                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+452-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:24-122
+453                android:value="com.google.firebase.components.ComponentRegistrar" />
+453-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:198:123-188
+454        </service>
+455
+456        <provider
+456-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:9-192
+457            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+457-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:125-190
+458            android:authorities="com.daren.scraply.mlkitinitprovider"
+458-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:19-76
+459            android:exported="false"
+459-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:77-101
+460            android:initOrder="99" />
+460-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:200:102-124
+461
+462        <activity
+462-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:9-172
+463            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+463-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:44-110
+464            android:exported="false"
+464-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:19-43
+465            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+465-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:201:111-170
+466
+467        <service
+467-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:9-204:19
+468            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+468-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:66-147
+469            android:enabled="false"
+469-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:18-41
+470            android:exported="true" >
+470-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:202:42-65
+471            <meta-data
+471-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:13-114
+472                android:name="com.google.android.play.core.assetpacks.versionCode"
+472-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:24-90
+473                android:value="20201" />
+473-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:203:91-112
+474        </service>
+475        <service
+475-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:9-192
+476            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+476-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:108-190
+477            android:enabled="false"
+477-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:18-41
+478            android:exported="false"
+478-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:42-66
+479            android:foregroundServiceType="dataSync" />
+479-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:205:67-107
+480
+481        <property
+481-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:9-152
+482            android:name="android.adservices.AD_SERVICES_CONFIG"
+482-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:19-71
+483            android:resource="@xml/ga_ad_services_config" />
+483-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:206:105-150
+484
+485        <service
+485-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:9-135
+486            android:name="com.google.firebase.sessions.SessionLifecycleService"
+486-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:66-133
+487            android:enabled="true"
+487-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:18-40
+488            android:exported="false" />
+488-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:207:41-65
+489
+490        <provider
+490-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:9-226
+491            android:name="com.google.firebase.provider.FirebaseInitProvider"
+491-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:160-224
+492            android:authorities="com.daren.scraply.firebaseinitprovider"
+492-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:19-79
+493            android:directBootAware="true"
+493-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:80-110
+494            android:exported="false"
+494-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:111-135
+495            android:initOrder="100" />
+495-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:208:136-159
+496
+497        <service
+497-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:9-137
+498            android:name="androidx.room.MultiInstanceInvalidationService"
+498-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:74-135
+499            android:directBootAware="true"
+499-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:18-48
+500            android:exported="false" />
+500-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:209:49-73
+501
+502        <activity
+502-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:9-311
+503            android:name="com.google.android.play.core.hsdp.service.HsdpShimActivity"
+503-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:184-257
+504            android:configChanges="keyboardHidden|orientation|screenLayout|screenSize"
+504-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:19-93
+505            android:excludeFromRecents="true"
+505-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:94-127
+506            android:exported="false"
+506-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:128-152
+507            android:launchMode="singleTop"
+507-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:153-183
+508            android:theme="@style/Theme.HsdpServiceTransparent" />
+508-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:210:258-309
+509
+510        <receiver
+510-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:9-141
+511            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+511-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:67-139
+512            android:enabled="true"
+512-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:19-41
+513            android:exported="false" />
+513-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:211:42-66
+514
+515        <service
+515-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:9-139
+516            android:name="com.google.android.gms.measurement.AppMeasurementService"
+516-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:66-137
+517            android:enabled="true"
+517-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:18-40
+518            android:exported="false" />
+518-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:212:41-65
+519        <service
+519-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:9-199
+520            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+520-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:66-140
+521            android:enabled="true"
+521-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:18-40
+522            android:exported="false"
+522-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:41-65
+523            android:permission="android.permission.BIND_JOB_SERVICE" />
+523-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:213:141-197
+524
+525        <uses-library
+525-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:9-87
+526            android:name="android.ext.adservices"
+526-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:23-60
+527            android:required="false" />
+527-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:214:61-85
+528
+529        <activity
+529-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:9-293
+530            android:name="com.facebook.ads.AudienceNetworkActivity"
+530-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:138-193
+531            android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+531-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:19-112
+532            android:exported="false"
+532-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:113-137
+533            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+533-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:215:232-291
+534
+535        <provider
+535-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:9-179
+536            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+536-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:115-177
+537            android:authorities="com.daren.scraply.AudienceNetworkContentProvider"
+537-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:19-89
+538            android:exported="false" />
+538-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:216:90-114
+539
+540        <meta-data
+540-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:9-121
+541            android:name="com.google.android.gms.version"
+541-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:20-65
+542            android:value="@integer/google_play_services_version" />
+542-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:217:66-119
+543
+544        <service
+544-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:9-220:19
+545            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+545-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:43-133
+546            android:exported="false" >
+546-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:218:18-42
+547            <meta-data
+547-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:13-123
+548                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+548-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:24-101
+549                android:value="cct" />
+549-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:219:102-121
+550        </service>
+551        <service
+551-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:9-206
+552            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+552-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:43-147
+553            android:exported="false"
+553-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:18-42
+554            android:permission="android.permission.BIND_JOB_SERVICE" />
+554-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:221:148-204
+555
+556        <receiver
+556-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:9-165
+557            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+557-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:44-163
+558            android:exported="false" />
+558-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:222:19-43
+559        <receiver
+559-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:9-236:20
+560            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+560-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:98-161
+561            android:directBootAware="false"
+561-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:19-50
+562            android:enabled="true"
+562-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:51-73
+563            android:exported="true"
+563-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:74-97
+564            android:permission="android.permission.DUMP" >
+564-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:223:162-206
+565            <intent-filter>
+565-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:224:13-226:29
+566                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+566-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:225:17-90
+566-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:225:25-88
+567            </intent-filter>
+568            <intent-filter>
+568-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:227:13-229:29
+569                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+569-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:228:17-84
+569-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:228:25-82
+570            </intent-filter>
+571            <intent-filter>
+571-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:230:13-232:29
+572                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+572-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:231:17-87
+572-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:231:25-85
+573            </intent-filter>
+574            <intent-filter>
+574-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:233:13-235:29
+575                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+575-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:234:17-94
+575-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:234:25-92
+576            </intent-filter>
+577        </receiver>
+578
+579        <activity
+579-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:9-206
+580            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+580-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:44-124
+581            android:exported="false"
+581-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:19-43
+582            android:stateNotNeeded="true"
+582-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:125-154
+583            android:theme="@style/Theme.PlayCore.Transparent" />
+583-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:237:155-204
+584        <activity
+584-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:9-100
+585            android:name="com.pairip.licensecheck.LicenseActivity"
+585-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:44-98
+586            android:exported="false" />
+586-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:238:19-43
+587
+588        <meta-data
+588-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:9-93
+589            android:name="com.android.vending.splits.required"
+589-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:20-70
+590            android:value="true" />
+590-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:239:71-91
+591        <meta-data
+591-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:9-107
+592            android:name="com.android.stamp.source"
+592-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:20-59
+593            android:value="https://play.google.com/store" />
+593-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:240:60-105
+594        <meta-data
+594-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:9-103
+595            android:name="com.android.stamp.type"
+595-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:20-57
+596            android:value="STAMP_TYPE_DISTRIBUTION_APK" />
+596-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:241:58-101
+597        <meta-data
+597-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:9-95
+598            android:name="com.android.vending.splits"
+598-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:20-61
+599            android:resource="@xml/splits0" />
+599-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:242:62-93
+600        <meta-data
+600-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:9-89
+601            android:name="com.android.vending.derived.apk.id"
+601-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:20-69
+602            android:value="4" />
+602-->/home/Yiran/Documents/Note-me/app/src/main/AndroidManifest.xml:243:70-87
+603    </application>
+604
+605</manifest>

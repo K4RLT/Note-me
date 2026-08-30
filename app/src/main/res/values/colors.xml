@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#ff444444</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="dismiss_icon_grey_500">#ff9aa0a6</color>
+    <color name="dismiss_icon_grey_700">#ff5f6368</color>
+    <color name="ic_launcher_background">#ffffffff</color>
+    <color name="notification_accent">#ff5c6bc0</color>
+    <color name="splash_bg">#ffffffff</color>
+</resources>

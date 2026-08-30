@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.daren.scraply.app-mergeDebugResources-65:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/home/Yiran/.gradle/caches/8.9/transforms/5a38085c35f9d50c892171ff5369a559/transformed/core-splashscreen-1.0.1/res/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "473",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "697"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "682"
+                    }
+                },
+                {
+                    "source": "/home/Yiran/Documents/Note-me/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "453"
+                    }
+                }
+            ]
+        }
+    ]
+}

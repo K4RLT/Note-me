@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.daren.scraply.app-mergeDebugResources-65:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/home/Yiran/Documents/Note-me/app/src/main/res/values-v29/styles.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,381",
+                        "endLines": "6,7",
+                        "endColumns": "12,90",
+                        "endOffsets": "376,467"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,381",
+                        "endLines": "6,7",
+                        "endColumns": "12,89",
+                        "endOffsets": "376,466"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="about_footer">"Scraply App © 2026
+Built to fuel your creativity."</string>
+    <string name="about_legal_header">LEGAL AND PRIVACY</string>
+    <string name="about_title">About us</string>
+    <string name="ad_wait">Preparing ad…</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="apis_promo_never">"Don't show again"</string>
+    <string name="apis_promo_store">View on Google Play</string>
+    <string name="apis_promo_text">A minimalist to-do planner with a garden that blooms as you complete tasks. From the makers of Scraply.</string>
+    <string name="apis_promo_title">Meet Apis</string>
+    <string name="app_name">Scraply</string>
+    <string name="autofill">Autofill</string>
+    <string name="back">Back</string>
+    <string name="badge_new">NEW</string>
+    <string name="bg_remove_failed">"Couldn't remove the background"</string>
+    <string name="bg_removing">Removing background…</string>
+    <string name="bring_forward">Bring Forward</string>
+    <string name="camera_keepalive_channel">Camera capture</string>
+    <string name="camera_keepalive_title">Waiting for your photo…</string>
+    <string name="camera_rescued">Your photo was saved to its page.</string>
+    <string name="cancel">Cancel</string>
+    <string name="canvas">Canvas</string>
+    <string name="canvas_add_color">Add colour</string>
+    <string name="canvas_cancel_tape">Cancel tape</string>
+    <string name="canvas_close">Close canvas</string>
+    <string name="canvas_layers_title">Layers</string>
+    <string name="canvas_remove_color">Remove colour</string>
+    <string name="canvas_show_tools">Show tools</string>
+    <string name="canvas_thickness">Thickness</string>
+    <string name="canvas_thickness_hint">Adjust and draw</string>
+    <string name="certificate_amount">Amount</string>
+    <string name="certificate_atelier">SCRAPLY</string>
+    <string name="certificate_date">Purchase date</string>
+    <string name="certificate_device">Device</string>
+    <string name="certificate_foot_local">Official purchase certificate registered on this device.</string>
+    <string name="certificate_foot_play">Official purchase receipt for Google Play order %1$s.</string>
+    <string name="certificate_issuer">Authorized signature</string>
+    <string name="certificate_number">Order / Serial no.</string>
+    <string name="certificate_open">View certificate</string>
+    <string name="certificate_seal_bottom">Verified official</string>
+    <string name="certificate_seal_top">Scraply</string>
+    <string name="certificate_statement">Official certificate of purchase and authenticity registered in Scraply.</string>
+    <string name="certificate_status_label">Status</string>
+    <string name="certificate_status_val">Verified purchase</string>
+    <string name="certificate_title">Certificate of Purchase &amp; Authenticity</string>
+    <string name="close">Close</string>
+    <string name="close_settings">Close Settings</string>
+    <string name="collapse">Collapse</string>
+    <string name="color">Color</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">46741a5bf77f4f20a0bfaa8759cf1178</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_sure">Are you sure?</string>
+    <string name="cover_acc_empty">No charm packs yet. Get them in the Universe → Charms.</string>
+    <string name="cover_acc_where">Where?</string>
+    <string name="cover_add_photo">Add</string>
+    <string name="cover_band">Band</string>
+    <string name="cover_edit">Edit cover</string>
+    <string name="cover_image_error">"Couldn't load that image"</string>
+    <string name="cover_label_font">Font</string>
+    <string name="cover_label_font_auto">Auto</string>
+    <string name="cover_label_preview_none_1">NO</string>
+    <string name="cover_label_preview_none_2">LABEL</string>
+    <string name="cover_label_preview_title">TITLE</string>
+    <string name="cover_labels">Labels</string>
+    <string name="cover_manual_adjust">Manual adjustment</string>
+    <string name="cover_manual_adjust_desc">Use the wheel for a custom shade.</string>
+    <string name="cover_no_image">No image</string>
+    <string name="cover_photo_adjust_reset">Reset</string>
+    <string name="cover_restore_confirm">Back to original? Tap again</string>
+    <string name="cover_slot_bottom">Bottom</string>
+    <string name="cover_slot_bottom_left">Bottom left</string>
+    <string name="cover_slot_bottom_right">Bottom right</string>
+    <string name="cover_slot_center">Center</string>
+    <string name="cover_slot_left">Left</string>
+    <string name="cover_slot_right">Right</string>
+    <string name="cover_slot_strap">Band %1$s</string>
+    <string name="cover_slot_top">Top</string>
+    <string name="cover_slot_top_left">Top left</string>
+    <string name="cover_slot_top_right">Top right</string>
+    <string name="cover_spine">Spine</string>
+    <string name="default_error_message">Invalid input</string>
+    <string name="default_popup_window_title">Pop-Up Window</string>
+    <string name="delete">Delete</string>
+    <string name="dismiss_button_description">sdk_loading_ui_dismiss_button</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="erase_all_confirm">Erase the whole spread?</string>
+    <string name="erase_everything">Erase the whole spread</string>
+    <string name="erase_images_only">Erase images only</string>
+    <string name="erase_ink_only">Erase strokes only</string>
+    <string name="error_no_camera_app">No camera app found on this device. Add the photo from Gallery instead.</string>
+    <string name="error_no_file_picker">No file app found on this device. Use Share instead to send your notebook.</string>
+    <string name="expand">Expand</string>
+    <string name="export_action_save">Save</string>
+    <string name="export_action_share">Share</string>
+    <string name="export_ad_badge">AD</string>
+    <string name="export_cannot_create">"Couldn't create %1$s"</string>
+    <string name="export_cannot_open">"Couldn't open %1$s"</string>
+    <string name="export_cannot_open_target">"Couldn't open the destination"</string>
+    <string name="export_error">Could not export the notebook</string>
+    <string name="export_failed">Could not export the notebook</string>
+    <string name="export_pdf_sub">One page per spread</string>
+    <string name="export_pdf_title">Export PDF</string>
+    <string name="export_png_sub">One PNG per spread</string>
+    <string name="export_png_title">Export images</string>
+    <string name="export_saved">Saved to device</string>
+    <string name="export_scrap_sub">Editable .scrap format</string>
+    <string name="export_scrap_title">Export notebook</string>
+    <string name="eyedropper_hint">Drag over the page to pick a color</string>
+    <string name="feedback_body_hint">Write your suggestion or comment here:</string>
+    <string name="feedback_no_email_app">No email app installed</string>
+    <string name="feedback_subject">Scraply — Feedback &amp; suggestions</string>
+    <string name="feedback_tech_header">Technical info (helps us help you):</string>
+    <string name="fill_amber">Amber</string>
+    <string name="fill_black">Black</string>
+    <string name="fill_blue">Blue</string>
+    <string name="fill_blush">Blush</string>
+    <string name="fill_brown">Brown</string>
+    <string name="fill_candy">Cotton candy</string>
+    <string name="fill_charcoal">Charcoal</string>
+    <string name="fill_copper">Copper</string>
+    <string name="fill_coral">Coral</string>
+    <string name="fill_cream">Cream</string>
+    <string name="fill_cyan">Cyan</string>
+    <string name="fill_dusk_pink">Dusk pink</string>
+    <string name="fill_forest">Forest</string>
+    <string name="fill_gray">Grey</string>
+    <string name="fill_green">Green</string>
+    <string name="fill_indigo">Indigo</string>
+    <string name="fill_lavender">Lavender</string>
+    <string name="fill_light_gray">Lt. grey</string>
+    <string name="fill_lime">Lime</string>
+    <string name="fill_night">Night</string>
+    <string name="fill_ocean">Ocean</string>
+    <string name="fill_orange">Orange</string>
+    <string name="fill_pink">Pink</string>
+    <string name="fill_purple">Purple</string>
+    <string name="fill_raspberry">Raspberry</string>
+    <string name="fill_red">Red</string>
+    <string name="fill_romance">Romance</string>
+    <string name="fill_rose">Dusty rose</string>
+    <string name="fill_rosegold">Rose gold</string>
+    <string name="fill_slate">Slate</string>
+    <string name="fill_sunrise">Sunrise</string>
+    <string name="fill_white">White</string>
+    <string name="fill_wine">Wine</string>
+    <string name="fill_wine_grad">Deep wine</string>
+    <string name="font_search_hint">Search fonts…</string>
+    <string name="frame_arch">Arch</string>
+    <string name="frame_circle">Circle</string>
+    <string name="frame_classic_corners">Classic corners</string>
+    <string name="frame_film">Film</string>
+    <string name="frame_film_single">Single negative</string>
+    <string name="frame_gold">Gold</string>
+    <string name="frame_heart">Heart</string>
+    <string name="frame_museum">Museum</string>
+    <string name="frame_pack_added">Added</string>
+    <string name="frame_pack_albums">Albums</string>
+    <string name="frame_pack_basics">Basics</string>
+    <string name="frame_pack_camera">Camera &amp; Vintage</string>
+    <string name="frame_pack_gallery">Gallery</string>
+    <string name="frame_polaroid">Polaroid</string>
+    <string name="frame_polaroid_camera">Polaroid camera</string>
+    <string name="frame_rounded">Square</string>
+    <string name="frame_scalloped">Scalloped edge</string>
+    <string name="frame_scrap">Scrapbook</string>
+    <string name="frame_scrap_cameo">Cameo album</string>
+    <string name="frame_scrap_premium">Premium album</string>
+    <string name="frame_scrap_slotted">Slotted album</string>
+    <string name="frame_stamp">Stamp</string>
+    <string name="frame_taped_corners">Taped corners</string>
+    <string name="frame_ticket">Ticket</string>
+    <string name="frame_torn">Torn</string>
+    <string name="frame_washi">Washi tape</string>
+    <string name="gallery_add_notebook">Add notebook</string>
+    <string name="gallery_delete_notebook_confirm">Delete notebook?</string>
+    <string name="gallery_need_one_notebook">You must keep at least one notebook</string>
+    <string name="gallery_stack_delete">Delete stack</string>
+    <string name="gallery_stack_delete_blocked">"Can't delete: you must keep at least one notebook"</string>
+    <string name="gallery_stack_delete_last">You must keep at least one stack</string>
+    <string name="gallery_stack_empty">Empty stack — add a notebook with +</string>
+    <string name="gallery_stack_new">New stack</string>
+    <string name="gallery_stacks_title">My notebooks</string>
+    <string name="gallery_sync_state">Sync status</string>
+    <string name="gallery_view_carousel">Carousel view</string>
+    <string name="gallery_view_stacks">Stack view</string>
+    <string name="gcm_defaultSenderId">817050357985</string>
+    <string name="google_api_key">AIzaSyDSJ3hdrXfRVqthH_6aMAxgRYG5ejDRWXQ</string>
+    <string name="google_app_id">1:817050357985:android:51601d89d9d0ca4ee8e7a0</string>
+    <string name="google_storage_bucket">scraply-e47fb.firebasestorage.app</string>
+    <string name="graphics_quality">GRAPHICS QUALITY</string>
+    <string name="handwriting_not_recognized">"Couldn't read that. Try writing more clearly"</string>
+    <string name="handwriting_preparing">Preparing recognition…</string>
+    <string name="handwriting_unavailable">Recognition unavailable (check your connection and Google Play services)</string>
+    <string name="haptics_desc">A short buzz when something snaps to a guide, turns in steps or is picked up</string>
+    <string name="haptics_title">Vibration</string>
+    <string name="help_cant_find">"Can't find what you're looking for?
+Contact us and we'll gladly help."</string>
+    <string name="help_cat_editing">Editing &amp; Canvas</string>
+    <string name="help_cat_management">Notebook Management</string>
+    <string name="help_cat_navigation">Navigation &amp; Viewing</string>
+    <string name="help_contact_support">Contact Support</string>
+    <string name="help_faq">FAQ</string>
+    <string name="help_quick_start">Quick Start Guide</string>
+    <string name="help_quick_start_title">Quick Guide</string>
+    <string name="help_support_tutorials">SUPPORT AND TUTORIALS</string>
+    <string name="help_title">Help</string>
+    <string name="help_tut_cover_content">Tap the floating button with the pencil icon (Customize) when viewing the cover of a closed notebook. You can change the spine color, paper texture, and background color.</string>
+    <string name="help_tut_cover_title">Customize the cover</string>
+    <string name="help_tut_dup_content">In the gallery, below the selected notebook, you will find icons to create an exact copy of the entire notebook or send it to the trash.</string>
+    <string name="help_tut_dup_title">Duplicate or Delete notebooks</string>
+    <string name="help_tut_export_content">"Select the menu icon of your notebook (top left) and choose 'Export'. You can generate a .scrap file (backup), or share it as a .pdf or .png."</string>
+    <string name="help_tut_export_title">Export and share</string>
+    <string name="help_tut_import_content">"Tap the '+' button in the bottom menu. Select 'Import image' or 'Import PDF'. Multi-page documents will be automatically added as consecutive spreads."</string>
+    <string name="help_tut_import_title">Import images or PDFs</string>
+    <string name="help_tut_layers_content">For complex works, open the layers panel. Draw backgrounds and strokes on different levels to edit them separately without ruining the rest of your design.</string>
+    <string name="help_tut_layers_title">Work with layers (Layers)</string>
+    <string name="help_tut_move_content">Long press a notebook in the gallery to enter reorganization mode. Then drag it left or right to change its position on the shelf.</string>
+    <string name="help_tut_move_title">Move or organize notebooks</string>
+    <string name="help_tut_nav_content">Inside an open notebook, swipe horizontally to change pages. If you are on the last one, swiping will automatically create a blank page.</string>
+    <string name="help_tut_nav_title">Navigate and create new pages</string>
+    <string name="help_tut_paper_content">Tap the paper icon in the bottom bar to change the ruling of the sheet: ruled, grid, dots, graph paper and more. A spread is two real pages, so you can change the left one, the right one, both, or the whole notebook at once.</string>
+    <string name="help_tut_paper_title">Change the paper</string>
+    <string name="help_tut_scissor_content">Use the lasso/scissor tool to enclose an area of your drawing. You can move, rotate, or delete that fragment without affecting the rest of the page.</string>
+    <string name="help_tut_scissor_title">Scissor mode (Cutouts)</string>
+    <string name="help_tut_text_content">"Write text with the 'T' tool or tap the stickers icon in the bottom panel to add shapes, geometric frames, or illustrations to your canvas."</string>
+    <string name="help_tut_text_title">Add text and stickers</string>
+    <string name="help_tut_tools_content">In the top bar you will find markers, pencils and highlighters. Tap a selected tool to adjust its thickness. Each tool will remember its color and size!</string>
+    <string name="help_tut_tools_title">Drawing tools</string>
+    <string name="help_tut_view_content">When you open a notebook and simply want to read or view your creations, the interface and menus will disappear to not distract you. Tap the screen to show the controls again.</string>
+    <string name="help_tut_view_title">Viewing Mode</string>
+    <string name="help_tut_zoom_content">Use the two-finger pinch gesture on the canvas to zoom in on the details of your drawing, and drag with two fingers to pan around the page.</string>
+    <string name="help_tut_zoom_title">Zoom and pan</string>
+    <string name="import_done">%1$d pages added</string>
+    <string name="import_error">Could not import</string>
+    <string name="import_layout_one">1 per spread</string>
+    <string name="import_layout_two">2 per spread</string>
+    <string name="import_missing_data">data.json missing</string>
+    <string name="import_needs_newer_app">This notebook uses a newer version of the format. Please update the app.</string>
+    <string name="import_not_a_scrap">manifest.json missing (not a valid .scrap)</string>
+    <string name="import_notebook_not_found">Notebook not found</string>
+    <string name="import_pages_title">Import pages</string>
+    <string name="import_scrap_failed">Import failed: %1$s</string>
+    <string name="import_scrap_ok">Notebook imported</string>
+    <string name="import_source_images">Images</string>
+    <string name="import_source_pdf">PDF</string>
+    <string name="import_unreadable">Could not read the file</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
+    <string name="insert_drag_hint">Drag</string>
+    <string name="layer_drawing">Drawing</string>
+    <string name="layer_frame">Frame</string>
+    <string name="layer_image">Image</string>
+    <string name="layer_ink_strokes">Handwritten strokes</string>
+    <string name="layer_lock">Lock</string>
+    <string name="layer_shape">Shape</string>
+    <string name="layer_text">Text</string>
+    <string name="layer_unlock">Unlock</string>
+    <string name="legal_privacy_body">"**PRIVACY POLICY**
+
+Last updated: July 2026
+
+Your privacy is fundamental to us. This Privacy Policy explains how we collect, use, disclose and safeguard your information when you use the Scraply mobile application.
+
+**1. Collection and Use of Information**
+Scraply is designed to be a private creative tool. **We neither ask you for nor collect information that identifies you personally** (such as your name, email address or phone number).
+All the content you create - including your notebooks, drawings, text and imported images - is stored **strictly locally on your device**. We neither transmit nor store your designs on our servers.
+There are, however, limited exceptions in which technical data does leave the device: the diagnostic and advertising services described in section 3. Those services never receive your content - they do not see your notebooks, your drawings or your photos.
+
+**2. Device Permissions**
+To provide you with all of Scraply's features, we may request the following permissions:
+• **Access to Photos/Media/Files (Gallery):** Required solely to let you import images from your local photo gallery for use as elements inside your notebooks. We do not access, extract or analyse your gallery for any other purpose.
+
+**3. Third-Party Services, Diagnostics and Advertising**
+Three Google services run inside Scraply. None of them receives your creations.
+
+• **Firebase Crashlytics (stability).** If the app closes unexpectedly, it sends a report containing technical information about the device (model, operating system version) and the technical state of the App at the moment of failure (stack traces).
+
+• **Firebase Analytics (usage).** Aggregate, non-identifying statistics about which features are used and how the App performs, so we know what to improve.
+
+• **Google AdMob (advertising).** Scraply is free and is funded by advertising. Specifically, exporting a notebook as **PDF or as images** shows a rewarded video ad every few exports; the counter is visible in the export menu, so you always know when one is coming. Exporting in Scraply's own **.scrap** format never shows advertising, and neither does any other part of the App.
+To select and measure ads, Google may process your device's **advertising identifier** together with technical data such as the approximate location derived from your IP address, the device type and your interaction with the ad. You can reset or delete that identifier at any time from Android Settings > Privacy > Ads.
+More information: Google Privacy Policy (policies.google.com/privacy) and How Google uses information from sites or apps that use our services (policies.google.com/technologies/partner-sites).
+
+**Consent (European Economic Area, United Kingdom and Switzerland).** If you are in one of those regions, on first launch we show you a consent form managed by Google's User Messaging Platform, where you choose whether we may use your data for personalised advertising. If you decline, you will still see ads, but they will not be personalised.
+
+**4. Notifications**
+Scraply may send you occasional notifications to remind you about your notebooks and to share news. They are sent through Firebase Cloud Messaging, which assigns your installation a technical device identifier (not a personal one) that disappears when you uninstall the app. You can turn them off at any time from Android's notification settings.
+
+**5. Data Security**
+Because your creations are stored locally, the security of this data depends on the physical and digital security measures of your own device. We recommend keeping your device protected with passwords, a PIN or biometrics.
+
+**6. Children's Privacy**
+Scraply is not directed at children under 13. We do not knowingly collect personal data from children, and we do not ask any user for identifying information.
+Because the App shows advertising, if you are a parent or guardian and believe a child has used Scraply, you can reset or delete the device's advertising identifier from Android Settings > Privacy > Ads.
+
+**7. Changes to this Privacy Policy**
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in this same section of the App. We advise you to review this policy periodically to stay aware of any changes.
+
+**8. Contact Us**
+If you have questions, comments or concerns about our Privacy Policy, please do not hesitate to get in touch through Scraply's official support channels."</string>
+    <string name="legal_privacy_title">Privacy Policy</string>
+    <string name="legal_terms_body">"**TERMS AND CONDITIONS OF USE**
+
+Last updated: July 2026
+
+Welcome to Scraply. By downloading, accessing or using the Scraply mobile application (\"the App\"), you agree to be bound by these Terms and Conditions. If you do not agree with any part of the terms, you must not use our App.
+
+**1. Use of the App**
+Scraply is a digital design and creativity tool (\"scrapbooking\"). The App is currently provided in a phase of active development. We grant you a limited, non-exclusive, non-transferable and revocable licence to use the App for your personal, non-commercial purposes, subject to these Terms.
+
+**2. User-Generated Content**
+All artwork, compositions, designs, text and creative works (\"Content\") you create using Scraply are your sole property. You retain all copyright and any other intellectual property rights over your Content. Scraply claims no ownership rights over the notebooks or the artwork you produce in our App.
+You are solely responsible for the Content you import (such as photographs and stickers) and you agree not to use third-party copyrighted material without proper authorisation.
+
+**3. Local Storage**
+Scraply is a privacy-first, offline-first application. All your Content and App data are stored locally in your device's memory. We do not make backups on third-party servers or in the cloud.
+Keeping backups of your exported files and designs is your responsibility. If you uninstall the App or clear its data, your Content may be irreversibly lost. Scraply is not liable for data loss.
+
+**4. Features Under Development (Beta)**
+You acknowledge that Scraply is under continuous development. The App's features, interface and performance may change, be interrupted or be suspended without prior notice. The App is provided \"as is\" and \"as available\".
+
+**5. Limitation of Liability**
+To the maximum extent permitted by applicable law, Scraply (and its developers) shall not be liable for any indirect, incidental, special, consequential or punitive damages, nor for loss of profits, revenue, data or use, incurred by you or any third party, whether in an action in contract, tort (including negligence) or any other legal theory, arising out of your access to or use of, or inability to access or use, the App.
+
+**6. Changes to the Terms**
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice before the new terms take effect. Continued use of the App after any change constitutes acceptance of the new Terms.
+
+**7. Contact**
+If you have any questions about these Terms, you can get in touch with our support team."</string>
+    <string name="legal_terms_title">Terms and Conditions</string>
+    <string name="loading_exporting">Exporting…</string>
+    <string name="loading_importing">Importing…</string>
+    <string name="magic_palette_bubblegum">Bubblegum</string>
+    <string name="magic_palette_custom">Custom</string>
+    <string name="magic_palette_forest">Forest</string>
+    <string name="magic_palette_gold">Gold</string>
+    <string name="magic_palette_love">Love</string>
+    <string name="magic_palette_ocean">Ocean</string>
+    <string name="magic_palette_pastel">Pastel</string>
+    <string name="magic_palette_rainbow">Rainbow</string>
+    <string name="magic_palette_sunset">Sunset</string>
+    <string name="magic_palette_unicorn">Unicorn</string>
+    <string name="magic_panel_title">Magic wand</string>
+    <string name="magic_style_bubbles">Bubbles</string>
+    <string name="magic_style_butterflies">Butterflies</string>
+    <string name="magic_style_confetti">Confetti</string>
+    <string name="magic_style_dashed">Dashes</string>
+    <string name="magic_style_dotted">Dotted</string>
+    <string name="magic_style_flowers">Flowers</string>
+    <string name="magic_style_hearts">Hearts</string>
+    <string name="magic_style_kisses">Kisses</string>
+    <string name="magic_style_rainbow">Rainbow</string>
+    <string name="magic_style_snow">Snow</string>
+    <string name="magic_style_sparkle">Sparkles</string>
+    <string name="magic_style_stars">Stars</string>
+    <string name="mat_carpet">Carpet</string>
+    <string name="mat_checked">Checked weave</string>
+    <string name="mat_fabric">Fabric</string>
+    <string name="mat_leather">Plain leather</string>
+    <string name="mat_leather_quilted">Diamond-quilted leather</string>
+    <string name="mat_none">No texture</string>
+    <string name="mat_panama">Panama weave</string>
+    <string name="mat_paper">Paper</string>
+    <string name="mat_wicker">Wicker</string>
+    <string name="menu">Menu</string>
+    <string name="menu_about">About us</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_more_apps">More apps</string>
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
+    <string name="no_color">No color</string>
+    <string name="not_selected">Not selected</string>
+    <string name="notebook_default_title">My notebook</string>
+    <string name="notice_continue">Continue</string>
+    <string name="notice_update_body">We have been working on improvements and new features to give you a better creative experience. Go take a look!</string>
+    <string name="notice_update_title">"What's new in Scraply"</string>
+    <string name="notif_ch_reminders">Your notebooks</string>
+    <string name="notif_ch_reminders_desc">Gentle reminders about notebooks you have started.</string>
+    <string name="notif_ch_seasonal">News and seasons</string>
+    <string name="notif_ch_seasonal_desc">Holiday greetings, new features and the occasional offer.</string>
+    <string name="notif_ch_tips">Ideas and tips</string>
+    <string name="notif_ch_tips_desc">Small ideas to get more out of Scraply. Silent.</string>
+    <string name="notifications_permission_confirm">Allow</string>
+    <string name="notifications_permission_decline">"Don't allow"</string>
+    <string name="notifications_permission_title">Allow app to send you notifications?</string>
+    <string name="offline_dialog_image_description">Icon</string>
+    <string name="offline_dialog_text">"Thanks for your interest.
+We will share more once you're back online."</string>
+    <string name="offline_notification_title">"You are back online! Let's pick up where we left off"</string>
+    <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">No thanks</string>
+    <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
+    <string name="offline_opt_in_title">"Open ad when you're back online."</string>
+    <string name="open">Open</string>
+    <string name="panel_backgrounds">Backgrounds</string>
+    <string name="panel_frames">Frames</string>
+    <string name="panel_gallery">Gallery</string>
+    <string name="panel_insert">Insert</string>
+    <string name="panel_paper">Paper</string>
+    <string name="panel_recents">Recent</string>
+    <string name="panel_shapes">Shapes</string>
+    <string name="panel_stickers">Stickers</string>
+    <string name="panel_tapes">Tapes</string>
+    <string name="paper_blueprint">Blueprint</string>
+    <string name="paper_blush">Blush</string>
+    <string name="paper_cornell">Cornell</string>
+    <string name="paper_dots">Dots</string>
+    <string name="paper_dots_wide">Wide dots</string>
+    <string name="paper_graph">Graph</string>
+    <string name="paper_grid">Grid</string>
+    <string name="paper_grid_fine">Fine grid</string>
+    <string name="paper_hearts">Hearts</string>
+    <string name="paper_hearts_fine">Tiny hearts</string>
+    <string name="paper_kisses">Kisses</string>
+    <string name="paper_kraft">Kraft</string>
+    <string name="paper_legal">Legal pad</string>
+    <string name="paper_love_letter">Love letter</string>
+    <string name="paper_midnight">Midnight</string>
+    <string name="paper_plain">Plain</string>
+    <string name="paper_ruled">Ruled</string>
+    <string name="paper_ruled_margin">Ruled + margin</string>
+    <string name="paper_ruled_narrow">Narrow ruled</string>
+    <string name="paper_scope_both">Both</string>
+    <string name="paper_scope_left">Left</string>
+    <string name="paper_scope_right">Right</string>
+    <string name="paper_staff">Music staff</string>
+    <string name="paper_vintage">Vintage</string>
+    <string name="photos">Photos</string>
+    <string name="pro_locked_feature">“%1$s” is part of Scraply Pro</string>
+    <string name="pro_perk_frames">Exclusive frames and materials</string>
+    <string name="pro_perk_stickers">Premium sticker packs</string>
+    <string name="pro_perk_support">"Support Scraply's development ❤"</string>
+    <string name="pro_perk_textures">Premium textures for covers and desk</string>
+    <string name="project_id">scraply-e47fb</string>
+    <string name="quality_auto">Automatic</string>
+    <string name="quality_auto_desc">Adjusts quality to fit your device</string>
+    <string name="quality_balanced">Balanced</string>
+    <string name="quality_balanced_desc">Balance between smoothness and detail</string>
+    <string name="quality_battery">Battery</string>
+    <string name="quality_battery_desc">Smoothest. Reduced shadows, sharpness, and memory use</string>
+    <string name="quality_desc">Higher quality = nicer shadows and sharpness; lower = more fluid. Auto picks the best for your device.</string>
+    <string name="quality_quality">Quality</string>
+    <string name="quality_quality_desc">High shadows and sharpness (powerful devices)</string>
+    <string name="quality_ultra">Maximum</string>
+    <string name="quality_ultra_desc">Everything maxed: MSAA, occlusion and fine shadows (may be slow)</string>
+    <string name="rate_ask_later">Not now</string>
+    <string name="rate_ask_rate">Rate</string>
+    <string name="rate_ask_suggest">Suggest something</string>
+    <string name="rate_ask_text">A quick rating on Google Play means the world to us.</string>
+    <string name="rate_ask_title">Enjoying Scraply?</string>
+    <string name="rate_us">Rate Scraply ★</string>
+    <string name="rename">Rename</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="selected">Selected</string>
+    <string name="send_backward">Send Backward</string>
+    <string name="settings">Settings</string>
+    <string name="settings_cat_general">General</string>
+    <string name="settings_cat_general_sub">Vibration and app behaviour</string>
+    <string name="settings_cat_performance">Performance</string>
+    <string name="settings_cat_performance_sub">Graphics quality and smoothness</string>
+    <string name="settings_group_feedback">TOUCH FEEDBACK</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="shape_border">Border</string>
+    <string name="shape_corners">Corners</string>
+    <string name="shape_ellipse">Ellipse</string>
+    <string name="shape_fill">Fill</string>
+    <string name="shape_heart">Heart</string>
+    <string name="shape_line">Line</string>
+    <string name="shape_rect">Rectangle</string>
+    <string name="shape_star">Star</string>
+    <string name="shape_style_title">Shape style</string>
+    <string name="shape_thickness">Thickness</string>
+    <string name="shape_triangle">Triangle</string>
+    <string name="share_scrap_chooser">Share .scrap notebook</string>
+    <string name="spread_add">Add spread</string>
+    <string name="spread_delete">Delete spread</string>
+    <string name="spread_delete_confirm">Delete page</string>
+    <string name="spread_duplicate">Duplicate spread</string>
+    <string name="spread_need_one_page">You must keep at least one page</string>
+    <string name="state_empty">Empty</string>
+    <string name="state_off">Off</string>
+    <string name="state_on">On</string>
+    <string name="sticker_pack_count">%1$d stickers</string>
+    <string name="sticker_pack_count_tapes">%1$d tapes</string>
+    <string name="sticker_pack_remove_hint">Long-press a pack to sort or remove</string>
+    <string name="sticker_pack_removed">%1$s removed. Find it again in the Universe.</string>
+    <string name="sticker_packs_empty">Add packs from the Universe</string>
+    <string name="sticker_packs_loading">Loading sticker packs… if none show up, check your connection.</string>
+    <string name="store_acc_corazon">Enamelled heart, on the cover</string>
+    <string name="store_acc_gato">Cat medallion in black metal, on the band</string>
+    <string name="store_acc_mariposa">Three gold butterflies, on the band</string>
+    <string name="store_album_title">Photo album</string>
+    <string name="store_baby_title">"Baby's first year"</string>
+    <string name="store_band_title">Classic</string>
+    <string name="store_books_title">Books I have read</string>
+    <string name="store_budget_title">Money &amp; savings</string>
+    <string name="store_common_sub">Tap any page and make it yours</string>
+    <string name="store_corazon_title">From the Heart</string>
+    <string name="store_desc_album">Six spreads to mount your photos: overlapping frames, polaroids with room to write on and a page to tell the story.</string>
+    <string name="store_desc_band">The notebook as an object: navy cover from edge to edge, matching elastic band and twelve blank sheets. It arrives wrapped in its paper band — unwrap it and it is yours.</string>
+    <string name="store_desc_corazon">An enamelled heart at the centre of the cover, over cream leather grain, with blush paper inside.</string>
+    <string name="store_desc_gato">A cat medallion threaded on the elastic band. Ink-black covers and blank sheets with a trail of paw prints along the outer corner.</string>
+    <string name="store_desc_love">Sixteen pages of letters, quotes and reasons, on love-letter paper — with an envelope to fill in and seal.</string>
+    <string name="store_desc_mariposa">Three golden butterflies threaded on the elastic band, and the flight of three more crossing the corner of every sheet.</string>
+    <string name="store_desc_monthly">The whole year: twelve months, each with its calendar across the full spread, its 31-day habit tracker and its balance.</string>
+    <string name="store_desc_pet">Twelve pages for the one with four paws: profile, the day they arrived, vet record, milestones and photo grids.</string>
+    <string name="store_desc_tut">Six spreads, six lessons: draw, add photos, decorate and change the paper. You learn by using it, and the last sheet is left blank so you can start.</string>
+    <string name="store_desc_weekly">A whole month, four numbered weeks. Every day with its date field and its lines, the weekend washed out, and a close of habits and notes.</string>
+    <string name="store_fitness_title">Workout log</string>
+    <string name="store_gato_title">Black Cat</string>
+    <string name="store_gratitude_title">Gratitude journal</string>
+    <string name="store_habits_title">Habit tracker</string>
+    <string name="store_home_title">New home</string>
+    <string name="store_lbl_after">After</string>
+    <string name="store_lbl_amount">Amount</string>
+    <string name="store_lbl_before">Before</string>
+    <string name="store_lbl_care">Care</string>
+    <string name="store_lbl_concept">Item</string>
+    <string name="store_lbl_date">Date</string>
+    <string name="store_lbl_dates">Key dates</string>
+    <string name="store_lbl_exercise">Exercise</string>
+    <string name="store_lbl_expenses">Expenses</string>
+    <string name="store_lbl_favourites">Favourites</string>
+    <string name="store_lbl_goals">Goals</string>
+    <string name="store_lbl_guests">Guests</string>
+    <string name="store_lbl_habits">Habits</string>
+    <string name="store_lbl_ingredients">Ingredients</string>
+    <string name="store_lbl_key">Key ideas</string>
+    <string name="store_lbl_list">List</string>
+    <string name="store_lbl_memories">Memories</string>
+    <string name="store_lbl_milestones">Firsts</string>
+    <string name="store_lbl_name">Name</string>
+    <string name="store_lbl_note">Thoughts</string>
+    <string name="store_lbl_notes">Notes</string>
+    <string name="store_lbl_packing">Packing</string>
+    <string name="store_lbl_photos">Photos</string>
+    <string name="store_lbl_read">Read</string>
+    <string name="store_lbl_reps">Sets &amp; reps</string>
+    <string name="store_lbl_savings">Savings</string>
+    <string name="store_lbl_seen">Watched</string>
+    <string name="store_lbl_series">Series</string>
+    <string name="store_lbl_sketch">Sketch</string>
+    <string name="store_lbl_steps">Steps</string>
+    <string name="store_lbl_summary">Summary</string>
+    <string name="store_lbl_tickets">Tickets &amp; stubs</string>
+    <string name="store_lbl_title2">Title</string>
+    <string name="store_lbl_todo">To do</string>
+    <string name="store_lbl_vet">Vet visits</string>
+    <string name="store_lbl_vows">The vows</string>
+    <string name="store_lbl_week">Week</string>
+    <string name="store_lbl_wishlist">Want to try</string>
+    <string name="store_lbl_workout">Workout</string>
+    <string name="store_love_title">Love letters</string>
+    <string name="store_mariposa_title">Three Butterflies</string>
+    <string name="store_monthly_title">Monthly planner</string>
+    <string name="store_movies_title">Films &amp; series</string>
+    <string name="store_pet_title">My pet</string>
+    <string name="store_plants_title">My plants</string>
+    <string name="store_prompt_baby">What we want to remember</string>
+    <string name="store_prompt_day">How did today go?</string>
+    <string name="store_prompt_gratitude">What am I grateful for?</string>
+    <string name="store_prompt_love">What I want to tell you</string>
+    <string name="store_prompt_month">How did this month go?</string>
+    <string name="store_prompt_year">What I want from this year</string>
+    <string name="store_quote_album">A moment kept is a moment lived twice.</string>
+    <string name="store_quote_draw">A blank page is not empty. It is waiting.</string>
+    <string name="store_quote_gratitude">Small things, written down, stop being small.</string>
+    <string name="store_quote_love">Some things are better on paper.</string>
+    <string name="store_quote_read">A book you have read is a place you have been.</string>
+    <string name="store_quote_travel">The best souvenir is the one you write yourself.</string>
+    <string name="store_quote_year">A year is twelve chances to start over.</string>
+    <string name="store_recipes_title">Family recipes</string>
+    <string name="store_sketch_title">Sketchbook</string>
+    <string name="store_study_title">Study notebook</string>
+    <string name="store_travel_title">Travel journal</string>
+    <string name="store_tut_done_b">You know it all now. This notebook is yours!</string>
+    <string name="store_tut_done_t">Make it yours</string>
+    <string name="store_tut_drag">Drag me!</string>
+    <string name="store_tut_draw_b">Tap a pen for its thickness; hold it down for its colours.</string>
+    <string name="store_tut_draw_t">Draw</string>
+    <string name="store_tut_open_b">Any page opens as a canvas: tools below, undo up top.</string>
+    <string name="store_tut_open_t">Tap a page</string>
+    <string name="store_tut_page_b">The roller paints the page; the Paper tool sets its lines.</string>
+    <string name="store_tut_page_t">Change the paper</string>
+    <string name="store_tut_photo_b">Tap an empty frame and pick a photo. Hold it to move it.</string>
+    <string name="store_tut_photo_t">Add photos</string>
+    <string name="store_tut_sub">Learn by doing</string>
+    <string name="store_tut_text_b">The typewriter writes; stickers, shapes and tapes live in Insert.</string>
+    <string name="store_tut_text_t">Write and decorate</string>
+    <string name="store_tut_title">Quick start</string>
+    <string name="store_tut_try">Try it here</string>
+    <string name="store_tut_undo_b">The arrow up top undoes; the Layers panel sorts what overlaps.</string>
+    <string name="store_tut_undo_t">Undo anything</string>
+    <string name="store_wedding_title">Wedding planner</string>
+    <string name="store_weekly_title">Weekly planner</string>
+    <string name="store_year_title">My year</string>
+    <string name="support_body_hint">Please describe your issue here:</string>
+    <string name="support_subject">Scraply — Technical Support</string>
+    <string name="surface_carpet">Carpet</string>
+    <string name="surface_checks">Checks</string>
+    <string name="surface_leather">Leather</string>
+    <string name="surface_leather_quilted">Quilted leather</string>
+    <string name="surface_linen">Linen</string>
+    <string name="surface_panama">Panama weave</string>
+    <string name="surface_paper">Paper</string>
+    <string name="surface_studio">Studio</string>
+    <string name="surface_wicker">Wicker</string>
+    <string name="surface_wood">Wood</string>
+    <string name="switch_role">Switch</string>
+    <string name="tab">Tab</string>
+    <string name="taller_badge">WORKSHOP</string>
+    <string name="template_percent">%1$d percent.</string>
+    <string name="templates">Templates</string>
+    <string name="text_color_label">Color</string>
+    <string name="text_effect_amount_label">Intensity</string>
+    <string name="text_effect_color_label">Effect color</string>
+    <string name="text_effect_echo">Echo</string>
+    <string name="text_effect_glow">Neon</string>
+    <string name="text_effect_hollow">Hollow</string>
+    <string name="text_effect_label">Effect</string>
+    <string name="text_effect_label_fx">Label</string>
+    <string name="text_effect_lift">Lift</string>
+    <string name="text_effect_none">None</string>
+    <string name="text_effect_outline">Outline</string>
+    <string name="text_effect_shadow">Shadow</string>
+    <string name="text_font_label">Font</string>
+    <string name="text_format_label">Format</string>
+    <string name="text_style_title">Text Style</string>
+    <string name="textures">Textures</string>
+    <string name="tip_bubble_body">"If you're enjoying Scraply, you can support our development team by buying us a coffee."</string>
+    <string name="tip_bubble_cta">Buy a coffee</string>
+    <string name="tip_bubble_dismiss">Close</string>
+    <string name="tip_bubble_never">"Don't show again"</string>
+    <string name="tip_bubble_title">Support our work</string>
+    <string name="tip_coffee">A coffee</string>
+    <string name="tip_meal">Lunch</string>
+    <string name="tip_sheet_body">"Behind Scraply is a team working hard to bring you the best experience. If you'd like to support our ongoing efforts, you can buy us a coffee. This contribution does not unlock additional features; it is simply a valuable gesture of appreciation."</string>
+    <string name="tip_sheet_footer">One-time payment through Google Play</string>
+    <string name="tip_sheet_title">Support Scraply</string>
+    <string name="tip_snack">Coffee and something sweet</string>
+    <string name="tip_sweet">A sweet</string>
+    <string name="tip_thanks_button">Back to creating</string>
+    <string name="tip_thanks_message">"Your support goes straight into the time we put into Scraply. It means more than you'd think."</string>
+    <string name="tip_thanks_title">Thank you</string>
+    <string name="tool_camera">Camera</string>
+    <string name="tool_eraser">Eraser</string>
+    <string name="tool_highlighter">Highlighter</string>
+    <string name="tool_magic">Magic wand</string>
+    <string name="tool_marker">Marker</string>
+    <string name="tool_paper">Paper</string>
+    <string name="tool_pencil">Pencil</string>
+    <string name="tool_photo">Photo</string>
+    <string name="tool_roller">Roller</string>
+    <string name="tool_scissors">Scissors</string>
+    <string name="tool_smudge">Smudge</string>
+    <string name="tool_typewriter">Typewriter</string>
+    <string name="tpl_cat">Cat</string>
+    <string name="tpl_dog">Dog</string>
+    <string name="tpl_love_hearts">Hearts</string>
+    <string name="tpl_love_kisses">Kisses</string>
+    <string name="tpl_love_letter">Love letter</string>
+    <string name="tpl_none">None</string>
+    <string name="tpl_penguin">Penguin</string>
+    <string name="tpl_space">Space</string>
+    <string name="universe_ad_loading">Loading ad…</string>
+    <string name="universe_ad_not_finished">Watch the whole ad to get it</string>
+    <string name="universe_add_failed">Could not add it</string>
+    <string name="universe_add_to_gallery">Add to my gallery</string>
+    <string name="universe_add_with_ad">Watch an ad and add it</string>
+    <string name="universe_added">Added to your gallery</string>
+    <string name="universe_adding">Adding to your gallery…</string>
+    <string name="universe_arrival_cta">See it</string>
+    <string name="universe_arrival_title">New in the universe</string>
+    <string name="universe_buy">Buy %1$s</string>
+    <string name="universe_by">by %1$s</string>
+    <string name="universe_empty">Nothing here yet</string>
+    <string name="universe_empty_hint_readonly">More notebooks are on their way.</string>
+    <string name="universe_notice_body">Handmade notebooks to take to your gallery. And this is only the beginning: a lot more is on the way.</string>
+    <string name="universe_notice_cta">Take a look</string>
+    <string name="universe_notice_dismiss">Dismiss</string>
+    <string name="universe_notice_title">The Scraply universe</string>
+    <string name="universe_pack_added">Added</string>
+    <string name="universe_pack_get">Get</string>
+    <string name="universe_pages">%1$d pages</string>
+    <string name="universe_price_unavailable">Price unavailable</string>
+    <string name="universe_publish">Publish</string>
+    <string name="universe_publish_failed">Could not publish</string>
+    <string name="universe_publish_free_note">"Free ones carry your signature; paid ones don't."</string>
+    <string name="universe_publish_handle">Your creator name</string>
+    <string name="universe_publish_handle_hint">\@yourname</string>
+    <string name="universe_publish_listing_title">Title in the store</string>
+    <string name="universe_publish_pick">Which notebook do you want to publish?</string>
+    <string name="universe_publish_price_pick">Price</string>
+    <string name="universe_publish_unlock">How it is unlocked</string>
+    <string name="universe_publish_unlock_ad">With an ad</string>
+    <string name="universe_publish_unlock_ad_hint">One rewarded video and it is theirs, with no signature. Only for your own notebooks: an ad pays Scraply, not another creator.</string>
+    <string name="universe_publish_unlock_free">Free</string>
+    <string name="universe_publish_unlock_free_hint">Anyone can add it. It carries your signature.</string>
+    <string name="universe_publish_unlock_money">With a price</string>
+    <string name="universe_publish_unlock_money_hint">"It is sold. Google Play charges it in the buyer's own currency."</string>
+    <string name="universe_published">Published</string>
+    <string name="universe_publishing">Publishing…</string>
+    <string name="universe_purchase_checking">Confirming your purchase…</string>
+    <string name="universe_purchase_error">The purchase could not be completed.</string>
+    <string name="universe_section_accessories">Charms</string>
+    <string name="universe_section_frames">Frames</string>
+    <string name="universe_section_notebooks">Notebooks</string>
+    <string name="universe_section_stickers">Stickers</string>
+    <string name="universe_section_tapes">Tapes</string>
+    <string name="universe_seeding_progress">Preparing the store… %1$d/%2$d</string>
+    <string name="universe_spec_accessories">Accessories</string>
+    <string name="universe_spec_band">Elastic band</string>
+    <string name="universe_spec_cover">Cover</string>
+    <string name="universe_spec_cover_leather">Leather grain</string>
+    <string name="universe_spec_cover_paper">Textured paper</string>
+    <string name="universe_spec_cover_plain">Smooth</string>
+    <string name="universe_spec_included">Included</string>
+    <string name="universe_spec_pages">Pages</string>
+    <string name="universe_spec_paper">Paper</string>
+    <string name="universe_spec_pieces">%1$d pieces</string>
+    <string name="universe_specs_title">Details</string>
+    <string name="universe_title">Universe</string>
+    <string name="universe_yours">Yours</string>
+    <string name="viewer_enter">Viewer mode</string>
+    <string name="viewer_exit">Exit viewer mode</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
+    <string name="welcome_body">"Thanks for joining our test version. Scraply is under active development, designed to give you the best creative experience.
+
+Your feedback matters to us."</string>
+    <string name="welcome_start">Get started</string>
+    <string name="welcome_terms_link">Terms and Privacy Policy</string>
+    <string name="welcome_terms_prefix">I have read and accept the</string>
+    <string name="welcome_title">Welcome to Scraply</string>
+</resources>

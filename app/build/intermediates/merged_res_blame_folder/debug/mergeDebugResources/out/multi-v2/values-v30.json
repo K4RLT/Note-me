@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.daren.scraply.app-mergeDebugResources-65:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/Yiran/.gradle/caches/8.9/transforms/06d7e4f84ff9b21f1de53b2bf116b4e2/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

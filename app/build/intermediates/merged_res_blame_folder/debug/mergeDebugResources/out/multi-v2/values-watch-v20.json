@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.daren.scraply.app-mergeDebugResources-65:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/Yiran/.gradle/caches/8.9/transforms/489845b00790d3a07cda5718939d5928/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    },
+                    "to": {
+                        "startLines": "10,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "643,802,973",
+                        "endLines": "12,15,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "797,968,1141"
+                    }
+                },
+                {
+                    "source": "/home/Yiran/.gradle/caches/8.9/transforms/5a38085c35f9d50c892171ff5369a559/transformed/core-splashscreen-1.0.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "3,5,6,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "129,280,357,496,566",
+                        "endColumns": "75,76,70,69,67",
+                        "endOffsets": "200,352,423,561,629"
+                    },
+                    "to": {
+                        "startLines": "3,5,6,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "132,286,363,505,575",
+                        "endColumns": "75,76,70,69,67",
+                        "endOffsets": "203,358,429,570,638"
+                    }
+                },
+                {
+                    "source": "/home/Yiran/Documents/Note-me/app/src/main/res/values-watch/dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,132,210",
+                        "endColumns": "76,77,70",
+                        "endOffsets": "127,205,276"
+                    },
+                    "to": {
+                        "startLines": "2,4,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,208,434",
+                        "endColumns": "76,77,70",
+                        "endOffsets": "127,281,500"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gallery_stack_books">
+        <item quantity="other">%d notebooks</item>
+        <item quantity="one">%d notebook</item>
+    </plurals>
+    <plurals name="notebook_pages">
+        <item quantity="other">%d pages</item>
+        <item quantity="one">%d page</item>
+    </plurals>
+    <plurals name="universe_arrival_more">
+        <item quantity="other">and %1$d more</item>
+        <item quantity="one">and %1$d more</item>
+    </plurals>
+</resources>
