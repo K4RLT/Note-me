@@ -55,7 +55,7 @@ android {
 tasks.withType<JavaCompile> {
     options.compilerArgs.addAll(listOf("-nowarn", "-Xmaxerrs", "500", "-Xmaxwarns", "0", "-g:none"))
     options.isFork = true
-    options.forkOptions.jvmArgs = listOf("-Xmx6g", "-XX:+UseParallelGC")
+    options.forkOptions.jvmArgs = listOf("-Xmx3g", "-XX:+UseParallelGC")
 }
 
 dependencies {
@@ -93,6 +93,9 @@ dependencies {
     // Privacy Sandbox
     implementation("androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05")
     implementation("androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05")
+
+    // Google Play Services Ads
+    implementation("com.google.android.gms:play-services-ads:23.5.0")
 
     // Kotlin & Coroutines
     implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.0")
