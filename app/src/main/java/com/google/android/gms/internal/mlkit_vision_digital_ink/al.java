@@ -10,7 +10,7 @@ public final class al extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.al, com.google.android.gms.internal.mlkit_vision_digital_ink.nn] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.nn nnVar = new nn();
         zza = nnVar;
         nn.m(al.class, nnVar);
     }

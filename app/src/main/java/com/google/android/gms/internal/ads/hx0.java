@@ -160,7 +160,7 @@ public final class hx0 implements qa, b10, zx, s81, dr0, n80, xg0, y40, a10, i81
             if (x90Var2 == null) {
                 zd1Var.f13144x = new x90(context2, 11);
             }
-            ?? obj = new Object();
+            Object obj = new Object();
             Context context3 = (Context) zd1Var.f13142v;
             obj.f14643u = context3;
             x90 x90Var3 = (x90) zd1Var.f13144x;
@@ -189,7 +189,7 @@ public final class hx0 implements qa, b10, zx, s81, dr0, n80, xg0, y40, a10, i81
         }
         int i = 4;
         ew1 ew1Var = new ew1(context, new rl(context, i), handler, rs1Var2, new cw1(yv1Var));
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f3437v = context;
         obj2.f3438w = bx1.f4903u;
         obj2.f3439x = new rl(context, i);
@@ -239,7 +239,7 @@ public final class hx0 implements qa, b10, zx, s81, dr0, n80, xg0, y40, a10, i81
     /* JADX WARN: Type inference failed for: r7v11, types: [com.google.android.gms.internal.ads.qw] */
     @Override // com.google.android.gms.internal.ads.dr0
     public Object l(Object obj) {
-        ?? r62;
+        com.google.android.gms.internal.ads.qw r62;
         r9.a aVar;
         r9.c cVar;
         r9.b bVar;
@@ -548,7 +548,7 @@ public final class hx0 implements qa, b10, zx, s81, dr0, n80, xg0, y40, a10, i81
         d51 u9 = d51.u(arrayList);
         h60 h60Var = new h60(arrayList, bundle4, str3);
         wx wxVar = kn0Var.f7814a;
-        ?? e81Var = new e81(u9, true, false);
+        e81 e81Var = new e81(u9, true, false);
         e81Var.J = new m81(e81Var, h60Var, wxVar);
         e81Var.x();
         return e81Var;

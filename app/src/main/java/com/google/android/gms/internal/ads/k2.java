@@ -74,12 +74,12 @@ public final class k2 implements q2 {
                 }
                 dp0 dp0Var = new dp0();
                 y51 y51Var = this.f7605u;
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f6330a = y51Var;
                 arrayList.add(new da(s6Var, dp0Var, obj));
                 return;
             case 12:
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f7994c = 0;
                 obj2.f7995d = -1L;
                 obj2.f7996f = -1;

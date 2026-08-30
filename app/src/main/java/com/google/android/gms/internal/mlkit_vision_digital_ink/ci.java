@@ -10,7 +10,7 @@ public final class ci extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.ci] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.ci nnVar = new nn();
         zza = nnVar;
         nn.m(ci.class, nnVar);
     }

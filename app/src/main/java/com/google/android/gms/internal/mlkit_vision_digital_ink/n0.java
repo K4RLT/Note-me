@@ -28,7 +28,7 @@ public final class n0 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.mlkit_vision_digital_ink.m0] */
     public static m0 a() {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.m0 obj = new Object();
         obj.e = jm.f14513w;
         obj.f14654g = (byte) (obj.f14654g | 2);
         obj.c(true);

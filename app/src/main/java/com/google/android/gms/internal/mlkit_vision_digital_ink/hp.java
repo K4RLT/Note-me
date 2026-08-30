@@ -37,24 +37,24 @@ public final class hp {
     /* JADX WARN: Type inference failed for: r7v3, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.hp] */
     /* JADX WARN: Type inference failed for: r8v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.hp] */
     static {
-        ?? r02 = new Enum("INT", 0);
+        hp r02 = new Enum("INT", 0);
         f14431u = r02;
-        ?? r12 = new Enum("LONG", 1);
+        hp r12 = new Enum("LONG", 1);
         f14432v = r12;
-        ?? r22 = new Enum("FLOAT", 2);
+        hp r22 = new Enum("FLOAT", 2);
         f14433w = r22;
-        ?? r32 = new Enum("DOUBLE", 3);
+        hp r32 = new Enum("DOUBLE", 3);
         f14434x = r32;
-        ?? r42 = new Enum("BOOLEAN", 4);
+        hp r42 = new Enum("BOOLEAN", 4);
         f14435y = r42;
-        ?? r52 = new Enum("STRING", 5);
+        hp r52 = new Enum("STRING", 5);
         f14436z = r52;
         sm smVar = tm.f15012v;
-        ?? r62 = new Enum("BYTE_STRING", 6);
+        hp r62 = new Enum("BYTE_STRING", 6);
         A = r62;
-        ?? r72 = new Enum("ENUM", 7);
+        hp r72 = new Enum("ENUM", 7);
         B = r72;
-        ?? r8 = new Enum("MESSAGE", 8);
+        hp r8 = new Enum("MESSAGE", 8);
         C = r8;
         D = new hp[]{r02, r12, r22, r32, r42, r52, r62, r72, r8};
     }

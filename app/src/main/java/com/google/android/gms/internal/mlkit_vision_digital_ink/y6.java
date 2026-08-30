@@ -24,7 +24,7 @@ public final class y6 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.y5, java.lang.Object] */
     public static y5 a() {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.y5 obj = new Object();
         obj.e = j2.f14494u;
         byte b10 = (byte) (((byte) (obj.f15278d | 1)) | 2);
         obj.f15275a = 2;

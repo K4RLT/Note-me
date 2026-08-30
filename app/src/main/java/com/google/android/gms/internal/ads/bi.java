@@ -51,7 +51,7 @@ public final class bi implements View.OnAttachStateChangeListener, ViewTreeObser
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.ra, java.lang.Object] */
     public bi(Context context, View view) {
         View view2;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.ra obj = new Object();
         obj.f10163v = Long.MIN_VALUE;
         obj.f10164w = new Object();
         obj.f10162u = I;

@@ -39,7 +39,7 @@ public final class zd1 implements be1, l, ba, fa.b, zx, n9.e, a10, s90, zb0 {
         this.f13141u = 26;
         this.f13144x = ys1Var;
         this.f13142v = new WeakReference(context);
-        ?? r02 = new IntConsumer() { // from class: com.google.android.gms.internal.ads.xs1
+        com.google.android.gms.internal.ads.xs1 r02 = new IntConsumer() { // from class: com.google.android.gms.internal.ads.xs1
             @Override // java.util.function.IntConsumer
             public final /* synthetic */ void accept(int i) {
                 ys1 ys1Var2 = (ys1) zd1.this.f13144x;

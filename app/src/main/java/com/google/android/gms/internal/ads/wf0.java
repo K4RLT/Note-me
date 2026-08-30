@@ -176,7 +176,7 @@ public final class wf0 extends ph implements g9.s1 {
                     string3 = c10.getString(R.string.native_media_view);
                 }
                 linearLayout2.addView(ay0.G(context, string3, android.R.style.TextAppearance.Small, -9210245, 0.0f, "media_view_header_tag"));
-                ?? frameLayout = new FrameLayout(context);
+                FrameLayout frameLayout = new FrameLayout(context);
                 frameLayout.setTag("media_view_tag");
                 eVar.setMediaView(frameLayout);
                 linearLayout2.addView(frameLayout);

@@ -43,7 +43,7 @@ public final class xn1 extends LinkedHashMap {
         if (isEmpty()) {
             return new xn1();
         }
-        ?? linkedHashMap = new LinkedHashMap(this);
+        com.google.android.gms.internal.ads.xn1 linkedHashMap = new LinkedHashMap(this);
         linkedHashMap.f12599u = true;
         return linkedHashMap;
     }

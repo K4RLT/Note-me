@@ -95,7 +95,7 @@ public final class q5 implements p5, c6 {
     /* JADX WARN: Type inference failed for: r0v2, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.v5, java.lang.Object] */
     public final void g(d6 d6Var, Object obj) {
         if (this.f14839c == null) {
-            ?? obj2 = new Object();
+            com.google.android.gms.internal.mlkit_vision_digital_ink.v5 obj2 = new Object();
             obj2.f15118a = new Object[8];
             obj2.f15119b = 0;
             this.f14839c = obj2;

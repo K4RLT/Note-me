@@ -46,7 +46,7 @@ public final class f1 {
 
     /* JADX WARN: Type inference failed for: r8v0, types: [java.lang.Object, com.google.android.gms.internal.measurement.k1, java.util.concurrent.ThreadFactory] */
     public f1(Context context, Bundle bundle) {
-        ?? obj = new Object();
+        java.util.concurrent.ThreadFactory obj = new Object();
         obj.f13796a = Executors.defaultThreadFactory();
         ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(1, 1, 60L, TimeUnit.SECONDS, new LinkedBlockingQueue(), (ThreadFactory) obj);
         threadPoolExecutor.allowCoreThreadTimeOut(true);

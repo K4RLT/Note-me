@@ -21,7 +21,7 @@ public final class lu0 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.lu0, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.lu0 obj = new Object();
         obj.f8153b = false;
         obj.f8154c = false;
         f8151d = obj;

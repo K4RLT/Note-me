@@ -17,7 +17,7 @@ public abstract class ca extends m9 {
     /* JADX WARN: Type inference failed for: r0v7 */
     static {
         Throwable th;
-        ?? r02;
+        com.google.android.gms.internal.mlkit_vision_digital_ink.nw r02;
         try {
             th = null;
             r02 = new Object();

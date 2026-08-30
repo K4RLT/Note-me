@@ -13,7 +13,7 @@ public final class ip extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.ip] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.ip nnVar = new nn();
         zze = nnVar;
         nn.m(ip.class, nnVar);
         zza = new mn(fh.v(), nnVar, nnVar, new ln(AdError.NETWORK_ERROR_CODE, gp.f14375y));

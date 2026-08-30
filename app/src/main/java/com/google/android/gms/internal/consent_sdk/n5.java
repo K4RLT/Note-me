@@ -1,7 +1,7 @@
 package com.google.android.gms.internal.consent_sdk;
 
 /* JADX WARN: Enum visitor error
-jadx.core.utils.exceptions.JadxRuntimeException: Init of enum field 'EF0' uses external variables
+// jadx.core.utils.exceptions.JadxRuntimeException: Init of enum field 'EF0' uses external variables
 	at jadx.core.dex.visitors.EnumVisitor.createEnumFieldByConstructor(EnumVisitor.java:451)
 	at jadx.core.dex.visitors.EnumVisitor.processEnumFieldByRegister(EnumVisitor.java:395)
 	at jadx.core.dex.visitors.EnumVisitor.extractEnumFieldsFromFilledArray(EnumVisitor.java:324)

@@ -60,7 +60,7 @@ public final class jj {
         ((gl) flVar.f4845v).D(H);
         byte[] b10 = ((gl) flVar.c()).b();
         mf mfVar = this.f7450a;
-        ?? obj = new Object();
+        Object obj = new Object();
         Objects.requireNonNull(mfVar);
         obj.f8636w = mfVar;
         obj.f8635v = b10;

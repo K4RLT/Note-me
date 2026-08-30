@@ -58,7 +58,7 @@ public final class l9 implements j9 {
         xk0 xk0Var;
         this.f7978c = zd1Var;
         this.f7979d = str;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.k9 obj = new Object();
         obj.f7687d = new byte[128];
         this.f7982h = obj;
         if (zd1Var != null) {

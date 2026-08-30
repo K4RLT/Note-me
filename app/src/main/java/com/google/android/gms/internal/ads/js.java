@@ -90,7 +90,7 @@ public final class js implements n9.f {
             ig.b bVar = ig.b.e;
             boolean z9 = this.f7522c;
             bVar.getClass();
-            ?? r02 = iVar.f18511d;
+            Object r02 = iVar.f18511d;
             String[] strArr = iVar.f18510c;
             if (strArr != null) {
                 enabledCipherSuites = jg.b.m(ig.f.f18478b, sSLSocket.getEnabledCipherSuites(), strArr);
@@ -126,7 +126,7 @@ public final class js implements n9.f {
                 strArr2[length2] = str;
                 enabledCipherSuites = strArr2;
             }
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f18503a = iVar.f18508a;
             obj.f18505c = strArr;
             obj.f18506d = r02;

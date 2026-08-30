@@ -24,7 +24,7 @@ public final class y00 extends x00 {
                 ((ViewGroup) s00Var.getParent()).removeView(s00Var);
             }
             s00Var.destroy();
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f4252u = didCrash;
             obj.f4253v = rendererPriorityAtExit;
             jj jjVar = s00Var.f10435u0;

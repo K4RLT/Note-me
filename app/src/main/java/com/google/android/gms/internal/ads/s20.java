@@ -22,7 +22,7 @@ public final class s20 implements sr1 {
     /* JADX WARN: Type inference failed for: r4v0, types: [fa.b, com.google.android.gms.internal.ads.pg0, com.google.android.gms.internal.ads.rg0, fa.c] */
     public rg0 a() {
         Context a10 = ((o10) this.f10466b).a();
-        ?? pg0Var = new pg0();
+        fa.c pg0Var = new pg0();
         pg0Var.B = 1;
         pg0Var.f9519z = new cj(a10, f9.k.C.f16828t.a(), (fa.b) pg0Var, (fa.c) pg0Var, 2);
         return pg0Var;

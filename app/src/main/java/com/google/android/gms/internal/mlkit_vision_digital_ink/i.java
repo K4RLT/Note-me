@@ -132,7 +132,7 @@ public final class i {
     /* JADX WARN: Type inference failed for: r7v2, types: [java.lang.Object, com.google.android.gms.internal.mlkit_vision_digital_ink.g] */
     public final g i(Uri uri) {
         h4 k3 = k(uri);
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.g obj = new Object();
         obj.f14345a = this;
         obj.f14346b = j(uri.getScheme());
         obj.f14348d = this.f14450c;
@@ -150,7 +150,7 @@ public final class i {
             }
         }
         obj.f14349f = uri;
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f14345a = obj.f14345a;
         obj2.f14346b = obj.f14346b;
         obj2.f14347c = obj.f14347c;

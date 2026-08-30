@@ -40,7 +40,7 @@ public class b4 implements r0 {
     /* JADX WARN: Type inference failed for: r3v3 */
     /* JADX WARN: Type inference failed for: r3v4 */
     static {
-        ?? r32;
+        wa.g0 r32;
         try {
             th = null;
             r32 = new d3(AtomicReferenceFieldUpdater.newUpdater(a4.class, Thread.class, "a"), AtomicReferenceFieldUpdater.newUpdater(a4.class, a4.class, "b"), AtomicReferenceFieldUpdater.newUpdater(b4.class, a4.class, "w"), AtomicReferenceFieldUpdater.newUpdater(b4.class, g2.class, "v"), AtomicReferenceFieldUpdater.newUpdater(b4.class, Object.class, "u"));

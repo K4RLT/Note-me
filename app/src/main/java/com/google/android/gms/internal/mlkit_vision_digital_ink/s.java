@@ -15,7 +15,7 @@ public abstract class s {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.r, java.lang.Object] */
     public static r a(Context context) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.r obj = new Object();
         obj.f14879a = "";
         obj.f14880b = "";
         obj.f14880b = context.getPackageName();

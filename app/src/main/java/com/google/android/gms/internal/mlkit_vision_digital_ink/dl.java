@@ -10,7 +10,7 @@ public final class dl extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.dl] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.dl nnVar = new nn();
         zza = nnVar;
         nn.m(dl.class, nnVar);
     }

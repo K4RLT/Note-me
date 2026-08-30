@@ -13,7 +13,7 @@ public final class w61 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.w61, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("APPEND", 0);
+        w61 r02 = new Enum("APPEND", 0);
         f12161u = r02;
         f12162v = new w61[]{r02};
     }

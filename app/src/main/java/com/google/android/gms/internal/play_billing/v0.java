@@ -10,7 +10,7 @@ public final class v0 extends r1 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.play_billing.r1, com.google.android.gms.internal.play_billing.v0] */
     static {
-        ?? r1Var = new r1();
+        com.google.android.gms.internal.play_billing.v0 r1Var = new r1();
         zzb = r1Var;
         r1.f(v0.class, r1Var);
     }

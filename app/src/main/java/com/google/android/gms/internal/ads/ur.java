@@ -29,7 +29,7 @@ public final class ur extends oh implements vr {
     /* JADX WARN: Type inference failed for: r0v7 */
     @Override // com.google.android.gms.internal.ads.vr
     public final zs H(String str) {
-        ?? ohVar;
+        com.google.android.gms.internal.ads.zs ohVar;
         Parcel g22 = g2();
         g22.writeString(str);
         Parcel u22 = u2(g22, 3);
@@ -56,7 +56,7 @@ public final class ur extends oh implements vr {
     /* JADX WARN: Type inference failed for: r0v7 */
     @Override // com.google.android.gms.internal.ads.vr
     public final xr o(String str) {
-        ?? ohVar;
+        com.google.android.gms.internal.ads.xr ohVar;
         Parcel g22 = g2();
         g22.writeString(str);
         Parcel u22 = u2(g22, 1);

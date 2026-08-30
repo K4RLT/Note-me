@@ -66,7 +66,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.r71, com.google.android.gms.internal.ads.u81] */
     public static u81 A(Throwable th) {
         th.getClass();
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.u81 obj = new Object();
         obj.e(th);
         return obj;
     }
@@ -254,7 +254,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Multi-variable type inference failed */
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.h91, java.lang.Object, java.lang.Runnable] */
     public static h91 O(i81 i81Var, Executor executor) {
-        ?? obj = new Object();
+        java.lang.Runnable obj = new Object();
         obj.B = new g91((h91) obj, i81Var);
         executor.execute(obj);
         return obj;
@@ -315,7 +315,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.i71, com.google.android.gms.internal.ads.j71, com.google.android.gms.internal.ads.p81, java.lang.Runnable] */
     public static i71 S(ac.b bVar, Class cls, f31 f31Var, Executor executor) {
         int i = j71.E;
-        ?? j71Var = new j71(bVar, cls, f31Var);
+        java.lang.Runnable j71Var = new j71(bVar, cls, f31Var);
         bVar.a(j71Var, an1.G(executor, j71Var));
         return j71Var;
     }
@@ -348,7 +348,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.h71, com.google.android.gms.internal.ads.j71, com.google.android.gms.internal.ads.p81, java.lang.Runnable] */
     public static h71 U(ac.b bVar, Class cls, j81 j81Var, Executor executor) {
         int i = j71.E;
-        ?? j71Var = new j71(bVar, cls, j81Var);
+        java.lang.Runnable j71Var = new j71(bVar, cls, j81Var);
         bVar.a(j71Var, an1.G(executor, j71Var));
         return j71Var;
     }
@@ -359,7 +359,7 @@ public abstract class ed1 implements q2 {
             return;
         }
         q81 t3 = q81.t(bVar);
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f8337v = ur0Var;
         obj.f8338w = rr0Var;
         obj.f8336u = z3;
@@ -401,7 +401,7 @@ public abstract class ed1 implements q2 {
         if (bVar.isDone()) {
             return bVar;
         }
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.f91 obj = new Object();
         obj.B = bVar;
         qu0 qu0Var = new qu0();
         qu0Var.f9993v = obj;
@@ -539,7 +539,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.p81, com.google.android.gms.internal.ads.b81, java.lang.Runnable, com.google.android.gms.internal.ads.d81] */
     public static b81 c0(ac.b bVar, j81 j81Var, Executor executor) {
         int i = d81.D;
-        ?? d81Var = new d81(bVar, j81Var);
+        com.google.android.gms.internal.ads.d81 d81Var = new d81(bVar, j81Var);
         bVar.a(d81Var, an1.G(executor, d81Var));
         return d81Var;
     }
@@ -571,7 +571,7 @@ public abstract class ed1 implements q2 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.p81, java.lang.Runnable, com.google.android.gms.internal.ads.c81, com.google.android.gms.internal.ads.d81] */
     public static c81 d0(ac.b bVar, f31 f31Var, Executor executor) {
         int i = d81.D;
-        ?? d81Var = new d81(bVar, f31Var);
+        com.google.android.gms.internal.ads.d81 d81Var = new d81(bVar, f31Var);
         bVar.a(d81Var, an1.G(executor, d81Var));
         return d81Var;
     }

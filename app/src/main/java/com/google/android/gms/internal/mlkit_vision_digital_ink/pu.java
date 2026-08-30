@@ -22,11 +22,11 @@ public final class pu {
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.pu] */
     /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.pu] */
     static {
-        ?? r02 = new Enum("PENDING", 0);
+        pu r02 = new Enum("PENDING", 0);
         f14812u = r02;
-        ?? r12 = new Enum("DOWNLOADED", 1);
+        pu r12 = new Enum("DOWNLOADED", 1);
         f14813v = r12;
-        ?? r22 = new Enum("FAILED", 2);
+        pu r22 = new Enum("FAILED", 2);
         f14814w = r22;
         f14815x = new pu[]{r02, r12, r22, new Enum("UNKNOWN", 3)};
     }

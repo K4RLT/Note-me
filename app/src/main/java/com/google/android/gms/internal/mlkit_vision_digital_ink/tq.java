@@ -17,7 +17,7 @@ public final class tq implements uq {
         if (uqVar instanceof tq) {
             return (tq) uqVar;
         }
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.tq obj = new Object();
         obj.f15022v = f15020w;
         obj.f15021u = uqVar;
         return obj;

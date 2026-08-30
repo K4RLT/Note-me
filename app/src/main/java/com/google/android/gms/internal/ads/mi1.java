@@ -10,7 +10,7 @@ public final class mi1 extends dn1 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.mi1, com.google.android.gms.internal.ads.dn1] */
     static {
-        ?? dn1Var = new dn1();
+        com.google.android.gms.internal.ads.dn1 dn1Var = new dn1();
         zzd = dn1Var;
         dn1.t(mi1.class, dn1Var);
     }

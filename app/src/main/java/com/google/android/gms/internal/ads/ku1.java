@@ -42,7 +42,7 @@ public final class ku1 implements ie, by1, kw1 {
         qg qgVar = new qg();
         this.f7882b = qgVar;
         this.f7883c = new ah();
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f7666a = qgVar;
         b51 b51Var = d51.f5314v;
         obj.f7667b = y51.f12781y;

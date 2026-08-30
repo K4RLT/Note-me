@@ -10,7 +10,7 @@ import javax.crypto.spec.SecretKeySpec;
 public final class ue1 {
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.ue1, java.lang.Object] */
     public static ue1 a(ge1 ge1Var, Provider provider) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.ue1 obj = new Object();
         if (ct.i(1)) {
             try {
                 Mac.getInstance("AESCMAC", provider);

@@ -46,7 +46,7 @@ public final class jk0 implements l, p7, fa.c, e9.b, ay, zx, s81, n80, f9.g, xg0
         this.f7465u = 1;
         context.getClass();
         wxVar.getClass();
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f9020a = obj;
         tr1 a10 = tr1.a(context);
         obj.f9021b = a10;
@@ -128,7 +128,7 @@ public final class jk0 implements l, p7, fa.c, e9.b, ay, zx, s81, n80, f9.g, xg0
     /* JADX WARN: Type inference failed for: r4v1, types: [com.google.android.gms.internal.ads.bp0, java.lang.Object] */
     public ac.b C(x90 x90Var, yo0 yo0Var, j60 j60Var) {
         a20 h3 = yo0Var.h((xo0) x90Var.f12503w);
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.bp0 obj = new Object();
         switch (h3.f4319a) {
             case 0:
                 h3.f4321c = obj;

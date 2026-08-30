@@ -21,7 +21,7 @@ public final class fr extends er {
     /* JADX WARN: Type inference failed for: r0v0, types: [sg.f, java.lang.Object] */
     @Override // com.google.android.gms.internal.mlkit_vision_digital_ink.er
     public final void b(sg.m mVar) {
-        ?? obj = new Object();
+        sg.f obj = new Object();
         while (((sg.c) this.e.f7208y).q(obj, 8192L) != -1) {
             mVar.G(obj, obj.f25274v);
         }

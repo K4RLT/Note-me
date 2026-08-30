@@ -23,13 +23,13 @@ public final class u {
     /* JADX WARN: Type inference failed for: r6v2, types: [com.google.android.gms.internal.consent_sdk.u, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r7v2, types: [com.google.android.gms.internal.consent_sdk.u, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("DEBUG_PARAM_UNKNOWN", 0);
-        ?? r12 = new Enum("ALWAYS_SHOW", 1);
-        ?? r22 = new Enum("GEO_OVERRIDE_EEA", 2);
-        ?? r32 = new Enum("GEO_OVERRIDE_REGULATED_US_STATE", 3);
-        ?? r42 = new Enum("GEO_OVERRIDE_OTHER", 4);
-        ?? r52 = new Enum("GEO_OVERRIDE_NON_EEA", 5);
-        ?? r62 = new Enum("PREVIEWING_DEBUG_MESSAGES", 6);
+        u r02 = new Enum("DEBUG_PARAM_UNKNOWN", 0);
+        u r12 = new Enum("ALWAYS_SHOW", 1);
+        u r22 = new Enum("GEO_OVERRIDE_EEA", 2);
+        u r32 = new Enum("GEO_OVERRIDE_REGULATED_US_STATE", 3);
+        u r42 = new Enum("GEO_OVERRIDE_OTHER", 4);
+        u r52 = new Enum("GEO_OVERRIDE_NON_EEA", 5);
+        u r62 = new Enum("PREVIEWING_DEBUG_MESSAGES", 6);
         f13573u = r62;
         f13574v = new u[]{r02, r12, r22, r32, r42, r52, r62, new Enum("GEO_OVERRIDE_USFL", 7)};
     }

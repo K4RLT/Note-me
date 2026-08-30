@@ -21,11 +21,11 @@ public final class kf0 {
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.ads.kf0] */
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.kf0] */
     static {
-        ?? r02 = new Enum("NONE", 0);
+        kf0 r02 = new Enum("NONE", 0);
         f7729u = r02;
-        ?? r12 = new Enum("SHAKE", 1);
+        kf0 r12 = new Enum("SHAKE", 1);
         f7730v = r12;
-        ?? r22 = new Enum("FLICK", 2);
+        kf0 r22 = new Enum("FLICK", 2);
         f7731w = r22;
         f7732x = new kf0[]{r02, r12, r22};
     }

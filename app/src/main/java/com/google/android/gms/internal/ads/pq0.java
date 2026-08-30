@@ -21,11 +21,11 @@ public final class pq0 {
     /* JADX WARN: Type inference failed for: r1v1, types: [com.google.android.gms.internal.ads.pq0, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r2v2, types: [com.google.android.gms.internal.ads.pq0, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("Rewarded", 0);
+        pq0 r02 = new Enum("Rewarded", 0);
         f9585u = r02;
-        ?? r12 = new Enum("Interstitial", 1);
+        pq0 r12 = new Enum("Interstitial", 1);
         f9586v = r12;
-        ?? r22 = new Enum("AppOpen", 2);
+        pq0 r22 = new Enum("AppOpen", 2);
         f9587w = r22;
         f9588x = new pq0[]{r02, r12, r22};
     }

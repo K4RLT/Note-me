@@ -9,7 +9,7 @@ public final class sg extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.sg] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.sg nnVar = new nn();
         zza = nnVar;
         nn.m(sg.class, nnVar);
     }

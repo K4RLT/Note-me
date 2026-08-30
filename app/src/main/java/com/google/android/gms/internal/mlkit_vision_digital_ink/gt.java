@@ -17,7 +17,7 @@ public final class gt {
     /* JADX WARN: Type inference failed for: r3v2, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.gt, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r4v2, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.gt, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("ANY", 0);
+        gt r02 = new Enum("ANY", 0);
         f14379u = r02;
         f14380v = new gt[]{r02, new Enum("BLUETOOTH", 1), new Enum("ETHERNET", 2), new Enum("CELLULAR", 3), new Enum("WIFI", 4)};
     }

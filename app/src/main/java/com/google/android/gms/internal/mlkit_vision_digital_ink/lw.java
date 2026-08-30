@@ -266,7 +266,7 @@ public final class lw implements mb.f {
                                     } else {
                                         z10 = false;
                                     }
-                                    ?? obj = new Object();
+                                    Object obj = new Object();
                                     obj.f5940a = true;
                                     obj.f5941b = z10;
                                     obj.f5942c = booleanValue;
@@ -277,7 +277,7 @@ public final class lw implements mb.f {
                                 if (playbackOffloadSupport == 0) {
                                     zu1Var = zu1.f13272d;
                                 } else {
-                                    ?? obj2 = new Object();
+                                    Object obj2 = new Object();
                                     if (i11 > 32 && playbackOffloadSupport == 2) {
                                         z9 = true;
                                     } else {
@@ -293,7 +293,7 @@ public final class lw implements mb.f {
                                 if (!isOffloadedPlaybackSupported) {
                                     zu1Var = zu1.f13272d;
                                 } else {
-                                    ?? obj3 = new Object();
+                                    Object obj3 = new Object();
                                     obj3.f5940a = true;
                                     obj3.f5942c = booleanValue;
                                     zu1Var = obj3.a();

@@ -8,7 +8,7 @@ public final class n3 extends r1 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.play_billing.r1, com.google.android.gms.internal.play_billing.n3] */
     static {
-        ?? r1Var = new r1();
+        com.google.android.gms.internal.play_billing.n3 r1Var = new r1();
         zzb = r1Var;
         r1.f(n3.class, r1Var);
     }

@@ -14,7 +14,7 @@ public final class i0 implements h {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.mlkit_vision_digital_ink.i0] */
     public static i0 a() {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.i0 obj = new Object();
         obj.f14451u = false;
         return obj;
     }

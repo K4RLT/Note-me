@@ -46,7 +46,7 @@ public final class b3 extends r1 {
             r1 n10 = b3Var.n();
             try {
                 p2 a10 = m2.f15489c.a(n10.getClass());
-                ?? obj = new Object();
+                Object obj = new Object();
                 k1Var.getClass();
                 a10.c(n10, bArr, 0, length, obj);
                 a10.b(n10);

@@ -25,13 +25,13 @@ public final class mf0 {
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.mf0] */
     /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.mf0] */
     static {
-        ?? r02 = new Enum("UNKNOWN", 0);
+        mf0 r02 = new Enum("UNKNOWN", 0);
         f8339u = r02;
-        ?? r12 = new Enum("API", 1);
+        mf0 r12 = new Enum("API", 1);
         f8340v = r12;
-        ?? r22 = new Enum("GESTURE", 2);
+        mf0 r22 = new Enum("GESTURE", 2);
         f8341w = r22;
-        ?? r32 = new Enum("DEBUG_MENU", 3);
+        mf0 r32 = new Enum("DEBUG_MENU", 3);
         f8342x = r32;
         f8343y = new mf0[]{r02, r12, r22, r32};
     }

@@ -433,7 +433,7 @@ public final class hb implements com.google.android.gms.internal.mlkit_vision_di
         Context context = (Context) this.f6649u;
         com.google.android.gms.internal.mlkit_vision_digital_ink.i iVar = (com.google.android.gms.internal.mlkit_vision_digital_ink.i) this.f6652x;
         Executor executor = (Executor) this.f6654z;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f9668v = context;
         obj.f9669w = str;
         obj.f9667u = max;

@@ -33,7 +33,7 @@ public abstract class h4 extends c4 implements List, RandomAccess {
         if (!it.hasNext()) {
             return u(next);
         }
-        ?? b4Var = new b4(4);
+        b4 b4Var = new b4(4);
         b4Var.a(next);
         while (it.hasNext()) {
             b4Var.a(it.next());

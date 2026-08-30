@@ -21,11 +21,11 @@ public final class uk1 {
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.ads.uk1] */
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.uk1] */
     static {
-        ?? r02 = new Enum("NIST_P256", 0);
+        uk1 r02 = new Enum("NIST_P256", 0);
         f11662u = r02;
-        ?? r12 = new Enum("NIST_P384", 1);
+        uk1 r12 = new Enum("NIST_P384", 1);
         f11663v = r12;
-        ?? r22 = new Enum("NIST_P521", 2);
+        uk1 r22 = new Enum("NIST_P521", 2);
         f11664w = r22;
         f11665x = new uk1[]{r02, r12, r22};
     }

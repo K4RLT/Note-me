@@ -111,7 +111,7 @@ public final class k7 extends j7 {
             int pow2 = (int) Math.pow(2.0d, (K2 & 240) >> 4);
             xk0Var.K();
             byte[] copyOf = Arrays.copyOf(xk0Var.f12580a, xk0Var.f12582c);
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f12755a = K;
             obj.f12756b = i14;
             obj.f12757c = c10;

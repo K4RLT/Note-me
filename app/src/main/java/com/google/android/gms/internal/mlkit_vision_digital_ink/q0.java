@@ -38,7 +38,7 @@ public final /* synthetic */ class q0 implements ea {
                 r0 r0Var = (r0) this.f14827b;
                 ArrayList arrayList = (ArrayList) this.f14829d;
                 h4 s10 = h4.s(arrayList);
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f3158v = r0Var;
                 obj2.f3159w = (km) obj;
                 obj2.f3157u = this.f14828c;

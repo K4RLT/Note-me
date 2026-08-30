@@ -71,7 +71,7 @@ public final class cb extends Thread {
                 gbVar.k();
             } catch (Exception e8) {
                 Log.e("Volley", mb.d("Unhandled exception %s", e8.toString()), e8);
-                ?? exc = new Exception(e8);
+                Exception exc = new Exception(e8);
                 SystemClock.elapsedRealtime();
                 lx0Var.getClass();
                 gbVar.a("post-error");

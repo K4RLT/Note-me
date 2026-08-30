@@ -260,7 +260,7 @@ public final class ys1 extends um1 {
             }
             int i15 = 9;
             lt0 lt0Var2 = new lt0(i15, this);
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f1437b = s6Var.x(looper2, callback);
             obj.f1438c = s6Var.x(looper, callback);
             obj.e = 0;
@@ -465,7 +465,7 @@ public final class ys1 extends um1 {
         et1 et1Var = this.G;
         if (!et1Var.f5781c0 && et1Var.C.getThread().isAlive()) {
             et1Var.f5781c0 = true;
-            ?? obj = new Object();
+            Object obj = new Object();
             et1Var.A.b(7, obj).a();
             z3 = obj.c(et1Var.M);
         } else {
@@ -730,7 +730,7 @@ public final class ys1 extends um1 {
         }
         et1 et1Var = this.G;
         if (!et1Var.f5781c0 && et1Var.C.getThread().isAlive()) {
-            ?? obj2 = new Object();
+            Object obj2 = new Object();
             et1Var.A.b(30, new Pair(surface, obj2)).a();
             if (j10 != -9223372036854775807L) {
                 z9 = obj2.c(j10);

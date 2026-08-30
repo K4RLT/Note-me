@@ -89,9 +89,9 @@ public final class oz extends jz implements my {
     /* JADX WARN: Type inference failed for: r4v6 */
     @Override // com.google.android.gms.internal.ads.jz
     public final boolean d(String str, String[] strArr) {
-        ?? r42;
+        Object r42;
         boolean z3;
-        ?? r22;
+        Object r22;
         boolean z9;
         String str2;
         String str3;

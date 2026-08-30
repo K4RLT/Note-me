@@ -93,13 +93,13 @@ public final class b4 implements c4 {
         if (map2 == null) {
             synchronized (this.f13652y) {
                 try {
-                    ?? r02 = this.f13653z;
+                    Object r02 = this.f13653z;
                     Map map4 = r02;
                     if (r02 == 0) {
                         try {
                             StrictMode.ThreadPolicy allowThreadDiskReads = StrictMode.allowThreadDiskReads();
                             try {
-                                ?? obj = new Object();
+                                Object obj = new Object();
                                 obj.f13873u = this;
                                 try {
                                     c10 = obj.c();

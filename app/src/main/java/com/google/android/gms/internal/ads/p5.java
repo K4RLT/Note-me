@@ -299,7 +299,7 @@ public final class p5 implements n2 {
                                                 }
                                                 return;
                                             }
-                                            ?? obj = new Object();
+                                            Object obj = new Object();
                                             obj.f7942b = -9223372036854775807L;
                                             obj.f7943c = -9223372036854775807L;
                                             this.f9401y = obj;
@@ -346,7 +346,7 @@ public final class p5 implements n2 {
                     }
                     return;
                 }
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f8973o = -1;
                 obj2.f8974p = -1;
                 obj2.f8975q = -1;

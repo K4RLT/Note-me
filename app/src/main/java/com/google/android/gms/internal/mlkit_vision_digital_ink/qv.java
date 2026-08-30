@@ -308,7 +308,7 @@ public final /* synthetic */ class qv implements ea {
                                                                                 Uri uri4 = i23.e;
                                                                                 if (isEmpty) {
                                                                                     com.google.android.gms.internal.measurement.e4 e4Var2 = new com.google.android.gms.internal.measurement.e4(12, i23.f14345a, uri4, false);
-                                                                                    ?? obj6 = new Object();
+                                                                                    Object obj6 = new Object();
                                                                                     obj6.f14308c = new Object();
                                                                                     hm hmVar = new hm(obj6);
                                                                                     obj6.f14307b = hmVar;
@@ -574,7 +574,7 @@ public final /* synthetic */ class qv implements ea {
                                                                         Uri uri4 = i23.e;
                                                                         if (isEmpty) {
                                                                             com.google.android.gms.internal.measurement.e4 e4Var2 = new com.google.android.gms.internal.measurement.e4(12, i23.f14345a, uri4, false);
-                                                                            ?? obj6 = new Object();
+                                                                            Object obj6 = new Object();
                                                                             obj6.f14308c = new Object();
                                                                             hm hmVar = new hm(obj6);
                                                                             obj6.f14307b = hmVar;

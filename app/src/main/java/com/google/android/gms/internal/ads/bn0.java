@@ -49,7 +49,7 @@ public final class bn0 implements sr1 {
             case 6:
                 return la.a.f20062a;
             case 7:
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f8397a = null;
                 return obj2;
             case 8:

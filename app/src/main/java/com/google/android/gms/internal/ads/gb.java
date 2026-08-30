@@ -57,7 +57,7 @@ public abstract class gb implements Comparable {
         this.f6354v = i;
         this.f6355w = str;
         this.f6358z = ibVar;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f4254a = 2500;
         this.F = obj;
         if (!TextUtils.isEmpty(str) && (parse = Uri.parse(str)) != null && (host = parse.getHost()) != null) {

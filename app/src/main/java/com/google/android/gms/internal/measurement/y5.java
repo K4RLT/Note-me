@@ -19,9 +19,9 @@ public final class y5 {
     /* JADX WARN: Type inference failed for: r1v0, types: [java.lang.Object, com.google.android.gms.internal.measurement.o5] */
     public y5() {
         r5[] r5VarArr = {c5.f13672v, o5.f13872v};
-        ?? obj = new Object();
+        com.google.android.gms.internal.measurement.o5 obj = new Object();
         obj.f13873u = r5VarArr;
-        ?? obj2 = new Object();
+        com.google.android.gms.internal.measurement.o5 obj2 = new Object();
         Charset charset = d5.f13686a;
         obj2.f13873u = obj;
         this.f13984a = obj2;

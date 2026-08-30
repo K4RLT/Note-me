@@ -197,7 +197,7 @@ public final class dy1 implements xx1, wx1 {
             }
         }
         this.A = new zy1(hiVarArr);
-        ?? r12 = this.f5554z;
+        Object r12 = this.f5554z;
         r12.getClass();
         r12.h(this);
     }
@@ -326,7 +326,7 @@ public final class dy1 implements xx1, wx1 {
     /* JADX WARN: Type inference failed for: r1v2, types: [com.google.android.gms.internal.ads.wx1, java.lang.Object] */
     @Override // com.google.android.gms.internal.ads.wx1
     public final /* bridge */ /* synthetic */ void j(ty1 ty1Var) {
-        ?? r12 = this.f5554z;
+        com.google.android.gms.internal.ads.wx1 r12 = this.f5554z;
         r12.getClass();
         r12.j(this);
     }

@@ -63,7 +63,7 @@ public final class fk0 implements di0 {
                     return ed1.A(new cg0(3, "Unable to instantiate mediation adapter class."));
                 }
                 yx yxVar = new yx();
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f8337v = gi0Var;
                 obj.f8338w = yxVar;
                 obj.f8336u = false;
@@ -89,7 +89,7 @@ public final class fk0 implements di0 {
                 return ((kr0) k60Var2.f7670f).a(k60Var2.j(), ir0.ADAPTER_WRAP_ADAPTER).e(new ek0(this, wp0Var, qp0Var, gi0Var)).j();
             default:
                 yx yxVar2 = new yx();
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 p8 p8Var = new p8(this, yxVar2, wp0Var, qp0Var, obj2, 4, false);
                 synchronized (obj2) {
                     obj2.f8048u = p8Var;

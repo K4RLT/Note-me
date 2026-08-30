@@ -43,7 +43,7 @@ public final /* synthetic */ class ma0 implements Runnable {
                 View view = (View) this.f8294y;
                 boolean z3 = this.f8291v;
                 int i = this.f8292w;
-                ?? r12 = na0Var.f8625w;
+                Object r12 = na0Var.f8625w;
                 if (r12 == 0) {
                     int i10 = k9.a0.f19634b;
                     l9.i.a("Ad should be associated with an ad view before calling performClickForCustomGesture()");

@@ -172,7 +172,7 @@ public abstract class zw1 implements wt1 {
         this.Q = new es1(0);
         this.R = new es1(0);
         this.S = new es1(2);
-        ?? es1Var = new es1(2);
+        es1 es1Var = new es1(2);
         es1Var.f10327j = 32;
         this.T = es1Var;
         this.U = new MediaCodec.BufferInfo();
@@ -183,7 +183,7 @@ public abstract class zw1 implements wt1 {
         this.O0 = yw1.f12992g;
         es1Var.d(0);
         es1Var.f5767d.order(ByteOrder.nativeOrder());
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f9753w = t10.f11228a;
         obj.f9752v = 0;
         obj.f9751u = 2;

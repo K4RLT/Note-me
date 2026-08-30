@@ -15,7 +15,7 @@ public final class ia implements Executor {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.ia] */
     static {
-        ?? r02 = new Enum("INSTANCE", 0);
+        ia r02 = new Enum("INSTANCE", 0);
         f14473u = r02;
         f14474v = new ia[]{r02};
     }

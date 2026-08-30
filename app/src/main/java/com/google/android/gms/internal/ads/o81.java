@@ -15,7 +15,7 @@ public final class o81 implements Executor {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, com.google.android.gms.internal.ads.o81] */
     static {
-        ?? r02 = new Enum("INSTANCE", 0);
+        o81 r02 = new Enum("INSTANCE", 0);
         f9033u = r02;
         f9034v = new o81[]{r02};
     }

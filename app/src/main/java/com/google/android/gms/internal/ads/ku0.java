@@ -20,7 +20,7 @@ public final class ku0 implements fu0 {
     /* JADX WARN: Type inference failed for: r0v2, types: [com.google.android.gms.internal.ads.ku0, java.lang.Object] */
     public static ku0 b() {
         if (f7877d == null) {
-            ?? obj = new Object();
+            com.google.android.gms.internal.ads.ku0 obj = new Object();
             obj.f7878a = 0.0f;
             f7877d = obj;
         }

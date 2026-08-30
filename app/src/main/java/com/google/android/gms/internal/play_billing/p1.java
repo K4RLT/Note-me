@@ -24,7 +24,7 @@ public final class p1 implements h2 {
                 if (e2Var.isEmpty()) {
                     e2Var = new e2();
                 } else {
-                    ?? linkedHashMap = new LinkedHashMap(e2Var);
+                    LinkedHashMap linkedHashMap = new LinkedHashMap(e2Var);
                     linkedHashMap.f15413u = true;
                     e2Var = linkedHashMap;
                 }

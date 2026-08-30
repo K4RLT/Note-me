@@ -35,7 +35,7 @@ public abstract class k0 implements r0 {
         Object obj;
         Throwable th;
         Throwable th2;
-        ?? r02;
+        Object r02;
         Object obj2;
         try {
             z3 = Boolean.parseBoolean(System.getProperty("guava.concurrent.generate_cancellation_cause", "false"));

@@ -171,7 +171,7 @@ public final class ls1 implements ht1 {
         ConcurrentHashMap concurrentHashMap = this.f8129n;
         ks1 ks1Var = (ks1) concurrentHashMap.get(tu1Var);
         if (ks1Var == null) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f7866a = 1;
             concurrentHashMap.put(tu1Var, obj);
         } else {

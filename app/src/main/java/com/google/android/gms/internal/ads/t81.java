@@ -206,7 +206,7 @@ public final class t81 implements Runnable {
                     k9.a0.k("loadJavascriptEngine > Before createJavascriptEngine");
                     Context context = (Context) drVar.f5485d;
                     l9.a aVar = (l9.a) drVar.e;
-                    ?? obj = new Object();
+                    Object obj = new Object();
                     h00 e8 = fp.e(context, new x0(0, 0, 0), "", false, false, null, null, aVar, null, null, new jj(), null, null, null, null, null);
                     obj.f11699u = e8;
                     e8.U().setWillNotDraw(true);

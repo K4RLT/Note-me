@@ -39,26 +39,26 @@ public final class yn {
     /* JADX WARN: Type inference failed for: r8v3, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.yn] */
     /* JADX WARN: Type inference failed for: r9v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.yn] */
     static {
-        ?? r02 = new Enum("VOID", 0);
+        yn r02 = new Enum("VOID", 0);
         f15287u = r02;
-        ?? r12 = new Enum("INT", 1);
+        yn r12 = new Enum("INT", 1);
         f15288v = r12;
-        ?? r22 = new Enum("LONG", 2);
+        yn r22 = new Enum("LONG", 2);
         f15289w = r22;
-        ?? r32 = new Enum("FLOAT", 3);
+        yn r32 = new Enum("FLOAT", 3);
         f15290x = r32;
-        ?? r42 = new Enum("DOUBLE", 4);
+        yn r42 = new Enum("DOUBLE", 4);
         f15291y = r42;
-        ?? r52 = new Enum("BOOLEAN", 5);
+        yn r52 = new Enum("BOOLEAN", 5);
         f15292z = r52;
-        ?? r62 = new Enum("STRING", 6);
+        yn r62 = new Enum("STRING", 6);
         A = r62;
         sm smVar = tm.f15012v;
-        ?? r72 = new Enum("BYTE_STRING", 7);
+        yn r72 = new Enum("BYTE_STRING", 7);
         B = r72;
-        ?? r8 = new Enum("ENUM", 8);
+        yn r8 = new Enum("ENUM", 8);
         C = r8;
-        ?? r92 = new Enum("MESSAGE", 9);
+        yn r92 = new Enum("MESSAGE", 9);
         D = r92;
         E = new yn[]{r02, r12, r22, r32, r42, r52, r62, r72, r8, r92};
     }

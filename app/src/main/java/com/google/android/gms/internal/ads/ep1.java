@@ -37,24 +37,24 @@ public final class ep1 {
     /* JADX WARN: Type inference failed for: r7v3, types: [java.lang.Enum, com.google.android.gms.internal.ads.ep1] */
     /* JADX WARN: Type inference failed for: r8v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.ep1] */
     static {
-        ?? r02 = new Enum("INT", 0);
+        ep1 r02 = new Enum("INT", 0);
         f5745u = r02;
-        ?? r12 = new Enum("LONG", 1);
+        ep1 r12 = new Enum("LONG", 1);
         f5746v = r12;
-        ?? r22 = new Enum("FLOAT", 2);
+        ep1 r22 = new Enum("FLOAT", 2);
         f5747w = r22;
-        ?? r32 = new Enum("DOUBLE", 3);
+        ep1 r32 = new Enum("DOUBLE", 3);
         f5748x = r32;
-        ?? r42 = new Enum("BOOLEAN", 4);
+        ep1 r42 = new Enum("BOOLEAN", 4);
         f5749y = r42;
-        ?? r52 = new Enum("STRING", 5);
+        ep1 r52 = new Enum("STRING", 5);
         f5750z = r52;
         mm1 mm1Var = om1.f9167v;
-        ?? r62 = new Enum("BYTE_STRING", 6);
+        ep1 r62 = new Enum("BYTE_STRING", 6);
         A = r62;
-        ?? r72 = new Enum("ENUM", 7);
+        ep1 r72 = new Enum("ENUM", 7);
         B = r72;
-        ?? r8 = new Enum("MESSAGE", 8);
+        ep1 r8 = new Enum("MESSAGE", 8);
         C = r8;
         D = new ep1[]{r02, r12, r22, r32, r42, r52, r62, r72, r8};
     }

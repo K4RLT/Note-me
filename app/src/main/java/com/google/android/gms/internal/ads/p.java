@@ -49,7 +49,7 @@ public final class p {
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.bx1] */
     public p(Context context) {
         Context context2;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.bx1 obj = new Object();
         j jVar = j.F;
         this.f9294c = new Object();
         if (context != null) {

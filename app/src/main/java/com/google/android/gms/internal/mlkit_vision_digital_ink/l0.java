@@ -47,7 +47,7 @@ public abstract class l0 {
                                 } else {
                                     jq t3 = oqVar.t();
                                     if (t3.t() > 0) {
-                                        ?? b4Var = new b4(4);
+                                        b4 b4Var = new b4(4);
                                         for (iq iqVar : t3.w()) {
                                             pa.p(iqVar.v());
                                             if (iqVar.w()) {

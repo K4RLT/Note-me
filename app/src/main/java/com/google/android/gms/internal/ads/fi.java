@@ -59,7 +59,7 @@ public final class fi {
         this.f6068c = i11;
         this.f6069d = z3;
         this.e = new c7.x(i12, 4);
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f9751u = i13;
         i14 = (i14 > 64 || i14 < 0) ? 64 : i14;
         if (i15 <= 0) {

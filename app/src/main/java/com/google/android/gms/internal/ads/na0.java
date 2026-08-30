@@ -328,7 +328,7 @@ public final class na0 extends z40 {
                     if (qp0Var.f9943k0 && (keys = qp0Var.f9941j0.keys()) != null) {
                         while (keys.hasNext()) {
                             String next = keys.next();
-                            ?? r22 = this.f8625w;
+                            Object r22 = this.f8625w;
                             if (r22 == 0) {
                                 weakReference = null;
                             } else {
@@ -432,7 +432,7 @@ public final class na0 extends z40 {
 
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.ph, com.google.android.gms.internal.ads.mb0] */
     public final synchronized ImageView.ScaleType k() {
-        ?? r02 = this.f8625w;
+        com.google.android.gms.internal.ads.mb0 r02 = this.f8625w;
         if (r02 == 0) {
             int i = k9.a0.f19634b;
             l9.i.a("Ad should be associated with an ad view before calling getMediaviewScaleType()");
@@ -512,7 +512,7 @@ public final class na0 extends z40 {
         h00 h3;
         ib0 ib0Var;
         ab0 ab0Var = this.f8617o;
-        ?? r12 = this.f8625w;
+        n.r0 r12 = this.f8625w;
         if (r12 != 0 && (ib0Var = ab0Var.e) != null && r12.b4() != null && ab0Var.f4433c.a()) {
             try {
                 r12.b4().addView(ib0Var.a());

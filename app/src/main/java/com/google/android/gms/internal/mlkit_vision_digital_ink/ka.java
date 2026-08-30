@@ -21,11 +21,11 @@ public final class ka {
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.ka] */
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.ka] */
     static {
-        ?? r02 = new Enum("NOT_RUN", 0);
+        ka r02 = new Enum("NOT_RUN", 0);
         f14564u = r02;
-        ?? r12 = new Enum("CANCELLED", 1);
+        ka r12 = new Enum("CANCELLED", 1);
         f14565v = r12;
-        ?? r22 = new Enum("STARTED", 2);
+        ka r22 = new Enum("STARTED", 2);
         f14566w = r22;
         f14567x = new ka[]{r02, r12, r22};
     }

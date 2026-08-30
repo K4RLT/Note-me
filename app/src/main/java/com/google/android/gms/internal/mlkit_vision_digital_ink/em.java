@@ -40,7 +40,7 @@ public class em implements ya {
     /* JADX WARN: Type inference failed for: r3v3 */
     /* JADX WARN: Type inference failed for: r3v4 */
     static {
-        ?? r32;
+        com.google.android.gms.internal.mlkit_vision_digital_ink.tl r32;
         try {
             th = null;
             r32 = new bm(AtomicReferenceFieldUpdater.newUpdater(dm.class, Thread.class, "a"), AtomicReferenceFieldUpdater.newUpdater(dm.class, dm.class, "b"), AtomicReferenceFieldUpdater.newUpdater(em.class, dm.class, "w"), AtomicReferenceFieldUpdater.newUpdater(em.class, am.class, "v"), AtomicReferenceFieldUpdater.newUpdater(em.class, Object.class, "u"));

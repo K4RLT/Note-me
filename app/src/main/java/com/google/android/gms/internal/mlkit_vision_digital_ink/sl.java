@@ -82,7 +82,7 @@ public abstract class sl implements ee.c {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.b4, com.google.android.gms.internal.mlkit_vision_digital_ink.d4] */
     public static i c(Context context, kx kxVar) {
         e4 e4Var = h4.f14393v;
-        ?? b4Var = new b4(4);
+        com.google.android.gms.internal.mlkit_vision_digital_ink.d4 b4Var = new b4(4);
         b4Var.a(new k(new ew(context, 1)));
         if (Build.VERSION.SDK_INT >= 30) {
             b4Var.a(new q(context));

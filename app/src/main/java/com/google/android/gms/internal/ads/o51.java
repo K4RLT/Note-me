@@ -16,7 +16,7 @@ public final class o51 implements Iterator {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, com.google.android.gms.internal.ads.o51] */
     static {
-        ?? r02 = new Enum("INSTANCE", 0);
+        o51 r02 = new Enum("INSTANCE", 0);
         f8987u = r02;
         f8988v = new o51[]{r02};
     }

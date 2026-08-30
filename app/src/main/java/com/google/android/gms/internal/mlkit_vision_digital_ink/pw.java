@@ -487,7 +487,7 @@ public final class pw implements a6.w, c7.d0, com.google.android.gms.internal.ad
     /* JADX WARN: Type inference failed for: r0v1, types: [c7.f0, java.lang.Object] */
     public pw(Context context, com.google.android.gms.internal.play_billing.l3 l3Var) {
         this.f14820u = 2;
-        ?? obj = new Object();
+        c7.f0 obj = new Object();
         try {
             n8.q.b(context);
             obj.f3950v = n8.q.a().c(l8.a.e).a("PLAY_BILLING_LIBRARY", new k8.c("proto"), new va.t(10));

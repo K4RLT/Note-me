@@ -53,7 +53,7 @@ public final class c4 implements n2 {
 
     /* JADX WARN: Type inference failed for: r0v4, types: [com.google.android.gms.internal.ads.d4, com.google.android.gms.internal.ads.um1] */
     public c4() {
-        ?? um1Var = new um1(new l2());
+        com.google.android.gms.internal.ads.um1 um1Var = new um1(new l2());
         um1Var.f5301w = -9223372036854775807L;
         um1Var.f5302x = new long[0];
         um1Var.f5303y = new long[0];

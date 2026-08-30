@@ -183,7 +183,7 @@ public abstract class n5 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.g9, com.google.android.gms.internal.mlkit_vision_digital_ink.ma, com.google.android.gms.internal.mlkit_vision_digital_ink.e9, java.lang.Runnable] */
     public static e9 k(ya yaVar, Class cls, r0 r0Var, Executor executor) {
         int i = g9.F;
-        ?? g9Var = new g9(yaVar, cls, r0Var);
+        java.lang.Runnable g9Var = new g9(yaVar, cls, r0Var);
         yaVar.g(g9Var, f7.l(executor, g9Var));
         return g9Var;
     }
@@ -191,7 +191,7 @@ public abstract class n5 {
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.n9, com.google.android.gms.internal.mlkit_vision_digital_ink.ua, java.lang.Object] */
     public static ua l(Throwable th) {
         th.getClass();
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.ua obj = new Object();
         obj.o(th);
         return obj;
     }
@@ -209,7 +209,7 @@ public abstract class n5 {
         if (yaVar.isDone()) {
             return yaVar;
         }
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.ya obj = new Object();
         obj.B = yaVar;
         yaVar.g(obj, ia.f14473u);
         return obj;
@@ -225,7 +225,7 @@ public abstract class n5 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.x9, com.google.android.gms.internal.mlkit_vision_digital_ink.y9, com.google.android.gms.internal.mlkit_vision_digital_ink.ma, java.lang.Runnable] */
     public static x9 p(ya yaVar, m2 m2Var, Executor executor) {
         int i = y9.E;
-        ?? y9Var = new y9(yaVar, m2Var);
+        java.lang.Runnable y9Var = new y9(yaVar, m2Var);
         yaVar.g(y9Var, f7.l(executor, y9Var));
         return y9Var;
     }
@@ -234,7 +234,7 @@ public abstract class n5 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.w9, com.google.android.gms.internal.mlkit_vision_digital_ink.y9, com.google.android.gms.internal.mlkit_vision_digital_ink.ma, java.lang.Runnable] */
     public static w9 q(ya yaVar, ea eaVar, Executor executor) {
         int i = y9.E;
-        ?? y9Var = new y9(yaVar, eaVar);
+        java.lang.Runnable y9Var = new y9(yaVar, eaVar);
         yaVar.g(y9Var, f7.l(executor, y9Var));
         return y9Var;
     }

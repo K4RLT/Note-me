@@ -16,7 +16,7 @@ public abstract class b8 {
     /* JADX WARN: Type inference failed for: r2v3 */
     /* JADX WARN: Type inference failed for: r2v4 */
     static {
-        ?? obj;
+        com.google.android.gms.internal.mlkit_vision_digital_ink.d8 obj;
         int i = 0;
         while (true) {
             if (i < 2) {

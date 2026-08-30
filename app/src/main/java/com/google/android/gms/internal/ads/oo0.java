@@ -140,7 +140,7 @@ public final class oo0 {
                 x70 x70Var = this.f9178h;
                 if (booleanValue3) {
                     y10 y10Var2 = y10Var.f12709b;
-                    ?? obj = new Object();
+                    Object obj = new Object();
                     obj.f12855u = context;
                     obj.f12856v = a10;
                     k60 k60Var = new k60((yd1) obj);
@@ -155,7 +155,7 @@ public final class oo0 {
                     d20Var = new d20(y10Var2, new lx0(i12, frameLayout), x90Var, new v80(i12), p80Var, k60Var, new tf(28, (boolean) (objArr5 == true ? 1 : 0)), jk0Var, lVar, null, null);
                 } else {
                     y10 y10Var3 = y10Var.f12709b;
-                    ?? obj2 = new Object();
+                    Object obj2 = new Object();
                     obj2.f12855u = context;
                     obj2.f12856v = a10;
                     k60 k60Var2 = new k60((yd1) obj2);

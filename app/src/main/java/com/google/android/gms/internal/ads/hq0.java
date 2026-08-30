@@ -1055,14 +1055,14 @@ public final class hq0 implements m7, ay, n9.n, n9.s, n9.v, n9.e, n80, a10, dr0,
     /* JADX WARN: Type inference failed for: r2v1, types: [com.google.android.gms.internal.ads.w30, java.lang.Object] */
     public hq0(t10[] t10VarArr) {
         this.f6871u = 28;
-        ?? e20Var = new e20();
+        com.google.android.gms.internal.ads.w30 e20Var = new e20();
         e20Var.f6196m = 0;
         e20Var.f6198o = 0;
         e20Var.f6199p = 0;
         byte[] bArr = bq0.f4861b;
         e20Var.f6197n = bArr;
         e20Var.f6200q = bArr;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12116c = 1.0f;
         obj.f12117d = 1.0f;
         a00 a00Var = a00.e;

@@ -18,7 +18,7 @@ public final class d7 implements f7 {
         if (e7Var instanceof d7) {
             return (d7) e7Var;
         }
-        ?? obj = new Object();
+        com.google.android.gms.internal.consent_sdk.d7 obj = new Object();
         obj.f13393v = f13391w;
         obj.f13392u = e7Var;
         return obj;

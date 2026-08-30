@@ -23,7 +23,7 @@ public final class cy0 {
     /* JADX WARN: Type inference failed for: r1v0, types: [d3.k, java.lang.Object] */
     /* JADX WARN: Type inference failed for: r4v0, types: [d3.h, java.lang.Object] */
     public final d3.j a(String str, boolean z3, byte[] bArr, String str2) {
-        ?? obj = new Object();
+        d3.h obj = new Object();
         obj.f15720c = new Object();
         d3.j jVar = new d3.j(obj);
         obj.f15719b = jVar;

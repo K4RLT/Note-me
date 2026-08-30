@@ -10,7 +10,7 @@ public final class x2 extends b5 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.measurement.b5, com.google.android.gms.internal.measurement.x2] */
     static {
-        ?? b5Var = new b5();
+        com.google.android.gms.internal.measurement.x2 b5Var = new b5();
         zzc = b5Var;
         b5.i(x2.class, b5Var);
     }

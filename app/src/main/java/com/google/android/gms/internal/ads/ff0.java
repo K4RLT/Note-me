@@ -21,11 +21,11 @@ public final class ff0 {
     /* JADX WARN: Type inference failed for: r1v1, types: [com.google.android.gms.internal.ads.ff0, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r2v2, types: [com.google.android.gms.internal.ads.ff0, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("AD_REQUESTED", 0);
+        ff0 r02 = new Enum("AD_REQUESTED", 0);
         f6055u = r02;
-        ?? r12 = new Enum("AD_LOADED", 1);
+        ff0 r12 = new Enum("AD_LOADED", 1);
         f6056v = r12;
-        ?? r22 = new Enum("AD_LOAD_FAILED", 2);
+        ff0 r22 = new Enum("AD_LOAD_FAILED", 2);
         f6057w = r22;
         f6058x = new ff0[]{r02, r12, r22};
     }

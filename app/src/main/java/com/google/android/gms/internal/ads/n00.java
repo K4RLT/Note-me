@@ -72,7 +72,7 @@ public final class n00 implements ya.of {
         ne.f fVar = (ne.f) this.f8505b;
         ya.ab abVar = (ya.ab) this.f8506c;
         long j10 = this.f8504a;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f18664w = ya.za.TYPE_THIN;
         ya.y yVar = new ya.y(4, false);
         yVar.f31593x = fVar.e.a();

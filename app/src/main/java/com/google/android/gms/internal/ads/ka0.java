@@ -27,7 +27,7 @@ public final class ka0 implements ai {
                         na0 na0Var = this.f7696v;
                         if (na0Var.f8625w != null) {
                             na0Var.H.put(this.f7695u, Boolean.TRUE);
-                            ?? r02 = na0Var.f8625w;
+                            Object r02 = na0Var.f8625w;
                             if (r02 == 0) {
                                 return;
                             } else {
@@ -45,7 +45,7 @@ public final class ka0 implements ai {
             na0 na0Var2 = this.f7696v;
             if (na0Var2.f8625w != null) {
                 na0Var2.H.put(this.f7695u, Boolean.TRUE);
-                ?? r03 = na0Var2.f8625w;
+                Object r03 = na0Var2.f8625w;
                 if (r03 != 0) {
                     na0Var2.t(r03.M0(), r03.d(), r03.g(), true);
                 }

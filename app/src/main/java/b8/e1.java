@@ -300,7 +300,7 @@ public abstract class e1 {
     }
 
     /*  JADX ERROR: JadxRuntimeException in pass: RegionMakerVisitor
-        jadx.core.utils.exceptions.JadxRuntimeException: Can't find top splitter block for handler:B:19:0x0084
+//         jadx.core.utils.exceptions.JadxRuntimeException: Can't find top splitter block for handler:B:19:0x0084
         	at jadx.core.utils.BlockUtils.getTopSplitterForHandler(BlockUtils.java:1166)
         	at jadx.core.dex.visitors.regions.RegionMaker.processTryCatchBlocks(RegionMaker.java:1022)
         	at jadx.core.dex.visitors.regions.RegionMakerVisitor.visit(RegionMakerVisitor.java:55)

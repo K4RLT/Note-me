@@ -17,9 +17,9 @@ public final class vk1 {
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, com.google.android.gms.internal.ads.vk1] */
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.ads.vk1] */
     static {
-        ?? r02 = new Enum("IEEE_P1363", 0);
+        vk1 r02 = new Enum("IEEE_P1363", 0);
         f11929u = r02;
-        ?? r12 = new Enum("DER", 1);
+        vk1 r12 = new Enum("DER", 1);
         f11930v = r12;
         f11931w = new vk1[]{r02, r12};
     }

@@ -21,11 +21,11 @@ public final class hy1 {
     /* JADX WARN: Type inference failed for: r1v1, types: [com.google.android.gms.internal.ads.hy1, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r2v2, types: [com.google.android.gms.internal.ads.hy1, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("PASS_THROUGH", 0);
+        hy1 r02 = new Enum("PASS_THROUGH", 0);
         f6927u = r02;
-        ?? r12 = new Enum("DISCARD_AFTER_NEXT_SAMPLE_METADATA", 1);
+        hy1 r12 = new Enum("DISCARD_AFTER_NEXT_SAMPLE_METADATA", 1);
         f6928v = r12;
-        ?? r22 = new Enum("DISCARDING", 2);
+        hy1 r22 = new Enum("DISCARDING", 2);
         f6929w = r22;
         f6930x = new hy1[]{r02, r12, r22};
     }

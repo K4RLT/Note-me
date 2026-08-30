@@ -21,7 +21,7 @@ public final class kx {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.mlkit_vision_digital_ink.kt] */
     public kx(Context context) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.kt obj = new Object();
         this.f14578b = new Object();
         this.f14579c = new HashMap();
         this.f14580d = new HashMap();

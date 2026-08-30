@@ -48,7 +48,7 @@ public final class eo extends LinkedHashMap {
         if (isEmpty()) {
             return new eo();
         }
-        ?? linkedHashMap = new LinkedHashMap(this);
+        com.google.android.gms.internal.mlkit_vision_digital_ink.eo linkedHashMap = new LinkedHashMap(this);
         linkedHashMap.f14267u = true;
         return linkedHashMap;
     }

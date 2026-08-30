@@ -22,7 +22,7 @@ public final class pp implements mp {
     static {
         String[] strArr = {"resize", "playVideo", "storePicture", "createCalendarEvent", "setOrientationProperties", "closeResizedAd", "unload"};
         Integer[] numArr = {1, 2, 3, 4, 5, 6, 7};
-        ?? r0Var = new n.r0(7);
+        n.r0 r0Var = new n.r0(7);
         for (int i = 0; i < 7; i++) {
             r0Var.put(strArr[i], numArr[i]);
         }

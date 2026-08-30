@@ -10,7 +10,7 @@ public final class yp extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.yp] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.yp nnVar = new nn();
         zza = nnVar;
         nn.m(yp.class, nnVar);
     }

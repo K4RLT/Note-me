@@ -21,11 +21,11 @@ public final class yx0 {
     /* JADX WARN: Type inference failed for: r1v1, types: [com.google.android.gms.internal.ads.yx0, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r2v2, types: [com.google.android.gms.internal.ads.yx0, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("QUERY", 0);
+        yx0 r02 = new Enum("QUERY", 0);
         f12999u = r02;
-        ?? r12 = new Enum("VIEW", 1);
+        yx0 r12 = new Enum("VIEW", 1);
         f13000v = r12;
-        ?? r22 = new Enum("CLICK", 2);
+        yx0 r22 = new Enum("CLICK", 2);
         f13001w = r22;
         f13002x = new yx0[]{r02, r12, r22};
     }

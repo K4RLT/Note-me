@@ -19,9 +19,9 @@ public final class vt0 {
     /* JADX WARN: Type inference failed for: r2v2, types: [com.google.android.gms.internal.ads.vt0, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r3v2, types: [com.google.android.gms.internal.ads.vt0, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("VIDEO_CONTROLS", 0);
-        ?? r12 = new Enum("CLOSE_AD", 1);
-        ?? r22 = new Enum("NOT_VISIBLE", 2);
+        vt0 r02 = new Enum("VIDEO_CONTROLS", 0);
+        vt0 r12 = new Enum("CLOSE_AD", 1);
+        vt0 r22 = new Enum("NOT_VISIBLE", 2);
         f11982u = r22;
         f11983v = new vt0[]{r02, r12, r22, new Enum("OTHER", 3)};
     }

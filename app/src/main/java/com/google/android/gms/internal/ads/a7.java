@@ -87,7 +87,7 @@ public final class a7 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.j6] */
     static {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.j6 obj = new Object();
         b51 b51Var = d51.f5314v;
         obj.A = y51.f12781y;
         C = new a7(obj);
@@ -227,7 +227,7 @@ public final class a7 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.j6] */
     public final j6 a() {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.j6 obj = new Object();
         obj.f7336a = this.f4379a;
         obj.f7337b = this.f4380b;
         obj.f7338c = this.f4381c;

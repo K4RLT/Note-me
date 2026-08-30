@@ -409,7 +409,7 @@ public final /* synthetic */ class iv1 implements Runnable {
                             Context context = qVar.f19576v;
                             UUID id2 = qVar.f19578x.getId();
                             rVar.getClass();
-                            ?? obj = new Object();
+                            Object obj = new Object();
                             rVar.f19581a.a(new com.google.android.gms.internal.consent_sdk.g7(rVar, obj, id2, hVar3, context, 5, false));
                             jVar.m(obj);
                             return;

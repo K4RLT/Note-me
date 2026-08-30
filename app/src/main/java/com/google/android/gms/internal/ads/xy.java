@@ -879,7 +879,7 @@ public abstract class xy implements q2 {
                 }
                 Looper myLooper = Looper.myLooper();
                 if (myLooper != null && myLooper != Looper.getMainLooper()) {
-                    ?? obj = new Object();
+                    Object obj = new Object();
                     b80.h().execute(new t81(applicationContext, 10, (Object) obj));
                     obj.b();
                     AudioManager audioManager2 = f12658v;
@@ -902,7 +902,7 @@ public abstract class xy implements q2 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.nx0, java.lang.Object] */
     public static nx0 q(ib.o oVar) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.nx0 obj = new Object();
         obj.B = oVar;
         oVar.c(o81.f9033u, new bl0(7, obj));
         return obj;

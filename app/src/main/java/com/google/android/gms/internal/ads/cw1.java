@@ -360,7 +360,7 @@ public final class cw1 {
             t10 t10Var = (t10) d51Var.get(i);
             t10Var.i(d2);
             if (t10Var.c()) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 long j12 = d2.f12088a;
                 obj.f8504a = j12;
                 obj.f8505b = d2.f12089b;
@@ -765,7 +765,7 @@ public final class cw1 {
             int i13 = mw1Var2.K;
             b80.l(bq0.d(i13));
             i = bq0.f(i13) * i11;
-            ?? y41Var = new y41(4);
+            y41 y41Var = new y41(4);
             y41Var.b(this.f5192f);
             y41Var.a(this.f5191d);
             t10[] t10VarArr = (t10[]) this.X.f6872v;

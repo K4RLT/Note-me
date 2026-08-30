@@ -72,7 +72,7 @@ public abstract class ub {
                         acVar2 = new kr1();
                     } else {
                         if ("mvhd".equals(str)) {
-                            ?? jr1Var = new jr1("mvhd");
+                            jr1 jr1Var = new jr1("mvhd");
                             jr1Var.H = 1.0d;
                             jr1Var.I = 1.0f;
                             jr1Var.J = or1.f9197j;

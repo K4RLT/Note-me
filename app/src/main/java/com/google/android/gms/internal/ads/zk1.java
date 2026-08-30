@@ -26,13 +26,13 @@ public final class zk1 {
     /* JADX WARN: Type inference failed for: r3v2, types: [com.google.android.gms.internal.ads.zk1, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r4v2, types: [com.google.android.gms.internal.ads.zk1, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("SHA1", 0);
-        ?? r12 = new Enum("SHA224", 1);
-        ?? r22 = new Enum("SHA256", 2);
+        zk1 r02 = new Enum("SHA1", 0);
+        zk1 r12 = new Enum("SHA224", 1);
+        zk1 r22 = new Enum("SHA256", 2);
         f13181u = r22;
-        ?? r32 = new Enum("SHA384", 3);
+        zk1 r32 = new Enum("SHA384", 3);
         f13182v = r32;
-        ?? r42 = new Enum("SHA512", 4);
+        zk1 r42 = new Enum("SHA512", 4);
         f13183w = r42;
         f13184x = new zk1[]{r02, r12, r22, r32, r42};
     }

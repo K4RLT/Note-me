@@ -108,7 +108,7 @@ public final /* synthetic */ class m implements xb.b, e7 {
         cVar.f13372w = e1Var;
         Configuration configuration = application.getResources().getConfiguration();
         application.getResources().getConfiguration();
-        ?? obj = new Object();
+        Object obj = new Object();
         Object obj2 = Collections.EMPTY_LIST;
         obj.f18927x = obj2;
         obj.f18924u = Integer.valueOf(configuration.screenWidthDp);
@@ -137,7 +137,7 @@ public final /* synthetic */ class m implements xb.b, e7 {
                 boundingRects = displayCutout.getBoundingRects();
                 for (Rect rect : boundingRects) {
                     if (rect != null) {
-                        ?? obj3 = new Object();
+                        Object obj3 = new Object();
                         obj3.f13578b = Integer.valueOf(rect.left);
                         obj3.f13579c = Integer.valueOf(rect.right);
                         obj3.f13577a = Integer.valueOf(rect.top);
@@ -154,7 +154,7 @@ public final /* synthetic */ class m implements xb.b, e7 {
         } catch (PackageManager.NameNotFoundException unused2) {
             packageInfo = null;
         }
-        ?? obj4 = new Object();
+        Object obj4 = new Object();
         obj4.f13569a = application.getPackageName();
         CharSequence applicationLabel = application.getPackageManager().getApplicationLabel(application.getApplicationInfo());
         if (applicationLabel != null) {

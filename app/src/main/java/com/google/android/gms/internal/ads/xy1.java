@@ -60,7 +60,7 @@ public final class xy1 implements xx1, wx1 {
     @Override // com.google.android.gms.internal.ads.ty1
     public final boolean f(jt1 jt1Var) {
         long j10 = jt1Var.f7539a;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.it1 obj = new Object();
         obj.f7221b = jt1Var.f7540b;
         obj.f7222c = jt1Var.f7541c;
         obj.f7220a = j10 - this.f12667v;
@@ -75,7 +75,7 @@ public final class xy1 implements xx1, wx1 {
     /* JADX WARN: Type inference failed for: r1v1, types: [com.google.android.gms.internal.ads.wx1, java.lang.Object] */
     @Override // com.google.android.gms.internal.ads.wx1
     public final void h(xx1 xx1Var) {
-        ?? r12 = this.f12668w;
+        com.google.android.gms.internal.ads.wx1 r12 = this.f12668w;
         r12.getClass();
         r12.h(this);
     }
@@ -115,7 +115,7 @@ public final class xy1 implements xx1, wx1 {
     /* JADX WARN: Type inference failed for: r1v2, types: [com.google.android.gms.internal.ads.wx1, java.lang.Object] */
     @Override // com.google.android.gms.internal.ads.wx1
     public final /* bridge */ /* synthetic */ void j(ty1 ty1Var) {
-        ?? r12 = this.f12668w;
+        com.google.android.gms.internal.ads.wx1 r12 = this.f12668w;
         r12.getClass();
         r12.j(this);
     }

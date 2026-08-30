@@ -39,26 +39,26 @@ public final class rn1 {
     /* JADX WARN: Type inference failed for: r8v3, types: [java.lang.Enum, com.google.android.gms.internal.ads.rn1] */
     /* JADX WARN: Type inference failed for: r9v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.rn1] */
     static {
-        ?? r02 = new Enum("VOID", 0);
+        rn1 r02 = new Enum("VOID", 0);
         f10256u = r02;
-        ?? r12 = new Enum("INT", 1);
+        rn1 r12 = new Enum("INT", 1);
         f10257v = r12;
-        ?? r22 = new Enum("LONG", 2);
+        rn1 r22 = new Enum("LONG", 2);
         f10258w = r22;
-        ?? r32 = new Enum("FLOAT", 3);
+        rn1 r32 = new Enum("FLOAT", 3);
         f10259x = r32;
-        ?? r42 = new Enum("DOUBLE", 4);
+        rn1 r42 = new Enum("DOUBLE", 4);
         f10260y = r42;
-        ?? r52 = new Enum("BOOLEAN", 5);
+        rn1 r52 = new Enum("BOOLEAN", 5);
         f10261z = r52;
-        ?? r62 = new Enum("STRING", 6);
+        rn1 r62 = new Enum("STRING", 6);
         A = r62;
         mm1 mm1Var = om1.f9167v;
-        ?? r72 = new Enum("BYTE_STRING", 7);
+        rn1 r72 = new Enum("BYTE_STRING", 7);
         B = r72;
-        ?? r8 = new Enum("ENUM", 8);
+        rn1 r8 = new Enum("ENUM", 8);
         C = r8;
-        ?? r92 = new Enum("MESSAGE", 9);
+        rn1 r92 = new Enum("MESSAGE", 9);
         D = r92;
         E = new rn1[]{r02, r12, r22, r32, r42, r52, r62, r72, r8, r92};
     }

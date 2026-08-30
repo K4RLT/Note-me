@@ -54,7 +54,7 @@ public abstract class lx1 extends hx1 {
     public final void t(final Integer num, hx1 hx1Var) {
         HashMap hashMap = this.i;
         b80.l(!hashMap.containsKey(num));
-        ?? r12 = new zx1() { // from class: com.google.android.gms.internal.ads.ix1
+        com.google.android.gms.internal.ads.zx1 r12 = new zx1() { // from class: com.google.android.gms.internal.ads.ix1
             @Override // com.google.android.gms.internal.ads.zx1
             public final /* synthetic */ void a(hx1 hx1Var2, uh uhVar) {
                 lx1.this.s(num, hx1Var2, uhVar);

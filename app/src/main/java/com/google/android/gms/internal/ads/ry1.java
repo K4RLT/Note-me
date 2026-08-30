@@ -89,7 +89,7 @@ public final class ry1 implements i3 {
     /* JADX WARN: Type inference failed for: r4v1, types: [com.google.android.gms.internal.ads.py1, java.lang.Object] */
     public ry1(w wVar, s6 s6Var, z11 z11Var) {
         this.f10374d = s6Var;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.py1 obj = new Object();
         obj.f9668v = wVar;
         obj.f9669w = new xk0(32);
         d6 d6Var = new d6(0L);

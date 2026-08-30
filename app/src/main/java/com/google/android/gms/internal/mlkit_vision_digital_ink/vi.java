@@ -11,7 +11,7 @@ public final class vi extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.vi] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.vi nnVar = new nn();
         zza = nnVar;
         nn.m(vi.class, nnVar);
     }

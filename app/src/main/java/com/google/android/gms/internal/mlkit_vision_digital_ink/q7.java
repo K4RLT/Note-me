@@ -10,7 +10,7 @@ public final class q7 extends p7 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.q7, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.q7 obj = new Object();
         new AtomicBoolean();
         f14845a = obj;
     }

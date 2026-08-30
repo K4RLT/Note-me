@@ -114,7 +114,7 @@ public final class ko0 {
                 zp0Var.f13243t = e;
                 aq0 a10 = zp0Var.a();
                 rr0 g8 = rr0.g(context, ed1.P(a10), 7, z2Var);
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f6439a = a10;
                 ac.b o10 = this.e.o(new x90(8, obj, null, false), new lx0(29, this));
                 this.f7828j = o10;
@@ -137,7 +137,7 @@ public final class ko0 {
     public final synchronized a20 b(xo0 xo0Var) {
         go0 go0Var = (go0) xo0Var;
         if (((Boolean) g9.r.e.f17698c.a(sl.f10908q9)).booleanValue()) {
-            ?? obj = new Object();
+            com.google.android.gms.internal.ads.yd1 obj = new Object();
             obj.f12855u = this.f7821a;
             obj.f12856v = go0Var.f6439a;
             k60 k60Var = new k60((yd1) obj);
@@ -164,7 +164,7 @@ public final class ko0 {
         ((HashSet) o80Var2.f9029l).add(new c90(jo0Var3, executor2));
         o80Var2.e(jo0Var3, executor2);
         o80Var2.f9032o = jo0Var3;
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f12855u = this.f7821a;
         obj2.f12856v = go0Var.f6439a;
         k60 k60Var2 = new k60((yd1) obj2);

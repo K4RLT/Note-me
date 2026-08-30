@@ -72,7 +72,7 @@ public abstract class j51 extends z41 implements Set {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.i51, com.google.android.gms.internal.ads.y41] */
     public static i51 u(int i) {
         ed1.u(i, "expectedSize");
-        ?? y41Var = new y41(i);
+        com.google.android.gms.internal.ads.y41 y41Var = new y41(i);
         y41Var.f6998d = new Object[q(i)];
         return y41Var;
     }

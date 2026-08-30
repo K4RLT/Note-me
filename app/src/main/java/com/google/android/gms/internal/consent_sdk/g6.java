@@ -470,7 +470,7 @@ public final class g6 implements m6 {
                                     if (c6Var.isEmpty()) {
                                         c6Var = new c6();
                                     } else {
-                                        ?? linkedHashMap = new LinkedHashMap(c6Var);
+                                        LinkedHashMap linkedHashMap = new LinkedHashMap(c6Var);
                                         linkedHashMap.f13380u = true;
                                         c6Var = linkedHashMap;
                                     }

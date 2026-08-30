@@ -104,7 +104,7 @@ public final class z20 implements sr1 {
                 return jSONObject;
             case 12:
                 ha0 ha0Var = new ha0(((ja0) obj2).f7384b.a());
-                ?? obj3 = new Object();
+                Object obj3 = new Object();
                 obj3.f9451a = ha0Var;
                 return obj3;
             case 13:

@@ -88,7 +88,7 @@ public final class k60 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.ads.yd1, java.lang.Object] */
     public yd1 a() {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.yd1 obj = new Object();
         obj.f12855u = (Context) this.f7666a;
         obj.f12856v = (aq0) this.f7667b;
         obj.f12857w = (Bundle) this.f7668c;
@@ -232,7 +232,7 @@ public final class k60 {
             yk0Var.l(u0Var);
         }
         y10 y10Var2 = y10Var.f12709b;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12855u = context;
         obj.f12856v = a10;
         k60 k60Var = new k60((yd1) obj);

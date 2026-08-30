@@ -6,7 +6,7 @@ public final class q2 extends q5 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.consent_sdk.q2, com.google.android.gms.internal.consent_sdk.q5] */
     static {
-        ?? q5Var = new q5();
+        com.google.android.gms.internal.consent_sdk.q5 q5Var = new q5();
         zzb = q5Var;
         q5.k(q2.class, q5Var);
     }

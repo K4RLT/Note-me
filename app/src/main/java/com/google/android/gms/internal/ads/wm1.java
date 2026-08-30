@@ -14,7 +14,7 @@ public final class wm1 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.wm1] */
     static {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.wm1 obj = new Object();
         Map map = Collections.EMPTY_MAP;
         f12303b = obj;
     }

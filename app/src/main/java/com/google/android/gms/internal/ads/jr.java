@@ -13,7 +13,7 @@ public final class jr {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.ads.dr] */
     public jr(Context context, l9.a aVar, String str, vr0 vr0Var) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.dr obj = new Object();
         obj.f5484c = new Object();
         obj.f5483b = 1;
         obj.f5482a = str;

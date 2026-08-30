@@ -102,7 +102,7 @@ public final /* synthetic */ class t1 implements Runnable {
                 HashMap hashMap = pfVar.f31443j;
                 if (!hashMap.containsKey(bbVar)) {
                     ya.d dVar = new ya.d();
-                    ?? obj2 = new Object();
+                    Object obj2 = new Object();
                     if (dVar.isEmpty()) {
                         obj2.f31286w = dVar;
                         hashMap.put(bbVar, obj2);

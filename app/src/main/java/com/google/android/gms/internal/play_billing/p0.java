@@ -72,7 +72,7 @@ public final class p0 implements Runnable {
     /* JADX WARN: Type inference failed for: r1v2, types: [com.google.android.gms.internal.play_billing.l, java.lang.Object] */
     public final String toString() {
         ra.e eVar = new ra.e(p0.class.getSimpleName(), 26);
-        ?? obj = new Object();
+        com.google.android.gms.internal.play_billing.l obj = new Object();
         ((l) eVar.f24677x).f15480b = obj;
         eVar.f24677x = obj;
         obj.f15479a = this.f15507v;

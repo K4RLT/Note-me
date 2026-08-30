@@ -217,7 +217,7 @@ public final class no1 extends om1 {
                 arrayList.add(lm1Var2.q());
                 lm1Var2 = lm1Var;
             } else {
-                ?? inputStream = new InputStream();
+                InputStream inputStream = new InputStream();
                 inputStream.f9910u = arrayList.iterator();
                 inputStream.f9912w = 0;
                 int size = arrayList.size();

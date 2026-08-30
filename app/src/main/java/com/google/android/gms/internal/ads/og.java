@@ -169,7 +169,7 @@ public final class og extends wg {
         Boolean bool = (Boolean) g9.r.e.f17698c.a(sl.L3);
         bool.getClass();
         String str = (String) this.e.invoke(null, this.f12232a.f5418a, bool);
-        ?? an1Var = new an1(16);
+        com.google.android.gms.internal.ads.vf an1Var = new an1(16);
         an1Var.O = -1L;
         an1Var.P = -1L;
         HashMap s10 = an1.s(str);
@@ -193,7 +193,7 @@ public final class og extends wg {
         wd wdVar = this.f12235d;
         synchronized (wdVar) {
             String str = (String) this.e.invoke(null, null);
-            ?? an1Var = new an1(16);
+            com.google.android.gms.internal.ads.an1 an1Var = new an1(16);
             HashMap s10 = an1.s(str);
             if (s10 != null) {
                 an1Var.O = (Long) s10.get(0);

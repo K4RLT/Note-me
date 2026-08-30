@@ -21,11 +21,11 @@ public final class nx {
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.nx] */
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.nx] */
     static {
-        ?? r02 = new Enum("WIFI_ONLY", 0);
+        nx r02 = new Enum("WIFI_ONLY", 0);
         f14724u = r02;
-        ?? r12 = new Enum("WIFI_OR_CELLULAR", 1);
+        nx r12 = new Enum("WIFI_OR_CELLULAR", 1);
         f14725v = r12;
-        ?? r22 = new Enum("NONE", 2);
+        nx r22 = new Enum("NONE", 2);
         f14726w = r22;
         f14727x = new nx[]{r02, r12, r22};
     }

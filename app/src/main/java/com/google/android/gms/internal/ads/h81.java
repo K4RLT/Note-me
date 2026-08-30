@@ -16,7 +16,7 @@ public abstract class h81 extends q71 {
     /* JADX WARN: Type inference failed for: r0v7 */
     static {
         Throwable th;
-        ?? r02;
+        com.google.android.gms.internal.ads.x21 r02;
         try {
             th = null;
             r02 = new Object();

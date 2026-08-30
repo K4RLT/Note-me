@@ -12,7 +12,7 @@ public final class w8 extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.w8, com.google.android.gms.internal.mlkit_vision_digital_ink.nn] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.nn nnVar = new nn();
         zza = nnVar;
         nn.m(w8.class, nnVar);
     }

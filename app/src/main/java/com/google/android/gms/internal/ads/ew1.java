@@ -970,7 +970,7 @@ public final class ew1 extends zw1 implements kt1 {
     /* JADX WARN: Type inference failed for: r4v1, types: [com.google.android.gms.internal.ads.hs1, java.lang.Object] */
     @Override // com.google.android.gms.internal.ads.zw1
     public final void u0(boolean z3, boolean z9) {
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.hs1 obj = new Object();
         this.N0 = obj;
         mu muVar = this.Z0;
         Handler handler = (Handler) muVar.f8422v;

@@ -180,7 +180,7 @@ public final class s6 implements e3, zn1, r31, e2, p2, h7, o7, hc, in1 {
         mf mfVar = new mf(context, 2);
         fj fjVar = new fj(mfVar);
         zd1 zd1Var = new zd1(mfVar, djVar, fjVar, 4, false);
-        ?? obj = new Object();
+        fa.c obj = new Object();
         obj.f18918u = fjVar;
         obj.f18919v = mfVar;
         synchronized (mfVar.f8338w) {
@@ -672,7 +672,7 @@ public final class s6 implements e3, zn1, r31, e2, p2, h7, o7, hc, in1 {
                     switch (str.hashCode()) {
                         case -1351681404:
                             if (str.equals("application/dvbsubs")) {
-                                ?? obj = new Object();
+                                Object obj = new Object();
                                 xk0 xk0Var = new xk0((byte[]) list.get(0));
                                 int L = xk0Var.L();
                                 int L2 = xk0Var.L();

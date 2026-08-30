@@ -39,26 +39,26 @@ public final class j5 {
     /* JADX WARN: Type inference failed for: r8v3, types: [java.lang.Enum, com.google.android.gms.internal.measurement.j5] */
     /* JADX WARN: Type inference failed for: r9v2, types: [java.lang.Enum, com.google.android.gms.internal.measurement.j5] */
     static {
-        ?? r02 = new Enum("VOID", 0);
+        j5 r02 = new Enum("VOID", 0);
         f13786u = r02;
-        ?? r12 = new Enum("INT", 1);
+        j5 r12 = new Enum("INT", 1);
         f13787v = r12;
-        ?? r22 = new Enum("LONG", 2);
+        j5 r22 = new Enum("LONG", 2);
         f13788w = r22;
-        ?? r32 = new Enum("FLOAT", 3);
+        j5 r32 = new Enum("FLOAT", 3);
         f13789x = r32;
-        ?? r42 = new Enum("DOUBLE", 4);
+        j5 r42 = new Enum("DOUBLE", 4);
         f13790y = r42;
-        ?? r52 = new Enum("BOOLEAN", 5);
+        j5 r52 = new Enum("BOOLEAN", 5);
         f13791z = r52;
-        ?? r62 = new Enum("STRING", 6);
+        j5 r62 = new Enum("STRING", 6);
         A = r62;
         s4 s4Var = s4.f13907w;
-        ?? r72 = new Enum("BYTE_STRING", 7);
+        j5 r72 = new Enum("BYTE_STRING", 7);
         B = r72;
-        ?? r8 = new Enum("ENUM", 8);
+        j5 r8 = new Enum("ENUM", 8);
         C = r8;
-        ?? r92 = new Enum("MESSAGE", 9);
+        j5 r92 = new Enum("MESSAGE", 9);
         D = r92;
         E = new j5[]{r02, r12, r22, r32, r42, r52, r62, r72, r8, r92};
     }

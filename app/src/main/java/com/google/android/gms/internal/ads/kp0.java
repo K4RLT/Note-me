@@ -87,7 +87,7 @@ public final class kp0 {
         zp0Var.f13243t = e;
         aq0 a10 = zp0Var.a();
         rr0 g8 = rr0.g(context, ed1.P(a10), 5, z2Var);
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f7506a = a10;
         ac.b o10 = zo0Var.o(new x90(8, obj, null, false), new bl0(2, this));
         this.i = o10;
@@ -98,7 +98,7 @@ public final class kp0 {
     /* JADX WARN: Type inference failed for: r1v2, types: [com.google.android.gms.internal.ads.yd1, java.lang.Object] */
     public final a20 b(xo0 xo0Var) {
         a20 a20Var = new a20(this.f7836c.f12709b, 1);
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.yd1 obj = new Object();
         obj.f12855u = this.f7834a;
         obj.f12856v = ((jp0) xo0Var).f7506a;
         obj.f12858x = this.f7838f;

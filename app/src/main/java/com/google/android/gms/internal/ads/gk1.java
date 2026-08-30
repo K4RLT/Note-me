@@ -19,7 +19,7 @@ public final class gk1 implements y91 {
             jj1 jj1Var = hj1Var.P;
             byte[] b10 = ((gl1) bl0Var.f4819v).b();
             jj1Var.R.b();
-            ?? obj = new Object();
+            Object obj = new Object();
             if (ct.i(1)) {
                 if (b10.length == 32) {
                     KeyFactory.getInstance("Ed25519", h3).generatePrivate(new PKCS8EncodedKeySpec(xy.z(f6424a, b10)));

@@ -102,7 +102,7 @@ public final class iw implements c7.d, com.google.android.gms.internal.ads.g2, n
                     while (qVar != null) {
                         if ((qVar.f15690w & 256) != 0) {
                             b2.k kVar = qVar;
-                            ?? r52 = 0;
+                            Object r52 = 0;
                             while (kVar != 0) {
                                 if (kVar instanceof b2.o) {
                                     b2.o oVar = (b2.o) kVar;
@@ -611,7 +611,7 @@ public final class iw implements c7.d, com.google.android.gms.internal.ads.g2, n
     /* renamed from: zza */
     public void mo201zza() {
         y51 y51Var = za0.J;
-        ?? r12 = (com.google.android.gms.internal.ads.ph) this.f14489v;
+        com.google.android.gms.internal.ads.mb0 r12 = (com.google.android.gms.internal.ads.ph) this.f14489v;
         Map g8 = r12.g();
         if (g8 == null) {
             return;

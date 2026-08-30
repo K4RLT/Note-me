@@ -50,7 +50,7 @@ public abstract class o0 {
                 if (q5Var.isEmpty()) {
                     q5Var = new q5();
                 } else {
-                    ?? linkedHashMap = new LinkedHashMap(q5Var);
+                    LinkedHashMap linkedHashMap = new LinkedHashMap(q5Var);
                     linkedHashMap.f13890u = true;
                     q5Var = linkedHashMap;
                 }

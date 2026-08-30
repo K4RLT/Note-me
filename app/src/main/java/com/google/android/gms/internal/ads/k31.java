@@ -16,7 +16,7 @@ public final class k31 implements i31 {
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.k31] */
     /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, com.google.android.gms.internal.ads.k31] */
     static {
-        ?? r02 = new Enum("ALWAYS_TRUE", 0);
+        k31 r02 = new Enum("ALWAYS_TRUE", 0);
         f7643u = r02;
         f7644v = new k31[]{r02, new Enum("ALWAYS_FALSE", 1), new Enum("IS_NULL", 2), new Enum("NOT_NULL", 3)};
     }

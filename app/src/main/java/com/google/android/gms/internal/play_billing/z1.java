@@ -39,26 +39,26 @@ public final class z1 {
     /* JADX WARN: Type inference failed for: r8v3, types: [java.lang.Enum, com.google.android.gms.internal.play_billing.z1] */
     /* JADX WARN: Type inference failed for: r9v2, types: [java.lang.Enum, com.google.android.gms.internal.play_billing.z1] */
     static {
-        ?? r02 = new Enum("VOID", 0);
+        z1 r02 = new Enum("VOID", 0);
         f15559u = r02;
-        ?? r12 = new Enum("INT", 1);
+        z1 r12 = new Enum("INT", 1);
         f15560v = r12;
-        ?? r22 = new Enum("LONG", 2);
+        z1 r22 = new Enum("LONG", 2);
         f15561w = r22;
-        ?? r32 = new Enum("FLOAT", 3);
+        z1 r32 = new Enum("FLOAT", 3);
         f15562x = r32;
-        ?? r42 = new Enum("DOUBLE", 4);
+        z1 r42 = new Enum("DOUBLE", 4);
         f15563y = r42;
-        ?? r52 = new Enum("BOOLEAN", 5);
+        z1 r52 = new Enum("BOOLEAN", 5);
         f15564z = r52;
-        ?? r62 = new Enum("STRING", 6);
+        z1 r62 = new Enum("STRING", 6);
         A = r62;
         h1 h1Var = g1.f15429v;
-        ?? r72 = new Enum("BYTE_STRING", 7);
+        z1 r72 = new Enum("BYTE_STRING", 7);
         B = r72;
-        ?? r8 = new Enum("ENUM", 8);
+        z1 r8 = new Enum("ENUM", 8);
         C = r8;
-        ?? r92 = new Enum("MESSAGE", 9);
+        z1 r92 = new Enum("MESSAGE", 9);
         D = r92;
         E = new z1[]{r02, r12, r22, r32, r42, r52, r62, r72, r8, r92};
     }

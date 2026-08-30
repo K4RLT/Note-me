@@ -108,7 +108,7 @@ public final class ax implements sr1 {
             case 17:
                 na0 na0Var = (na0) ((um0) this.f4622b).zzb();
                 ra0 a11 = ((z20) this.f4623c).a();
-                ?? phVar = new ph("com.google.android.gms.ads.internal.instream.client.IInstreamAd");
+                ph phVar = new ph("com.google.android.gms.ads.internal.instream.client.IInstreamAd");
                 synchronized (a11) {
                     view = a11.f10177o;
                 }

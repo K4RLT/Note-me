@@ -48,7 +48,7 @@ public final class zv1 {
     /* JADX WARN: Type inference failed for: r2v18, types: [com.google.android.gms.internal.consent_sdk.w, java.lang.Object] */
     public static zv1 a(JsonReader jsonReader) {
         int i;
-        ?? obj = new Object();
+        com.google.android.gms.internal.consent_sdk.w obj = new Object();
         obj.f13277a = 1;
         List list = Collections.EMPTY_LIST;
         obj.f13281f = list;
@@ -186,7 +186,7 @@ public final class zv1 {
                         obj.f13282g = new ArrayList();
                         jsonReader.beginArray();
                         while (jsonReader.hasNext()) {
-                            ?? obj2 = new Object();
+                            Object obj2 = new Object();
                             obj2.f13588b = 1;
                             jsonReader.beginObject();
                             while (jsonReader.hasNext()) {

@@ -15,7 +15,7 @@ public final class o0 implements Executor {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.play_billing.o0, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("INSTANCE", 0);
+        o0 r02 = new Enum("INSTANCE", 0);
         f15497u = r02;
         f15498v = new o0[]{r02};
     }

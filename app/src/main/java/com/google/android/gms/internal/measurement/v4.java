@@ -14,7 +14,7 @@ public final class v4 {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.measurement.v4, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        com.google.android.gms.internal.measurement.v4 obj = new Object();
         Map map = Collections.EMPTY_MAP;
         f13947b = obj;
     }

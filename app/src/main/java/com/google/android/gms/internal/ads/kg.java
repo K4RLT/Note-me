@@ -24,7 +24,7 @@ public final class kg {
     /* JADX WARN: Type inference failed for: r1v0, types: [java.lang.Object, com.google.android.gms.internal.ads.kg] */
     public static kg a(Context context, Executor executor) {
         String[] strArr = e;
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.kg obj = new Object();
         obj.f7733a = 0L;
         obj.f7734b = 0L;
         obj.f7735c = -1L;

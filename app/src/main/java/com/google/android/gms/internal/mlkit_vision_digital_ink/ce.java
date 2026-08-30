@@ -18,10 +18,10 @@ public final class ce {
     /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.ce] */
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, com.google.android.gms.internal.mlkit_vision_digital_ink.ce] */
     static {
-        ?? r02 = new Enum("SUCCESS", 0);
+        ce r02 = new Enum("SUCCESS", 0);
         f14159u = r02;
-        ?? r12 = new Enum("FAILURE", 1);
-        ?? r22 = new Enum("FAILURE_KEEP_PENDING", 2);
+        ce r12 = new Enum("FAILURE", 1);
+        ce r22 = new Enum("FAILURE_KEEP_PENDING", 2);
         f14160v = r22;
         f14161w = new ce[]{r02, r12, r22};
     }

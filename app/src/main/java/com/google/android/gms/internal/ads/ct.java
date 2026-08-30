@@ -467,7 +467,7 @@ public abstract class ct implements q2 {
         if (Build.VERSION.SDK_INT <= 30 && !Build.VERSION.CODENAME.equals("S")) {
             return null;
         }
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.r71 obj = new Object();
         context.getPackageManager().requestChecksums(str, false, 8, arrayList, new we(1, obj));
         return (String) obj.get();
     }

@@ -48,11 +48,11 @@ public final /* synthetic */ class t00 implements Runnable {
     @Override // java.lang.Runnable
     public final void run() {
         int i;
-        ?? r10;
-        ?? r12;
-        ?? r22;
-        ?? r122;
-        ?? r13;
+        Object r10;
+        Object r12;
+        Object r22;
+        Object r122;
+        Object r13;
         g9.a2 a2Var;
         g9.a2 a2Var2;
         g9.a2 a2Var3;

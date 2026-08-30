@@ -23,7 +23,7 @@ public final class uu1 {
     static {
         uu1 uu1Var;
         if (Build.VERSION.SDK_INT >= 33) {
-            ?? y41Var = new y41(4);
+            com.google.android.gms.internal.ads.y41 y41Var = new y41(4);
             for (int i = 1; i <= 10; i++) {
                 y41Var.f(Integer.valueOf(bq0.e(i)));
             }

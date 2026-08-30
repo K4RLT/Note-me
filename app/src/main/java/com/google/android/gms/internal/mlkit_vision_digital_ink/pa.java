@@ -755,7 +755,7 @@ public abstract class pa implements ya, Future {
         int length = objArr.length;
         n5.g(objArr, length);
         z4 r8 = h4.r(objArr, length);
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f3949u = true;
         obj.f3950v = r8;
         return new s5(23, (Object) obj);

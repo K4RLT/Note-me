@@ -15,7 +15,7 @@ public final class yr1 implements wr1 {
     /* JADX WARN: Type inference failed for: r0v2, types: [com.google.android.gms.internal.ads.wr1, com.google.android.gms.internal.ads.yr1, java.lang.Object] */
     public static wr1 a(sr1 sr1Var) {
         if (!(sr1Var instanceof yr1) && !(sr1Var instanceof rr1)) {
-            ?? obj = new Object();
+            com.google.android.gms.internal.ads.yr1 obj = new Object();
             obj.f12933b = f12931c;
             obj.f12932a = sr1Var;
             return obj;

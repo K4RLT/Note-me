@@ -12,7 +12,7 @@ public final class eu1 extends um1 {
     /* JADX WARN: Type inference failed for: r0v1, types: [com.google.android.gms.internal.ads.qb0, java.lang.Object] */
     public eu1(os1 os1Var) {
         super(6);
-        ?? obj = new Object();
+        com.google.android.gms.internal.ads.qb0 obj = new Object();
         this.f5814x = obj;
         try {
             this.f5813w = new ys1(os1Var, this);

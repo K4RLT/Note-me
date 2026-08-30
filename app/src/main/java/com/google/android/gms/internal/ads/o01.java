@@ -31,17 +31,17 @@ public final class o01 {
     /* JADX WARN: Type inference failed for: r4v2, types: [com.google.android.gms.internal.ads.o01, java.lang.Enum] */
     /* JADX WARN: Type inference failed for: r5v2, types: [com.google.android.gms.internal.ads.o01, java.lang.Enum] */
     static {
-        ?? r02 = new Enum("RESULT_UNKNOWN", 0);
+        o01 r02 = new Enum("RESULT_UNKNOWN", 0);
         f8901u = r02;
-        ?? r12 = new Enum("RESULT_NOOP_LOCAL_PROGRAM_STILL_VALID", 1);
+        o01 r12 = new Enum("RESULT_NOOP_LOCAL_PROGRAM_STILL_VALID", 1);
         f8902v = r12;
-        ?? r22 = new Enum("RESULT_UPDATED", 2);
+        o01 r22 = new Enum("RESULT_UPDATED", 2);
         f8903w = r22;
-        ?? r32 = new Enum("RESULT_NOOP_NO_NEW_PROGRAM", 3);
+        o01 r32 = new Enum("RESULT_NOOP_NO_NEW_PROGRAM", 3);
         f8904x = r32;
-        ?? r42 = new Enum("RESULT_FAILURE_INVALID_RESPONSE", 4);
+        o01 r42 = new Enum("RESULT_FAILURE_INVALID_RESPONSE", 4);
         f8905y = r42;
-        ?? r52 = new Enum("RESULT_FAILURE_FETCHER_HTTP_RUNTIME_EXCEPTION", 5);
+        o01 r52 = new Enum("RESULT_FAILURE_FETCHER_HTTP_RUNTIME_EXCEPTION", 5);
         f8906z = r52;
         A = new o01[]{r02, r12, r22, r32, r42, r52};
     }

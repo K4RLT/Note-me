@@ -76,7 +76,7 @@ public abstract class m4 {
             if (o5Var2 != null) {
                 o5Var = o5Var2;
             } else {
-                ?? obj = new Object();
+                Object obj = new Object();
                 Charset charset = d5.f13686a;
                 obj.f13873u = t4Var;
                 t4Var.f13916a = obj;

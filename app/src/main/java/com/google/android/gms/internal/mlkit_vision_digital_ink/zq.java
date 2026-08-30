@@ -9,7 +9,7 @@ public final class zq extends er {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [sg.g, sg.f, java.lang.Object] */
     public zq(long j10) {
-        ?? obj = new Object();
+        sg.f obj = new Object();
         this.e = obj;
         this.f15350f = -1L;
         this.f14268a = sg.v.f25310d;

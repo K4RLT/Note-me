@@ -66,7 +66,7 @@ public abstract /* synthetic */ class tl {
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, com.google.android.gms.internal.mlkit_vision_digital_ink.h, com.google.android.gms.internal.mlkit_vision_digital_ink.h0] */
     public static IOException d(i iVar, Uri uri, IOException iOException, String str) {
         try {
-            ?? obj = new Object();
+            com.google.android.gms.internal.mlkit_vision_digital_ink.h0 obj = new Object();
             obj.f14388u = true;
             File file = (File) iVar.c(uri, obj);
             if (file.exists()) {

@@ -9,7 +9,7 @@ public final class yi extends nn implements ho {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [com.google.android.gms.internal.mlkit_vision_digital_ink.nn, com.google.android.gms.internal.mlkit_vision_digital_ink.yi] */
     static {
-        ?? nnVar = new nn();
+        com.google.android.gms.internal.mlkit_vision_digital_ink.yi nnVar = new nn();
         zza = nnVar;
         nn.m(yi.class, nnVar);
     }

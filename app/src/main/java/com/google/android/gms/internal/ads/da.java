@@ -296,7 +296,7 @@ public final class da implements n2 {
                     dp0 dp0Var2 = y9Var.f12815a;
                     int i22 = this.f5361o;
                     s6 s6Var = new s6(11);
-                    ?? obj = new Object();
+                    Object obj = new Object();
                     obj.f8634u = i22;
                     obj.f8635v = dp0Var2;
                     obj.f8636w = new xk0();
