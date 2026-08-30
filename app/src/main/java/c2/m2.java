@@ -1,5 +1,5 @@
 package c2;
-import j2.j;
+import n.j;
 import j2.n;
 import n.k;
 import n.x;

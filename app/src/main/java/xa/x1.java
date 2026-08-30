@@ -1,6 +1,5 @@
 package xa;
 import g2.a;
-import p.a;
 import q.x;
 
 import java.lang.reflect.Constructor;

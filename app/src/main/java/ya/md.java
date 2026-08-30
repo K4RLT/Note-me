@@ -1,5 +1,5 @@
 package ya;
-import j6.n;
+import x.n;
 import q.x;
 import r0.m;
 import u7.u2;

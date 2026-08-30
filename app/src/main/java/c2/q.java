@@ -1,7 +1,6 @@
 package c2;
 import g1.b;
 import j1.e;
-import q.b;
 import y2.d;
 
 import android.content.res.Resources;

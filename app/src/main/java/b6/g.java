@@ -3,7 +3,6 @@ import c.h;
 import c.o;
 import f.a;
 import p.e;
-import q.a;
 
 import android.app.ActivityManager;
 import android.app.ApplicationExitInfo;

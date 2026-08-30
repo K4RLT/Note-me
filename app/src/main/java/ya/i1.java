@@ -1,11 +1,9 @@
 package ya;
-import a1.a;
+import a.a;
 import i2.f;
 import jf.b;
 import n2.d;
 import n2.h;
-import o2.d;
-import s2.a;
 
 import android.graphics.RectF;
 import android.text.Layout;

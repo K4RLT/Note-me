@@ -1,5 +1,5 @@
 package ya;
-import g5.a;
+import d0.a;
 import pe.j;
 import qe.s;
 import ya.d0;

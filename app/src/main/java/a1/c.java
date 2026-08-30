@@ -1,6 +1,5 @@
 package a1;
 import l.d;
-import q.d;
 
 import android.content.Context;
 import android.os.Bundle;

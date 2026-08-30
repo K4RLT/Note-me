@@ -1,4 +1,5 @@
 package com.google.android.gms.internal.ads;
+import s9.p;
 
 /* loaded from: classes.dex */
 public final /* synthetic */ class xq0 implements Runnable {

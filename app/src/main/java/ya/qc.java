@@ -1,6 +1,5 @@
 package ya;
 import g3.a;
-import p.a;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
