@@ -94,8 +94,28 @@ dependencies {
     implementation("androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05")
     implementation("androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05")
 
-    // Google Play Services Ads
+    // Google Play Services & Play Core
     implementation("com.google.android.gms:play-services-ads:23.5.0")
+    implementation("com.google.android.gms:play-services-base:18.5.0")
+    implementation("com.google.android.gms:play-services-basement:18.5.0")
+    implementation("com.google.android.gms:play-services-tasks:18.2.0")
+    implementation("com.google.android.gms:play-services-appset:16.0.1")
+    implementation("com.google.android.gms:play-services-location:19.0.0")
+    implementation("com.google.android.play:review:2.0.2")
+    implementation("com.google.android.play:review-ktx:2.0.2")
+    implementation("com.google.android.play:app-update:2.1.0")
+    implementation("com.google.android.play:app-update-ktx:2.1.0")
+    implementation("com.google.android.play:asset-delivery:2.2.1")
+    implementation("com.google.android.play:asset-delivery-ktx:2.2.1")
+    implementation("com.google.android.ump:user-messaging-platform:4.0.0")
+    implementation("com.android.billingclient:billing:7.1.1")
+
+    // Firebase
+    implementation("com.google.firebase:firebase-analytics:22.0.2")
+
+    // Guava & ErrorProne
+    implementation("com.google.guava:guava:33.3.1-android")
+    implementation("com.google.errorprone:error_prone_annotations:2.27.0")
 
     // Kotlin & Coroutines
     implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.0")
